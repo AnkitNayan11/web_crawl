@@ -1,0 +1,7 @@
+{
+  "input_folder": "/Users/ankitnayan/Downloads/final_web_v1/web_crawl/output/scraped_files_txt/",
+  "output_json_path": "/Users/ankitnayan/Downloads/final_web_v1/web_crawl/output/cleaned_review/cleaned_reviews.json",
+  "model": "gpt-4.1",
+  "temperature": 0.3,
+  "max_tokens": 10000
+}
