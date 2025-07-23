@@ -99,9 +99,10 @@ def write_markdown_content(content, file_path):
     with open(file_path, 'w', encoding='utf-8') as f:
         f.write(content)
 
-async def amazon_navigation_async(url, email, password):
+async def amazon_navigation_async(url, email, password,product):
+    print(f'with login :{email}  , password : {password}')
     async with async_playwright() as p:
-        browser = await p.firefox.launch(headless=False)
+        browser = await p.chromium.launch(headless=False)
         context = await browser.new_context()
         page = await context.new_page()
 
@@ -124,7 +125,7 @@ async def amazon_navigation_async(url, email, password):
         await page.wait_for_selector('#nav-link-accountList-nav-line-1', timeout=10000)
         print("Logged in as:", await page.inner_text('#nav-link-accountList-nav-line-1'))
 
-        await page.fill('input#twotabsearchtextbox', 'iphone')
+        await page.fill('input#twotabsearchtextbox', product)
         await page.click('input#nav-search-submit-button')
         await asyncio.sleep(4)
         anchors = await page.query_selector_all('a.a-link-normal.s-line-clamp-2.s-line-clamp-3-for-col-12.s-link-style.a-text-normal')
@@ -132,7 +133,7 @@ async def amazon_navigation_async(url, email, password):
         hrefs = [await a.get_attribute('href') for a in anchors]
         all_prodLinks = []
         product_count = 1
-        for link in hrefs:
+        for link in hrefs[:5]:
             product_complete_link = f"{url}{link}"
             all_prodLinks.append(product_complete_link)
             product_page = await context.new_page()
@@ -157,7 +158,7 @@ async def amazon_navigation_async(url, email, password):
                 review_html = await review_page.content()
                 md_result = md_generator.generate_markdown(input_html=review_html)
                 markdown_content = md_result.markdown_with_citations
-                path = f'product:{product_count}_review:{review_count}_review_page.md'
+                path = f'webscraper_result/product:{product_count}_review:{review_count}_review_page.md'
                 write_markdown_content(markdown_content, path)
             
                 next_button =  review_page.locator(selector='li.a-last',has_text='next page')
@@ -179,112 +180,6 @@ async def amazon_navigation_async(url, email, password):
             time.sleep(3)
             await product_page.close()
 
-        # product_page = await context.new_page()
-        # await product_page.goto(all_prodLinks[0])
-        # await asyncio.sleep(4)
-        # # Save product page HTML
-        # product_html = await product_page.content()
-        # write_html_to_file(product_html, 'product_page.html')
-        
-        # # await product_page.wait_for_selector('a[data-hook="see-all-reviews-link-foot"]')
-        # # await product_page.wait_for_load_state('domcontentloaded')
-        # # await product_page.click('a[data-hook="see-all-reviews-link-foot"]')
-        # # await product_page.click('a.a-link-emphasis.a-text-bold')
-        # # # await page.wait_for_selector('a.a-link-emphasis.a-text-bold', state='attached', timeout=10000)
-        # all_review_anchor = await product_page.query_selector_all('a.a-link-emphasis.a-text-bold')
-
-        # print("Logged in as:", await page.inner_text('#nav-link-accountList-nav-line-1'))
-        # review_final_links = [await a.get_attribute('href') for a in all_review_anchor]
-        # ff_review_links = []
-        # await asyncio.sleep(5)
-        # for link in review_final_links:
-        #     complete_link = f"{url}{link}"
-        #     ff_review_links.append(complete_link)
-        #     print(complete_link)
-        #     print("*************")
-
-
-        # for link in ff_review_links:
-        #     review_page = await context.new_page()
-        #     await review_page.goto(link)
-        #     await asyncio.sleep(2)
-
-        #     loop_true = True
-        #     while loop_true:
-        #         time.sleep(4)
-        #         next_button =  review_page.locator(selector='li.a-last',has_text='next page')
-        #         next_button_disabled = review_page.locator(selector='li.a-disabled.a-last',has_text='next page')
-                
-        #         bb_count = await next_button.count()
-        #         disabled_next_btn_count = await next_button_disabled.count()
-
-        #         if(bb_count > 0 and disabled_next_btn_count == 0): 
-        #             print(next_button)
-        #             await review_page.click('li.a-last')
-        #         else:
-        #             loop_true=False
-            
-        #         print(f'scanned all reviews for link : {link} ')
-        #     review_page.close()
-
-            # counter = 3
-            # while counter > 0:
-            #     next_button1 = review_page.locator(selector='li.a-last',has_text='next page')
-            #     btn_counts = await next_button1.count()
-            #     print(f'{next_button1} , btn_counts : {btn_counts}')
-
-
-
-            #     next_button2 = review_page.locator(selector='a',has_text='next page')
-            #     btn_counts2 = await next_button2.count()
-            #     print(f'{next_button2} , btn_counts : {btn_counts2}')
-
-
-            #     await review_page.click('li.a-last')
-            #     counter -= 1
-            #     time.sleep(10)
-
-
-            # buttons_pagination_section = await review_page.query_selector('ul.a-pagination')
-            # button  = await buttons_pagination_section.query_selector_all('li')
-            
-            # if list size is 1 then this is the last page.
-            
-            # nav = await review_page.query_selector('ul.a-pagination')
-            # nav_button = await nav.query_selector_all('li')
-            # print(f'first nav next button : {nav_button}')
-            # await nav_button[0].click()
-            # time.sleep(5)
-            # print('clicking on the next link ')
-            # nav = await review_page.query_selector('ul.a-pagination')
-            # nav_button = await nav.query_selector_all('li')
-            # print(f'second nav next button : {nav_button}')
-            # await nav_button[1].click()
-
-            # while(len(nav_button) >= 2):
-
-                
-
-            #     next_page = await button[0].click()
-
-            # print(f'previous_page : {previous_page} , next_page : {next_page_anchor.text_content} ')
-
-            # time.sleep(1000)
-            # Save review page HTML
-            # review_html = await review_page.content()
-
-            # md_generator = DefaultMarkdownGenerator()
-
-            # Generate markdown from the HTML
-            # md_result = md_generator.generate_markdown(input_html=review_html)
-
-            # Access the markdown outputs
-            # print("Raw Markdown:\n", md_result.raw_markdown)
-            # print("Markdown with Citations:\n", md_result.markdown_with_citations)
-            # print("References Markdown:\n", md_result.references_markdown)
-            # print("Fit Markdown (if filter used):\n", md_result.fit_markdown)
-
-            # write_html_to_file(review_html, 'review_page.html')
         await browser.close()
     return
 
@@ -591,7 +486,7 @@ if __name__ == "__main__":
 
     #algorithm
     browser_cookies_filePath = '.env_temp_browser_cookies'
-    creds_filepath = '.env'
+    creds_filepath = '.creds_env'
     url = 'https://amazon.in'
     # cookies = get_amazon_cookies(browser_cookies_filepath=browser_cookies_filePath,creds_file_path=creds_filepath)
     # print(cookies)
@@ -600,8 +495,10 @@ if __name__ == "__main__":
     load_dotenv(dotenv_path=creds_filepath)
     email = os.getenv('AMAZON_EMAIL')
     password = os.getenv('AMAZON_PASSWORD')
+    product = input('Enter the prodct!')
+    print(product)
 
-    asyncio.run(amazon_navigation_async(url=url,email=email,password=password))
+    asyncio.run(amazon_navigation_async(url=url,email=email,password=password,product=product))
     # asyncio.run(amazon_navigation_crawl4ai("https://www.amazon.in/", "your_email", "your_password"))
     # cookies = amazon_cookies_handler()
     # print(cookies)
