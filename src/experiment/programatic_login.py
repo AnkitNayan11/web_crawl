@@ -110,7 +110,7 @@ async def amazon_navigation_async(url, email, password,product):
         # signin_check = page.locator(selector= '', has_text='signin')
         # print(f'print signin locator : {signin_check}')
         # write_html_to_file(landing_page, 'landing_page.html')
-        time.sleep(1)
+        time.sleep(4)
         await asyncio.sleep(2)
         await page.click('#nav-link-accountList')
         await asyncio.sleep(5)
@@ -127,13 +127,14 @@ async def amazon_navigation_async(url, email, password,product):
 
         await page.fill('input#twotabsearchtextbox', product)
         await page.click('input#nav-search-submit-button')
-        await asyncio.sleep(2)
+        await asyncio.sleep(20)
         anchors = await page.query_selector_all('a.a-link-normal.s-line-clamp-2.s-line-clamp-3-for-col-12.s-link-style.a-text-normal')
         
         hrefs = [await a.get_attribute('href') for a in anchors]
         all_prodLinks = []
         product_count = 1
-        for link in hrefs[:3]:
+    
+        for link in hrefs[:5]:
             product_complete_link = f"{url}{link}"
             all_prodLinks.append(product_complete_link)
             product_page = await context.new_page()
@@ -164,7 +165,7 @@ async def amazon_navigation_async(url, email, password,product):
                 review_html = await review_page.content()
                 md_result = md_generator.generate_markdown(input_html=review_html)
                 markdown_content = md_result.markdown_with_citations
-                path = f'output/scraped_files/product:{product_count}_review:{review_count}_review_page.md'
+                path = f'output/scraped_file:{product_count}_review:{review_count}_review_page.md'
                 write_markdown_content(markdown_content, path)
 
                 next_button =  review_page.locator(selector='li.a-last',has_text='next page')
@@ -179,6 +180,7 @@ async def amazon_navigation_async(url, email, password,product):
                     loop_true=False
 
                 review_count += 1
+
             print(f'scanned all reviews for link : {link} ')
             await review_page.close()
             product_count += 1
@@ -196,47 +198,6 @@ async def amazon_navigation_async(url, email, password,product):
 #         md_result = md_generator.generate_markdown(input_html=html)
 #         write_html_to_file(md_result,)
 
-
-def amazon_login(email, password):
-    final_cookies = ""
-
-    with sync_playwright() as p:
-        browser = p.chromium.launch(headless=False)  # Headless=False to see the browser
-        context = browser.new_context()
-        page = browser.new_page()
-
-        # Go to Amazon homepage
-        page.goto("https://www.amazon.in/")
-
-        time.sleep(10)
-        # Click the "Hello, Sign in" link
-        page.click('#nav-link-accountList')
-        
-
-        # Wait and fill login
-        time.sleep(10)
-        page.fill('input[name="email"]', email)
-        # Click the "Continue" button by input element
-        page.click('input[type="submit"][aria-labelledby="continue-announce"]')
-        time.sleep(5)
-
-        # Fill password
-        page.fill('input[name="password"]', password)
-        page.click('input#signInSubmit')
-        time.sleep(6)
-
-        # Optional: Wait for successful login indicator
-        page.wait_for_selector('#nav-link-accountList-nav-line-1', timeout=10000)
-        print("Logged in as:", page.inner_text('#nav-link-accountList-nav-line-1'))
-
-        # Get document.cookie from the page
-        cookies = page.evaluate("() => document.cookie")
-        final_cookies = cookies
-        print("document.cookie:", cookies)
-
-        time.sleep(5)
-        browser.close()
-    return final_cookies
 
 
 def parse_kv_string(s):
@@ -270,51 +231,6 @@ def read_env_json_file(file_name):
         print(f"Error decoding JSON in file: {file_name}")
         return None
 
-def surf_amazon(cookies):
-    # cookie_values = read_env_json_file(cookies_file_path)
-    # cookie_values = {
-    #     "session-id":"260-4147975-2194308",
-    #     "ubid-acbin":"262-8624452-5314833",
-    #     "csm-sid":"958-4817579-4573129",
-    #     "i18n-prefs":"INR",
-    #     "lc-acbin":"en_IN",
-    #     "session-token":"kWHSb2e0+JC0Xp1GRZQLehoak/plTg9p61bJXTzbyDDgczm+e0g52G4a7oAb+GbyH5EhoLr8/gkksJGmR9BHoc6ldFAe1Ot+8kfxI4B9QXs683wdr/aY3W1K90URVrHpHC+ZkIY64YgyrWyQCKSxHa0C3CiIAdub4Kh6CRfG+DzX8NGHmWmH7frpG64WLnAvhU7eRKJ+aY85N0rNTZRj+X/8Yt1mBgyoC2dCIK4Ttw2nZD8/n6uQrTb2UliqeOtNsgNFeqSWOug6P29vMSE6Gu0/JU7+dEfISgGnza7GBn0sWS3TimgbhNtB/lEaUbiMzXXTHcWiLWozxu10jrpPatvfAyCDnl1ogwGkr+RXRcrOgszRuBVOAEoZeV0EN0rF",
-    #     "x-acbin":"V5c8L?8jy?PvIj1Fsvlcj2X4sUBvwTq31xqy2SHVOJlHDY6UJEqJ0XT6CNbPhos7",
-    #     "session-id-time":"2082787201l",
-    #     "csm-hit":"tb:M9PGPFTA9AW79CB6BSTR+s-M9PGPFTA9AW79CB6BSTR|1751975858228&t:1751975858228&adb:adblk_no",
-    #     "rxc":"AItxZ1DbuZg+2qM2Blg"
-    # }
-
-    with sync_playwright() as p:
-        browser = p.chromium.launch(headless=False)
-        context = browser.new_context()
-
-        # Prepare cookies list
-        cookies = [{
-            "name": name,
-            "value": value,
-            "domain": ".amazon.in",     # Replace with correct domain if different
-            "path": "/",
-            "httpOnly": True,
-            "secure": True,
-            "sameSite": "Lax"
-        } for name, value in cookies.items()]
-
-        # Set cookies
-        context.add_cookies(cookies)
-        time.sleep(5)        
-
-        page = context.new_page()
-        page.goto("https://www.amazon.in/")
-        time.sleep(15)
-
-
-        print("All specified cookies have been set.")
-
-        # Keep the browser open briefly
-        page.wait_for_timeout(10000)  # 10 seconds
-        browser.close()
-
 import asyncio
 from playwright.sync_api import sync_playwright
 
@@ -347,7 +263,7 @@ def check_login_status(cookies):
             greeting_text = page.inner_text("#nav-link-accountList-nav-line-1")
 
             if "sign in" in greeting_text.lower():
-                print(" Not logged in")
+                print("Not logged in")
                 login_status = False
             else:
                 print(f" Logged in as: {greeting_text}")
@@ -500,7 +416,7 @@ if __name__ == "__main__":
     load_dotenv(dotenv_path=creds_filepath)
     email = os.getenv('AMAZON_EMAIL')
     password = os.getenv('AMAZON_PASSWORD')
-    product = input('Enter the prodct!')
+    product = input('Enter the prodct!\n')
     print(product)
 
     asyncio.run(amazon_navigation_async(url=url,email=email,password=password,product=product))
