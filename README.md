@@ -1,4 +1,4 @@
-# Intelligent Web Scarpping using LLM
+# Intelligent Web Scraping using LLM
 
 This project is designed to scrape, convert, and clean product reviews using Python, Playwright, and OpenAI tools.
 
