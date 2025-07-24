@@ -1,8 +1,8 @@
 import os
 from openai import OpenAI
 
-from ...utils.config_reader import read_config
-from ...utils.openai_cleaner import extract_reviews
+from utils.config_reader import read_config
+from utils.openai_cleaner import extract_reviews
 
 
 def run_review_cleaning_process():
