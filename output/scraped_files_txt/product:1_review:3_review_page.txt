@@ -1,4 +1,4 @@
-Amazon.in:Customer reviews: Samsung Galaxy M36 5G (Orange Haze, 6 GB RAM, 128 GB Storage)| Circle to Search| Google Gemini| Corning Gorilla Glass Victus+| 7.7mm Slim| AI Enhanced 50 MP OIS Triple Camera| Unmatched Nightography
+Amazon.in:Customer reviews: ASUS TUF Gaming A15, AMD Ryzen 7 7435HS Gaming Laptop(NVIDIA RTX 3050-4GB/60W TGP/16GB RAM/512GB SSD/FHD/15.6&#34;/144Hz/RGB KB/48WHr/Windows 11//Graphite Black/2.30 Kg) FA506NCR-HN054W
 ![](https://m.media-amazon.com/images/G/31/gno/sprites/nav-sprite-global-1x-reorg-privacy._CB546381437_.png)
 ## Skip to
   *  Main content ⟨1⟩
@@ -70,12 +70,12 @@ Your Account
   * Ankit's Amazon.in⟨44⟩
   * Customer Service⟨45⟩
   * Subscribe & Save⟨46⟩
-  * Home & Kitchen⟨47⟩
-  * New Releases⟨48⟩
+  * New Releases⟨47⟩
+  * Home & Kitchen⟨48⟩
   * Grocery & Gourmet Foods⟨49⟩
   * Prime ⟨50⟩
-  * Audible⟨51⟩
-  * Toys & Games⟨52⟩
+  * Toys & Games⟨51⟩
+  * Audible⟨52⟩
   * Fashion⟨53⟩
   * Mobiles⟨54⟩
   *  Electronics ⟨55⟩
@@ -246,7 +246,7 @@ __Add to Cart
 
 
 # 
-  * Samsung Galaxy M36 5G (Orange Haze, 6 GB RAM, 128 GB Storage)| Circle...⟨86⟩
+  * ASUS TUF Gaming A15, AMD Ryzen 7 7435HS Gaming Laptop(NVIDIA RTX...⟨86⟩
   * ›
   * Customer reviews
 
@@ -254,19 +254,18 @@ __Add to Cart
 ## Customer reviews
  _3.8 out of 5 stars_
 3.8 out of 5
-293 global ratings
-  *  5 star  4 star  3 star  2 star  1 star  5 star  58%  11%  8%  3%  20%  58%  ⟨87⟩
-  *  5 star  4 star  3 star  2 star  1 star  4 star  58%  11%  8%  3%  20%  11%  ⟨88⟩
-  *  5 star  4 star  3 star  2 star  1 star  3 star  58%  11%  8%  3%  20%  8%  ⟨89⟩
-  *  5 star  4 star  3 star  2 star  1 star  2 star  58%  11%  8%  3%  20%  3%  ⟨90⟩
-  *  5 star  4 star  3 star  2 star  1 star  1 star  58%  11%  8%  3%  20%  20%  ⟨91⟩
+380 global ratings
+  *  5 star  4 star  3 star  2 star  1 star  5 star  48%  26%  8%  2%  16%  48%  ⟨87⟩
+  *  5 star  4 star  3 star  2 star  1 star  4 star  48%  26%  8%  2%  16%  26%  ⟨88⟩
+  *  5 star  4 star  3 star  2 star  1 star  3 star  48%  26%  8%  2%  16%  8%  ⟨89⟩
+  *  5 star  4 star  3 star  2 star  1 star  2 star  48%  26%  8%  2%  16%  2%  ⟨90⟩
+  *  5 star  4 star  3 star  2 star  1 star  1 star  48%  26%  8%  2%  16%  16%  ⟨91⟩
 
 
-![Samsung Galaxy M36 5G \(Orange Haze, 6 GB RAM, 128 GB Storage\)| Circle to Search| Google Gemini| Corning Gorilla Glass Victus+| 7.7mm Slim| AI Enhanced 50 MP OIS Triple Camera| Unmatched Nightography⟨92⟩](/Samsung-Storage-Enhanced-Unmatched-Nightography/dp/B0FDB765TN/ref=cm_cr_arp_d_pdt_img_top?ie=UTF8)
-# Samsung Galaxy M36 5G (Orange Haze, 6 GB RAM, 128 GB Storage)| Circle to Search| Google Gemini| Corning Gorilla Glass Victus+| 7.7mm Slim| AI Enhanced 50 MP OIS Triple Camera| Unmatched Nightography⟨93⟩
-bySamsung⟨94⟩
-  * Colour: Orange Haze __
-  * Size: 6GB + 128GB
+![ASUS TUF Gaming A15, AMD Ryzen 7 7435HS Gaming Laptop\(NVIDIA RTX 3050-4GB/60W TGP/16GB RAM/512GB SSD/FHD/15.6&#34;/144Hz/RGB KB/48WHr/Windows 11//Graphite Black/2.30 Kg\) FA506NCR-HN054W⟨92⟩](/ASUS-15-6-inch-GeForce-Graphite-FA506NCR-HN054W/dp/B0D5DFR78J/ref=cm_cr_arp_d_pdt_img_top?ie=UTF8)
+# ASUS TUF Gaming A15, AMD Ryzen 7 7435HS Gaming Laptop(NVIDIA RTX 3050-4GB/60W TGP/16GB RAM/512GB SSD/FHD/15.6"/144Hz/RGB KB/48WHr/Windows 11//Graphite Black/2.30 Kg) FA506NCR-HN054W⟨93⟩
+byASUS⟨94⟩
+  * Colour: Black, R7 | RTX 3050
   * __Change⟨93⟩
 
 
@@ -285,19 +284,19 @@ Sort by reviews type Top reviewsMost recentTop reviews __
 ### Filter by
 Filter by reviewer type All reviewersVerified purchase onlyAll reviewers __
 Filter by star count All stars5 star only4 star only3 star only2 star only1 star onlyPositive reviewsCritical reviewsAll stars __
-Filter by variant type All variantsColour: Orange Haze |Size: 6GB + 128GBAll variants __
+Filter by variant type All variantsColour: Black, R7 | RTX 3050All variants __
 Filter by media type All text, image and video reviewsImage and video reviews onlyAll text, image and video reviews __
-185 customer reviews 
+163 customer reviews 
 * * *
 #### There was a problem filtering reviews. Please reload the page.
 __
 ###  From India 
-  * ![⟨97⟩![](https://images-eu.ssl-images-amazon.com/images/S/amazon-avatars-global/default._CR0,0,1024,1024_SX48_.png)Mahesh](/gp/profile/amzn1.account.AE3DSROWZMCD6M5S5N2TKGDEL3XA/ref=cm_cr_getr_d_gw_btm?ie=UTF8)
-#####  _4.0 out of 5 stars_ Battery could be 6000mah ⟨98⟩
-Reviewed in India on 14 July 2025
-Colour: Orange Haze __Size: 6GB + 128GB⟨99⟩ __Verified Purchase⟨100⟩
-Battery isn't upto the mark. Sleek, stylish, decent camera, VFM of course.
-2 people found this helpful
+  * ![⟨97⟩![](https://images-eu.ssl-images-amazon.com/images/S/amazon-avatars-global/default._CR0,0,1024,1024_SX48_.png)shriniket shiudkar](/gp/profile/amzn1.account.AGYOG3KXIBMBRBZKUVHXI7DY34IQ/ref=cm_cr_getr_d_gw_btm?ie=UTF8)
+#####  _4.0 out of 5 stars_ Best for gaming ⟨98⟩
+Reviewed in India on 14 May 2025
+Colour: Black, R7 | RTX 3050⟨99⟩ __Verified Purchase⟨100⟩
+Best for gaming💯
+One person found this helpful
 Helpful
 Sending feedback...
 __
@@ -309,12 +308,11 @@ Showing 0 comments
 #### There was a problem loading comments right now. Please try again later.
 __
 * * *
-  * ![⟨97⟩![](https://images-eu.ssl-images-amazon.com/images/S/amazon-avatars-global/default._CR0,0,1024,1024_SX48_.png) Amazon Customer](/gp/profile/amzn1.account.AHP53RMFDUKXZQ5GDPYKACE2SAMQ/ref=cm_cr_getr_d_gw_btm?ie=UTF8)
-#####  _4.0 out of 5 stars_ Product comes with c to c cable only ⟨102⟩
-Reviewed in India on 15 July 2025
-Colour: Velvet Black __Size: 8GB + 128GB⟨103⟩ __Verified Purchase⟨100⟩
-Product comes with only c to c cable
-One person found this helpful
+  * ![⟨97⟩![](https://images-eu.ssl-images-amazon.com/images/S/amazon-avatars-global/default._CR0,0,1024,1024_SX48_.png) BHUMIKA S](/gp/profile/amzn1.account.AFMJQB6766TB5WPO3Y3BHU3TG6SQ/ref=cm_cr_getr_d_gw_btm?ie=UTF8)
+#####  _5.0 out of 5 stars_ High Performance ⟨102⟩
+Reviewed in India on 9 July 2025
+Colour: Graphite Black, R7 | RTX 2050 | MSO⟨103⟩ __Verified Purchase⟨100⟩
+The product is really good, the battery issue can be solved by few setups in your laptop. Of course it's a gaming laptop don't expect much charge over the performance. Heating is fine, I think it's the best laptop to go forward with this money. Laptop is very heavy and screen is bigger. It's a great buy.
 Helpful
 Sending feedback...
 __
@@ -326,28 +324,54 @@ Showing 0 comments
 #### There was a problem loading comments right now. Please try again later.
 __
 * * *
-  * ![⟨97⟩![](https://images-eu.ssl-images-amazon.com/images/S/amazon-avatars-global/default._CR0,0,1024,1024_SX48_.png) Priya Textiles](/gp/profile/amzn1.account.AERQHCJNLF5CWK63G4CSN62UKE3Q/ref=cm_cr_getr_d_gw_btm?ie=UTF8)
-#####  _4.0 out of 5 stars_ Its overall 8* out of 10 ⟨105⟩
-Reviewed in India on 16 July 2025
-Colour: Velvet Black __Size: 6GB + 128GB⟨106⟩ __Verified Purchase⟨100⟩
-Its actually a good phone.
+  * ![⟨105⟩![](https://images-eu.ssl-images-amazon.com/images/S/amazon-avatars-global/49db9df7-3729-4005-9f72-4746c111b648._CR0,0,500,500_SX48_.jpg) Pratik saha](/gp/profile/amzn1.account.AES2LGZHZPRD3MWXLHSPUN35UNAQ/ref=cm_cr_getr_d_gw_btm?ie=UTF8)
+#####  _5.0 out of 5 stars_ Value for money.. ⟨106⟩
+Reviewed in India on 11 July 2025
+Colour: Graphite Black, R7 | RTX 2050⟨107⟩ __Verified Purchase⟨100⟩
+I got it at 52k approx for that it's totally value for money . It heats after heavy gaming session not doubt about it . display is good and bright . If you want gaming laptop you should go for it ...
 Helpful
 Sending feedback...
 __
 Thank you for your feedback.
 __
 Sorry, we failed to record your vote. Please try again
-__Report⟨107⟩
+__Report⟨108⟩
 Showing 0 comments
 #### There was a problem loading comments right now. Please try again later.
 __
 * * *
-  * ![⟨97⟩![](https://images-eu.ssl-images-amazon.com/images/S/amazon-avatars-global/default._CR0,0,1024,1024_SX48_.png) K. Chandra Shekhar](/gp/profile/amzn1.account.AFKQ45KFLS7W4X4AG4UKQVPR4APA/ref=cm_cr_getr_d_gw_btm?ie=UTF8)
-#####  _3.0 out of 5 stars_ Good phone for basic use, WhatsApp, browsing etc. ⟨108⟩
-Reviewed in India on 16 July 2025
-Colour: Orange Haze __Size: 8GB + 128GB⟨109⟩ __Verified Purchase⟨100⟩
-Bought it as soon as launched. Good phone on budget. Could have been better but given the price, company decided.. 'itne paise main itnaich milega'. Good camera. Is the only good thing i can think about. Case is plastic make Light weight, phone hangs a lot even with 8GB RAM + 128GB Storage. Cant play music loud the phone vibrates. Could have provided a bavk covwr with the phone which would be helpful, one' s i ordered doesn't have the precision cuts for the buttons.
-One person found this helpful
+  * ![⟨97⟩![](https://images-eu.ssl-images-amazon.com/images/S/amazon-avatars-global/default._CR0,0,1024,1024_SX48_.png) Placeholder](/gp/profile/amzn1.account.AFLLCWFU2YQLULCCHHMN3QCQMH3A/ref=cm_cr_getr_d_gw_btm?ie=UTF8)
+#####  _4.0 out of 5 stars_ Asus TUF A15 ⟨109⟩
+Reviewed in India on 6 April 2025
+Colour: Black, R7 | RTX 3050⟨99⟩ __Verified Purchase⟨100⟩
+__⟨69⟩)
+The video showcases the product in use. The video guides you through product setup.The video compares multiple products.The video shows the product being unpacked.
+Video Player is loading.
+Click to play video
+Play
+Mute
+Current Time 0:00
+/
+Duration 0:00
+Loaded: 0%
+Stream Type LIVE
+Seek to live, currently behind liveLIVE
+Remaining Time -0:00
+ 
+1x
+Playback Rate
+Chapters
+    * Chapters
+Descriptions
+    * descriptions off, selected
+Captions
+    * captions off, selected
+Audio Track
+Fullscreen
+This is a modal window.
+No compatible source was found for this media.
+It's best in gaming and the build quality is very TUF ,but the battery backup is ok ok and there are some minor glitches in laptop but it works properly,and the fan creates some noise on turbo mode while gaming on ultra settings, overall it's a good laptop if you ignore tha battery backup
+15 people found this helpful
 Helpful
 Sending feedback...
 __
@@ -359,16 +383,11 @@ Showing 0 comments
 #### There was a problem loading comments right now. Please try again later.
 __
 * * *
-  * ![⟨111⟩![](https://images-eu.ssl-images-amazon.com/images/S/amazon-avatars-global/20315e31-472e-4b4f-b4c4-7263ff4d6e97._CR0,26,281,281_SX48_.jpg) Sujit](/gp/profile/amzn1.account.AGOV3FPWZYFJEEJCPU2LHWFHW3MQ/ref=cm_cr_getr_d_gw_btm?ie=UTF8)
-#####  _4.0 out of 5 stars_ Overall a good phone ⟨112⟩
-Reviewed in India on 14 July 2025
-Colour: Orange Haze __Size: 6GB + 128GB⟨99⟩ __Verified Purchase⟨100⟩
-Good display  
-Easy setup  
-Fast  
-Excellent camera  
-AI features  
-Back panel looks flimsy
+  * ![⟨111⟩![](https://images-eu.ssl-images-amazon.com/images/S/amazon-avatars-global/default._CR0,0,1024,1024_SX48_.png) Shashank](/gp/profile/amzn1.account.AESAWF6ZT2JRXAZDEKM3WU4BGHHQ/ref=cm_cr_getr_d_gw_btm?ie=UTF8)
+#####  _3.0 out of 5 stars_ Product is good ⟨112⟩
+Reviewed in India on 10 May 2025
+Colour: Graphite Black, R7 | RTX 2050⟨107⟩ __Verified Purchase⟨100⟩
+Performance wise it's excellent, works great not getting much heat, Display quality is also good, but if anyone searching for good webcam laptop not recommended and the build is complete plastic so thin, if have rough maintenance habbit not recommended
 One person found this helpful
 Helpful
 Sending feedback...
@@ -381,107 +400,94 @@ Showing 0 comments
 #### There was a problem loading comments right now. Please try again later.
 __
 * * *
-  * ![⟨114⟩![](https://images-eu.ssl-images-amazon.com/images/S/amazon-avatars-global/default._CR0,0,1024,1024_SX48_.png) CBP](/gp/profile/amzn1.account.AF72ZCKOWH4P3OT2WT67WEAJMCFA/ref=cm_cr_getr_d_gw_btm?ie=UTF8)
-#####  _3.0 out of 5 stars_ Battery drains too fast and heats quickly ⟨115⟩
-Reviewed in India on 16 July 2025
-Colour: Serene Green __Size: 6GB + 128GB⟨116⟩ __Verified Purchase⟨100⟩
-I took this phone on 14th July and I noticed that after 2 to 3 days the battery is draining too fast like it is working only for 1 day and this phone heats a lot. Overall this phone is good quality and has nice features. Samsung should improve the battery quality of this phone so that it will lasts for 2 days maximum.
-One person found this helpful
+  * ![⟨111⟩![](https://images-eu.ssl-images-amazon.com/images/S/amazon-avatars-global/default._CR0,0,1024,1024_SX48_.png) Vijay D.](/gp/profile/amzn1.account.AHSXLPVMXHR44WRINCOICLX3XHEA/ref=cm_cr_getr_d_gw_btm?ie=UTF8)
+##### _5.0 out of 5 stars_ Satisfied ⟨114⟩
+Reviewed in India on 13 July 2025
+Colour: Graphite Black, R7 | RTX 2050⟨107⟩ __Verified Purchase⟨100⟩
+satisfied....i am getting min 2.5 hours of battery with reduced brightness while watching media otherwise more than 3 hours
 Helpful
 Sending feedback...
 __
 Thank you for your feedback.
 __
 Sorry, we failed to record your vote. Please try again
-__Report⟨117⟩
+__Report⟨115⟩
 Showing 0 comments
 #### There was a problem loading comments right now. Please try again later.
 __
 * * *
-  * ![⟨114⟩![](https://images-eu.ssl-images-amazon.com/images/S/amazon-avatars-global/default._CR0,0,1024,1024_SX48_.png) Hamsa](/gp/profile/amzn1.account.AGCSFN4QLS26MLBFH6WQLYU2CZWQ/ref=cm_cr_getr_d_gw_btm?ie=UTF8)
-#####  _3.0 out of 5 stars_ Averge ⟨118⟩
-Reviewed in India on 20 July 2025
-Colour: Velvet Black __Size: 8GB + 128GB⟨103⟩ __Verified Purchase⟨100⟩
-The phone specs are good but its over priced. The back panel is vibrting to the sound coming from speaker. And the performance is good. Overall a decent phone if you are looking for budget but its not worth of 18,000 recommend if <= 16,000 in sale
+  * ![⟨111⟩![](https://images-eu.ssl-images-amazon.com/images/S/amazon-avatars-global/default._CR0,0,1024,1024_SX48_.png) Placeholder](/gp/profile/amzn1.account.AHACOULYJVNPWKGO7HAV556USVOA/ref=cm_cr_getr_d_gw_btm?ie=UTF8)
+#####  _5.0 out of 5 stars_ Nice Laptop ⟨116⟩
+Reviewed in India on 22 July 2025
+Colour: Black R7 | RTX 3050 - 1TB⟨117⟩ __Verified Purchase⟨100⟩
+Good Quality product
 Helpful
 Sending feedback...
 __
 Thank you for your feedback.
 __
 Sorry, we failed to record your vote. Please try again
-__Report⟨119⟩
+__Report⟨118⟩
 Showing 0 comments
 #### There was a problem loading comments right now. Please try again later.
 __
 * * *
-  * ![⟨114⟩![](https://images-eu.ssl-images-amazon.com/images/S/amazon-avatars-global/default._CR0,0,1024,1024_SX48_.png) jitender puri](/gp/profile/amzn1.account.AFOAHLM6ITW46JG3V5VR7LMMVFAA/ref=cm_cr_getr_d_gw_btm?ie=UTF8)
-#####  _3.0 out of 5 stars_ Updation required by samsung ⟨120⟩
-Reviewed in India on 21 July 2025
-Colour: Serene Green __Size: 6GB + 128GB⟨116⟩ __Verified Purchase⟨100⟩
-Camera not good..processor is not enough for multi tasking..battery is less compare to previous version M35..good thing is only software update. Other companies providing a plastic backcover but Samsung provide no charger and no backcover
-![Customer image⟨121⟩]
-![⟨97⟩![](https://images-eu.ssl-images-amazon.com/images/S/amazon-avatars-global/default._CR0,0,1024,1024_SX48_.png)jitender puri](/gp/profile/amzn1.account.AFOAHLM6ITW46JG3V5VR7LMMVFAA/ref=cm_cr_getr_d_gw_pop?ie=UTF8)
-_3.0 out of 5 stars_
-#####  Updation required by samsung 
-  
-Reviewed in India on 21 July 2025 
-Camera not good..processor is not enough for multi tasking..battery is less compare to previous version M35..good thing is only software update. Other companies providing a plastic backcover but Samsung provide no charger and no backcover 
-######  Images in this review 
-![Customer image 1⟨122⟩] ![Customer image 2⟨123⟩]
-![Customer image⟨122⟩__](javascript:void\(0\))![Customer image⟨123⟩__](javascript:void\(0\))
-2 people found this helpful
-Helpful
-Sending feedback...
-__
-Thank you for your feedback.
-__
-Sorry, we failed to record your vote. Please try again
-__Report⟨124⟩
-Showing 0 comments
-#### There was a problem loading comments right now. Please try again later.
-__
-* * *
-  * ![⟨114⟩![](https://images-eu.ssl-images-amazon.com/images/S/amazon-avatars-global/default._CR0,0,1024,1024_SX48_.png) Amazonconsumer](/gp/profile/amzn1.account.AESQA4425HLDZMFYSTKUSLTUYYIQ/ref=cm_cr_getr_d_gw_btm?ie=UTF8)
-#####  _3.0 out of 5 stars_ M36 Samsung ⟨125⟩
+  * ![⟨111⟩![](https://images-eu.ssl-images-amazon.com/images/S/amazon-avatars-global/89f27fdc-d851-4a1d-9433-f4e444ce7ba4._CR0,26,281,281_SX48_.jpg) Trivedi Vaibhav](/gp/profile/amzn1.account.AGJUKLUFNAHQ5PAG3XDD75T6CUBQ/ref=cm_cr_getr_d_gw_btm?ie=UTF8)
+#####  _5.0 out of 5 stars_ best experiance ⟨119⟩
 Reviewed in India on 14 July 2025
-Colour: Velvet Black __Size: 6GB + 128GB⟨106⟩ __Verified Purchase⟨100⟩
-Downgrade from m35. I have both m35 and m36  
-  
-Based on the usage this phone has smaller battery 5000 vs 6000 in m35, one speaker vs stereo in m35, tear drop display vs punch hole in m35  
-  
-Only upgrade is this one slimmer and looks better than m35.
-5 people found this helpful
+Colour: Black, R7 | RTX 3050⟨99⟩ __Verified Purchase⟨100⟩
+one of the best laptop for 2025 excellent work
 Helpful
 Sending feedback...
 __
 Thank you for your feedback.
 __
 Sorry, we failed to record your vote. Please try again
-__Report⟨126⟩
+__Report⟨120⟩
 Showing 0 comments
 #### There was a problem loading comments right now. Please try again later.
 __
 * * *
-  * ![⟨114⟩![](https://images-eu.ssl-images-amazon.com/images/S/amazon-avatars-global/default._CR0,0,1024,1024_SX48_.png) n b](/gp/profile/amzn1.account.AHDGYXZZUB5GPZW54SJFWA4MMKGQ/ref=cm_cr_getr_d_gw_btm?ie=UTF8)
-#####  _5.0 out of 5 stars_ Good phone in this price range ⟨127⟩
-Reviewed in India on 18 July 2025
-Colour: Orange Haze __Size: 6GB + 128GB⟨99⟩ __Verified Purchase⟨100⟩
-Good phone overall for 17.5K -  
-Display 3.5/5 (Not as vivid as my old nokia with puredisplay and that one was an lcd)  
-Speed/Processor 4/5  
-Battery 4/5  
-Software 3.5/5 (Too many unecessary Samsung apps - bloatware ? However the One UI depth is impressive and you get Samsung updates for many years).  
-Design 3.5 or maybe 4/5 Plastic back, ordinary design.  
-Camera 4/5  
-Price 4/5  
-Will i buy again ? Yes. At this price range there maybe be better configurations. But Samsung has a strong support and a mature ecosystem. I hope they reduce bloatware...they dont need it to sell their devices. A clean install with minimum Samsung apps will be so good.
+  * ![⟨111⟩![](https://images-eu.ssl-images-amazon.com/images/S/amazon-avatars-global/default._CR0,0,1024,1024_SX48_.png) Megha Pradhan](/gp/profile/amzn1.account.AFCSW6FRZPALDUQ4Y3E2I4RXP52Q/ref=cm_cr_getr_d_gw_btm?ie=UTF8)
+#####  _5.0 out of 5 stars_ Smoth working ⟨121⟩
+Reviewed in India on 16 July 2025
+Colour: Black R7 | RTX 3050 | MSO⟨122⟩ __Verified Purchase⟨100⟩
+Packaging was good and genuine.
+![Customer image⟨123⟩]
+![⟨97⟩![](https://images-eu.ssl-images-amazon.com/images/S/amazon-avatars-global/default._CR0,0,1024,1024_SX48_.png)Megha Pradhan](/gp/profile/amzn1.account.AFCSW6FRZPALDUQ4Y3E2I4RXP52Q/ref=cm_cr_getr_d_gw_pop?ie=UTF8)
+_5.0 out of 5 stars_
+#####  Smoth working 
+  
+Reviewed in India on 16 July 2025 
+Packaging was good and genuine. 
+######  Images in this review 
+![Customer image 1⟨124⟩]
+![Customer image⟨124⟩__](javascript:void\(0\))
 Helpful
 Sending feedback...
 __
 Thank you for your feedback.
 __
 Sorry, we failed to record your vote. Please try again
-__Report⟨128⟩
+__Report⟨125⟩
+Showing 0 comments
+#### There was a problem loading comments right now. Please try again later.
+__
+* * *
+  * ![⟨111⟩![](https://images-eu.ssl-images-amazon.com/images/S/amazon-avatars-global/default._CR0,0,1024,1024_SX48_.png) Soham Mhatre](/gp/profile/amzn1.account.AFHHOLT4AW6QYSVUW33FSC4QELJQ/ref=cm_cr_getr_d_gw_btm?ie=UTF8)
+#####  _5.0 out of 5 stars_ Steal deal at 60k ⟨126⟩
+Reviewed in India on 9 July 2025
+Colour: Black, R7 | RTX 3050⟨99⟩ __Verified Purchase⟨100⟩
+Best laptop i bought  
+  
+100% best deal if your budget is around 60k
+Helpful
+Sending feedback...
+__
+Thank you for your feedback.
+__
+Sorry, we failed to record your vote. Please try again
+__Report⟨127⟩
 Showing 0 comments
 #### There was a problem loading comments right now. Please try again later.
 __
@@ -489,90 +495,193 @@ __
 
 
 
-  *  ←Previous page⟨129⟩
-  * Next page→⟨130⟩
+  *  ←Previous page⟨128⟩
+  * Next page→⟨129⟩
 
 
 Sponsored ****
-Need customer service? ⟨131⟩
-‹ See all details for Samsung Galaxy M36 5G (Orange Haze, 6 GB RAM, 128 GB Storage)| Circle...⟨132⟩
+Need customer service? ⟨130⟩
+‹ See all details for ASUS TUF Gaming A15, AMD Ryzen 7 7435HS Gaming Laptop(NVIDIA RTX...⟨131⟩
   
 
-![](https://m.media-amazon.com/images/G/31/personalization/ybh/loading-4x-gray._CB485916689_.gif)  
----  
+## Explore more items
+Page 1 of 6 Start over⟨132⟩
+ _Previous set of slides_⟨132⟩
+  1. ![Kwality Muesli Crunchy Almonds, Raisins & Honey 900g Jar| 87% Multi Grains| Natural Source of Vitamin & Iron, High in Protein⟨133⟩](/Cholesterol-Free-Breakfast-Endorsed-Challengers-Bangalore/dp/B0DPFRDNND/ref=pd_rhf_cr_s_bmx_gp_d_sccl_1_1/257-8137438-8359168?pd_rd_w=AbJPt&content-id=amzn1.sym.35f1b9bc-e9a4-4d72-8834-da50e17d0f85&pf_rd_p=35f1b9bc-e9a4-4d72-8834-da50e17d0f85&pf_rd_r=H2SNDMYHQXZBAHNY219N&pd_rd_wg=wIhNf&pd_rd_r=e1496cd4-ec36-4dd8-93c3-92e6562721b5&pd_rd_i=B0DPFRDNND&psc=1)
+ Kwality Muesli Crunchy Almonds, Raisins & Honey 900g Jar| 87% Multi Grains| Natural Source of Vitamin & Iron, High in Protein & Fiber, Low Fat & Cholesterol-Free, Healthy Food & Breakfast Cereal⟨134⟩
+ _4.2 out of 5 stars_ 61⟨135⟩
+-50%⟨134⟩₹325.00₹325.00⟨134⟩ (₹361.11/kg)⟨134⟩
+M.R.P: ₹650.00⟨134⟩
+Get it by **Saturday, July 26**
+FREE Delivery by Amazon
+  2. ![Toffee Coffee Roasters | Ethiopia Speciality Instant Coffee With Free Mason Jar | As Seen On Shark Tank | 100 gm | 100% Arabi⟨136⟩](/Toffee-Coffee-Roasters-Speciality-Microground/dp/B0C8NBFLHS/ref=pd_rhf_cr_s_bmx_gp_d_sccl_1_2/257-8137438-8359168?pd_rd_w=AbJPt&content-id=amzn1.sym.35f1b9bc-e9a4-4d72-8834-da50e17d0f85&pf_rd_p=35f1b9bc-e9a4-4d72-8834-da50e17d0f85&pf_rd_r=H2SNDMYHQXZBAHNY219N&pd_rd_wg=wIhNf&pd_rd_r=e1496cd4-ec36-4dd8-93c3-92e6562721b5&pd_rd_i=B0C8NBFLHS&psc=1)
+Toffee Coffee Roasters | Ethiopia Speciality Instant Coffee With Free Mason Jar | As Seen On Shark Tank | 100 gm | 100% Arabica | Ready in Seconds | Microground Technology | Makes 50 Cups⟨137⟩
+ _3.9 out of 5 stars_ 34⟨138⟩
+-49%⟨137⟩₹409.00₹409.00⟨137⟩ (₹409.00/100 g)⟨137⟩
+M.R.P: ₹799.00⟨137⟩
+Get it by **Tuesday, July 29**
+FREE Delivery by Amazon
+  3. ![Sleepy Owl Ground Coffee Bag For French Press Sampler Pack | 50G X 4 Flavours - Dark Roast, Original Medium Roast, French Van⟨139⟩](/Sleepy-Owl-Delicious-Directly-Chikmagalur/dp/B0BX6MYL3K/ref=pd_rhf_cr_s_bmx_gp_d_sccl_1_3/257-8137438-8359168?pd_rd_w=AbJPt&content-id=amzn1.sym.35f1b9bc-e9a4-4d72-8834-da50e17d0f85&pf_rd_p=35f1b9bc-e9a4-4d72-8834-da50e17d0f85&pf_rd_r=H2SNDMYHQXZBAHNY219N&pd_rd_wg=wIhNf&pd_rd_r=e1496cd4-ec36-4dd8-93c3-92e6562721b5&pd_rd_i=B0BX6MYL3K&psc=1)
+Sleepy Owl Ground Coffee Bag For French Press Sampler Pack | 50G X 4 Flavours - Dark Roast, Original Medium Roast, French Vanilla & Hazelnut | Coarse Grind | Directly Sourced From Chikmagalur⟨140⟩
+ _3.8 out of 5 stars_ 282⟨141⟩
+-25%⟨140⟩₹299.00₹299.00⟨140⟩ (₹149.50/100 g)⟨140⟩
+Limited time deal
+M.R.P: ₹400.00⟨140⟩
+Get it by **Saturday, July 26**
+FREE Delivery by Amazon
+  4. ![GO DESi Rakhi Gift Box – 17 Items | DESi Fun Gift Box | Rakhi Gift for Brother | Single Rakhi for Brother | Kaju Katli | Roli⟨142⟩](/GO-DESi-Hamper-Coated-Peanuts/dp/B0DFMJHY3V/ref=pd_rhf_cr_s_bmx_gp_d_sccl_1_4/257-8137438-8359168?pd_rd_w=AbJPt&content-id=amzn1.sym.35f1b9bc-e9a4-4d72-8834-da50e17d0f85&pf_rd_p=35f1b9bc-e9a4-4d72-8834-da50e17d0f85&pf_rd_r=H2SNDMYHQXZBAHNY219N&pd_rd_wg=wIhNf&pd_rd_r=e1496cd4-ec36-4dd8-93c3-92e6562721b5&pd_rd_i=B0DFMJHY3V&psc=1)
+GO DESi Rakhi Gift Box – 17 Items | DESi Fun Gift Box | Rakhi Gift for Brother | Single Rakhi for Brother | Kaju Katli | Roli Chawal | Desi Popz | Meetha Paan | Coconut Barfi | Fruti Twist | Raksha Bandhan Combo Set | Rakhi Hamper⟨143⟩
+ _4.3 out of 5 stars_ 111⟨144⟩
+-50%⟨143⟩₹349.00₹349.00⟨143⟩
+M.R.P: ₹699.00⟨143⟩
+Get it by **Saturday, July 26**
+FREE Delivery by Amazon
+  5. ![Pure Nutrition Organic Extra Virgin Olive Oil 750ml Glass Bottle - 100% Pure, Cold-Pressed In Glass Bottle|Ideal For Salad Dr⟨145⟩](/Pure-Nutrition-Organic-Virgin-Bottle/dp/B0DJQNYY74/ref=pd_rhf_cr_s_bmx_gp_d_sccl_1_5/257-8137438-8359168?pd_rd_w=AbJPt&content-id=amzn1.sym.35f1b9bc-e9a4-4d72-8834-da50e17d0f85&pf_rd_p=35f1b9bc-e9a4-4d72-8834-da50e17d0f85&pf_rd_r=H2SNDMYHQXZBAHNY219N&pd_rd_wg=wIhNf&pd_rd_r=e1496cd4-ec36-4dd8-93c3-92e6562721b5&pd_rd_i=B0DJQNYY74&psc=1)
+Pure Nutrition Organic Extra Virgin Olive Oil 750ml Glass Bottle - 100% Pure, Cold-Pressed In Glass Bottle|Ideal For Salad Dressings, Sauteing & Drizzling⟨146⟩
+ _4.0 out of 5 stars_ 463⟨147⟩
+-20%⟨146⟩₹1,199.00₹1,199.00⟨146⟩ (₹1,598.67/l)⟨146⟩
+M.R.P: ₹1,499.00⟨146⟩
+Get it by **Saturday, July 26**
+FREE Delivery by Amazon
+
+
+ _Next set of slides_⟨132⟩
+## Consider these items
+Page 1 of 1 Start over⟨132⟩
+ _Previous set of slides_⟨132⟩
+  1. ![Safari Hexa 21 Ltrs Water Resistant 3 Compartment Backpack - Black, S \(HEXA19CBBLK\)⟨148⟩](/Safari-Hexa-Water-Resistant-Backpack/dp/B09B26TVPM/ref=pd_rhf_cr_s_bmx_gp_d_sccl_2_1/257-8137438-8359168?pd_rd_w=3PWFI&content-id=amzn1.sym.35f1b9bc-e9a4-4d72-8834-da50e17d0f85&pf_rd_p=35f1b9bc-e9a4-4d72-8834-da50e17d0f85&pf_rd_r=H2SNDMYHQXZBAHNY219N&pd_rd_wg=wIhNf&pd_rd_r=e1496cd4-ec36-4dd8-93c3-92e6562721b5&pd_rd_i=B09B26TVPM&psc=1)
+ Safari Hexa 21 Ltrs Water Resistant 3 Compartment Backpack - Black, S (HEXA19CBBLK)⟨149⟩
+_3.9 out of 5 stars_ 2,282⟨150⟩
+-75%⟨149⟩₹502.00₹502.00⟨149⟩
+M.R.P: ₹2,010.00⟨149⟩
+Get it by **Saturday, July 26**
+FREE Delivery by Amazon
+  2. ![Safari Genius Fortis 55cm Cabin Trolley Bag Hard Case Polycarbonate, 4 Spinner Wheels, 360 Degree Wheeling Carry on Luggage, ⟨151⟩](/Safari-Trolley-Polycarbonate-Wheeling-Suitcase/dp/B0F67GDB92/ref=pd_rhf_cr_s_bmx_gp_d_sccl_2_2/257-8137438-8359168?pd_rd_w=3PWFI&content-id=amzn1.sym.35f1b9bc-e9a4-4d72-8834-da50e17d0f85&pf_rd_p=35f1b9bc-e9a4-4d72-8834-da50e17d0f85&pf_rd_r=H2SNDMYHQXZBAHNY219N&pd_rd_wg=wIhNf&pd_rd_r=e1496cd4-ec36-4dd8-93c3-92e6562721b5&pd_rd_i=B0F67GDB92&psc=1)
+Safari Genius Fortis 55cm Cabin Trolley Bag Hard Case Polycarbonate, 4 Spinner Wheels, 360 Degree Wheeling Carry on Luggage, Travel Bag, Suitcase for Travel, Trolley Bags for Travel, Green⟨152⟩
+ _3.8 out of 5 stars_ 57⟨153⟩
+-76%⟨152⟩₹1,699.00₹1,699.00⟨152⟩
+M.R.P: ₹7,199.00⟨152⟩
+Get it by **Saturday, July 26**
+FREE Delivery by Amazon
+  3. ![Safari Genius Alley 55cm Cabin Trolley Bag Hard Case Polypropylene, 4 Spinner Wheels, 360 Degree Wheeling Carry on Luggage, T⟨154⟩](/Safari-Trolley-Polypropylene-Wheeling-Suitcase/dp/B0F67K269V/ref=pd_rhf_cr_s_bmx_gp_d_sccl_2_3/257-8137438-8359168?pd_rd_w=3PWFI&content-id=amzn1.sym.35f1b9bc-e9a4-4d72-8834-da50e17d0f85&pf_rd_p=35f1b9bc-e9a4-4d72-8834-da50e17d0f85&pf_rd_r=H2SNDMYHQXZBAHNY219N&pd_rd_wg=wIhNf&pd_rd_r=e1496cd4-ec36-4dd8-93c3-92e6562721b5&pd_rd_i=B0F67K269V&psc=1)
+Safari Genius Alley 55cm Cabin Trolley Bag Hard Case Polypropylene, 4 Spinner Wheels, 360 Degree Wheeling Carry on Luggage, Travel Bag, Suitcase for Travel, Trolley Bags for Travel, Black⟨155⟩
+ _4.0 out of 5 stars_ 435⟨156⟩
+In 70+ carts
+-76%⟨155⟩₹1,699.00₹1,699.00⟨155⟩
+M.R.P: ₹6,999.00⟨155⟩
+Get it by **Saturday, July 26**
+FREE Delivery by Amazon
+  4. ![Provogue Cascade Hard-Sided PP 65 Cm Check-in Medium Size Luggage Suitcase | Expandable Space with 8 Wheels Trolley Bags for ⟨157⟩](/Provogue-Hard-Sided-Expandable-Combination-Timberwolf/dp/B0DXTW7P64/ref=pd_rhf_cr_s_bmx_gp_d_sccl_2_4/257-8137438-8359168?pd_rd_w=3PWFI&content-id=amzn1.sym.35f1b9bc-e9a4-4d72-8834-da50e17d0f85&pf_rd_p=35f1b9bc-e9a4-4d72-8834-da50e17d0f85&pf_rd_r=H2SNDMYHQXZBAHNY219N&pd_rd_wg=wIhNf&pd_rd_r=e1496cd4-ec36-4dd8-93c3-92e6562721b5&pd_rd_i=B0DXTW7P64&psc=1)
+Provogue Cascade Hard-Sided PP 65 Cm Check-in Medium Size Luggage Suitcase | Expandable Space with 8 Wheels Trolley Bags for Travel | Combination Lock |5 Year Warranty (Timberwolf Grey/Burnt Orange)⟨158⟩
+_4.2 out of 5 stars_ 16⟨159⟩
+-61%⟨158⟩₹2,899.00₹2,899.00⟨158⟩
+M.R.P: ₹7,375.00⟨158⟩
+Get it by **Monday, July 28**
+FREE Delivery by Amazon
+  5. ![Skybags Rhumba 66 Cms Medium Check-in Polyster Soft Sided Luggae/Suitcase/Inline Trolley Bag- Green⟨160⟩](/Skybags-Rhumba-Polyster-Suitcase-Trolley/dp/B0DX6BPTQT/ref=pd_rhf_cr_s_bmx_gp_d_sccl_2_5/257-8137438-8359168?pd_rd_w=3PWFI&content-id=amzn1.sym.35f1b9bc-e9a4-4d72-8834-da50e17d0f85&pf_rd_p=35f1b9bc-e9a4-4d72-8834-da50e17d0f85&pf_rd_r=H2SNDMYHQXZBAHNY219N&pd_rd_wg=wIhNf&pd_rd_r=e1496cd4-ec36-4dd8-93c3-92e6562721b5&pd_rd_i=B0DX6BPTQT&psc=1)
+Skybags Rhumba 66 Cms Medium Check-in Polyster Soft Sided Luggae/Suitcase/Inline Trolley Bag- Green⟨161⟩
+ _4.1 out of 5 stars_ 42⟨162⟩
+-66%⟨161⟩₹2,567.57₹2,567.57⟨161⟩
+M.R.P: ₹7,500.00⟨161⟩
+Get it by **Saturday, July 26**
+FREE Delivery by Amazon
+  6. ![Skybags Acrylonitrile Butadiene Styrene \(Abs\) Trooper Large Check-in Size Hard Luggage \(75Cm\) | Luggage Trolley with 4 Spinne⟨163⟩](/Skybags-Acrylonitrile-Butadiene-Resettable-Combination/dp/B0D9P2YPD7/ref=pd_rhf_cr_s_bmx_gp_d_sccl_2_6/257-8137438-8359168?pd_rd_w=3PWFI&content-id=amzn1.sym.35f1b9bc-e9a4-4d72-8834-da50e17d0f85&pf_rd_p=35f1b9bc-e9a4-4d72-8834-da50e17d0f85&pf_rd_r=H2SNDMYHQXZBAHNY219N&pd_rd_wg=wIhNf&pd_rd_r=e1496cd4-ec36-4dd8-93c3-92e6562721b5&pd_rd_i=B0D9P2YPD7&psc=1)
+Skybags Acrylonitrile Butadiene Styrene (Abs) Trooper Large Check-in Size Hard Luggage (75Cm) | Luggage Trolley with 4 Spinner Wheels and Resettable Combination Lock | Black⟨164⟩
+ _4.1 out of 5 stars_ 20,480⟨165⟩
+-60%⟨164⟩₹4,359.00₹4,359.00⟨164⟩
+Limited time deal
+M.R.P: ₹10,920.00⟨164⟩
+Get it by **Saturday, July 26**
+FREE Delivery by Amazon
+
+
+ _Next set of slides_⟨132⟩
+## Your browsing history
+View or edit your browsing history⟨166⟩
+Page 1 of 1 Start over⟨132⟩
+ _Previous set of slides_⟨132⟩
+  1. ![Samsung Galaxy M35 5G \(Daybreak Blue,8GB RAM,128GB Storage\)| Corning Gorilla Glass Victus+| AnTuTu Score 595K+ | Vapour Cooli⟨167⟩](/Samsung-Daybreak-Storage-Corning-Gorilla/dp/B0D7Z8FJZ9/ref=rvi_d_sccl_1/257-8137438-8359168?pd_rd_w=Vfytr&content-id=amzn1.sym.2fa5ef78-d215-4b54-bdb7-fa3d3620b822&pf_rd_p=2fa5ef78-d215-4b54-bdb7-fa3d3620b822&pf_rd_r=H2SNDMYHQXZBAHNY219N&pd_rd_wg=17i75&pd_rd_r=87a9101a-1c20-4f93-8633-bc391cbf43a6&pd_rd_i=B0D7Z8FJZ9&psc=1)
+  2. ![Acer Super ZX 5G \(Carbon Black, 6GB RAM, 128GB Storage\) | 120 Hz FHD+ Display | 5000 mAh Ultra-Thin Battery | Dimensity 6300 ⟨168⟩](/Storage-Display-Ultra-Thin-Dimensity-Processor/dp/B0F4DG9ZH5/ref=rvi_d_sccl_2/257-8137438-8359168?pd_rd_w=Vfytr&content-id=amzn1.sym.2fa5ef78-d215-4b54-bdb7-fa3d3620b822&pf_rd_p=2fa5ef78-d215-4b54-bdb7-fa3d3620b822&pf_rd_r=H2SNDMYHQXZBAHNY219N&pd_rd_wg=17i75&pd_rd_r=87a9101a-1c20-4f93-8633-bc391cbf43a6&pd_rd_i=B0F4DG9ZH5&psc=1)
+  3. ![Samsung Galaxy M36 5G \(Orange Haze, 6 GB RAM, 128 GB Storage\)| Circle to Search| Google Gemini| Corning Gorilla Glass Victus+⟨169⟩](/Samsung-Storage-Enhanced-Unmatched-Nightography/dp/B0FDB765TN/ref=rvi_d_sccl_3/257-8137438-8359168?pd_rd_w=Vfytr&content-id=amzn1.sym.2fa5ef78-d215-4b54-bdb7-fa3d3620b822&pf_rd_p=2fa5ef78-d215-4b54-bdb7-fa3d3620b822&pf_rd_r=H2SNDMYHQXZBAHNY219N&pd_rd_wg=17i75&pd_rd_r=87a9101a-1c20-4f93-8633-bc391cbf43a6&pd_rd_i=B0FDB765TN&psc=1)
+  4. ![Samsung Galaxy A55 5G \(Awesome Iceblue, 8GB RAM, 256GB Storage\) | AI | Metal Frame | 50 MP Main Camera \(OIS\) | Super HDR Vide⟨170⟩](/Samsung-Awesome-Iceblue-Storage-Nightography/dp/B0CWPCFSM3/ref=rvi_d_sccl_4/257-8137438-8359168?pd_rd_w=Vfytr&content-id=amzn1.sym.2fa5ef78-d215-4b54-bdb7-fa3d3620b822&pf_rd_p=2fa5ef78-d215-4b54-bdb7-fa3d3620b822&pf_rd_r=H2SNDMYHQXZBAHNY219N&pd_rd_wg=17i75&pd_rd_r=87a9101a-1c20-4f93-8633-bc391cbf43a6&pd_rd_i=B0CWPCFSM3&psc=1)
+  5. ![Samsung Galaxy A35 5G \(Awesome Iceblue, 8GB RAM, 128GB Storage\) Without Offer⟨171⟩](/samsung-Awesome-Iceblue-Storage-Without/dp/B0CXMCX9MD/ref=rvi_d_sccl_5/257-8137438-8359168?pd_rd_w=Vfytr&content-id=amzn1.sym.2fa5ef78-d215-4b54-bdb7-fa3d3620b822&pf_rd_p=2fa5ef78-d215-4b54-bdb7-fa3d3620b822&pf_rd_r=H2SNDMYHQXZBAHNY219N&pd_rd_wg=17i75&pd_rd_r=87a9101a-1c20-4f93-8633-bc391cbf43a6&pd_rd_i=B0CXMCX9MD&psc=1)
+  6. ![Samsung Galaxy M36 5G \(Serene Green, 8 GB RAM, 128 GB Storage\)| Circle to Search| Google Gemini| Corning Gorilla Glass Victus⟨172⟩](/Samsung-Storage-Enhanced-Unmatched-Nightography/dp/B0FDB9H9Z7/ref=rvi_d_sccl_6/257-8137438-8359168?pd_rd_w=Vfytr&content-id=amzn1.sym.2fa5ef78-d215-4b54-bdb7-fa3d3620b822&pf_rd_p=2fa5ef78-d215-4b54-bdb7-fa3d3620b822&pf_rd_r=H2SNDMYHQXZBAHNY219N&pd_rd_wg=17i75&pd_rd_r=87a9101a-1c20-4f93-8633-bc391cbf43a6&pd_rd_i=B0FDB9H9Z7&psc=1)
+
+
+ _Next set of slides_⟨132⟩
 Your recently viewed items and featured recommendations 
 ›
- View or edit your browsing history ⟨133⟩
+ View or edit your browsing history ⟨166⟩
 After viewing product detail pages, look here to find an easy way to navigate back to pages you are interested in. 
 Your recently viewed items and featured recommendations 
 › 
- View or edit your browsing history ⟨133⟩
+ View or edit your browsing history ⟨166⟩
 After viewing product detail pages, look here to find an easy way to navigate back to pages you are interested in. 
   
 
 Back to top 
 Get to Know Us
-  * About Amazon⟨134⟩
-  * Careers⟨135⟩
-  * Press Releases⟨136⟩
-  * Amazon Science⟨137⟩
+  * About Amazon⟨173⟩
+  * Careers⟨174⟩
+  * Press Releases⟨175⟩
+  * Amazon Science⟨176⟩
 
 
 Connect with Us
-  * Facebook⟨138⟩
-  * Twitter⟨139⟩
-  * Instagram⟨140⟩
+  * Facebook⟨177⟩
+  * Twitter⟨178⟩
+  * Instagram⟨179⟩
 
 
 Make Money with Us
-  * Sell on Amazon⟨141⟩
-  * Sell under Amazon Accelerator⟨142⟩
-  * Protect and Build Your Brand⟨143⟩
-  * Amazon Global Selling⟨144⟩
-  * Supply to Amazon⟨145⟩
-  * Become an Affiliate⟨146⟩
-  * Fulfilment by Amazon⟨147⟩
-  * Advertise Your Products⟨148⟩
-  * Amazon Pay on Merchants⟨149⟩
+  * Sell on Amazon⟨180⟩
+  * Sell under Amazon Accelerator⟨181⟩
+  * Protect and Build Your Brand⟨182⟩
+  * Amazon Global Selling⟨183⟩
+  * Supply to Amazon⟨184⟩
+  * Become an Affiliate⟨185⟩
+  * Fulfilment by Amazon⟨186⟩
+  * Advertise Your Products⟨187⟩
+  * Amazon Pay on Merchants⟨188⟩
 
 
 Let Us Help You
-  * Your Account⟨150⟩
-  * Returns Centre⟨151⟩
-  * Recalls and Product Safety Alerts⟨152⟩
-  * 100% Purchase Protection⟨153⟩
-  * Amazon App Download⟨154⟩
-  * Help⟨155⟩
+  * Your Account⟨189⟩
+  * Returns Centre⟨190⟩
+  * Recalls and Product Safety Alerts⟨191⟩
+  * 100% Purchase Protection⟨192⟩
+  * Amazon App Download⟨193⟩
+  * Help⟨194⟩
 
 
- ⟨156⟩
- English ⟨157⟩
- India ⟨158⟩
+ ⟨195⟩
+ English ⟨196⟩
+ India ⟨197⟩
   * ##### AbeBooksBooks, art  
-& collectibles⟨159⟩
+& collectibles⟨198⟩
   *   * ##### Amazon Web ServicesScalable Cloud  
-Computing Services⟨160⟩
+Computing Services⟨199⟩
   *   * ##### AudibleDownload  
-Audio Books⟨161⟩
+Audio Books⟨200⟩
   *   * ##### IMDbMovies, TV  
-& Celebrities⟨162⟩
+& Celebrities⟨201⟩
   *   * ##### ShopbopDesigner  
-Fashion Brands⟨163⟩
+Fashion Brands⟨202⟩
 
 
   * #####  Amazon BusinessEverything For  
-Your Business⟨164⟩
+Your Business⟨203⟩
   *   * ##### Prime Now 2-Hour Delivery  
-on Everyday Items⟨165⟩
+on Everyday Items⟨204⟩
   *   * ##### Amazon Prime Music100 million songs, ad-free  
-Over 15 million podcast episodes ⟨166⟩
-  *   * ##### Amazon LiveStream. Shop. Live⟨167⟩
+Over 15 million podcast episodes ⟨205⟩
+  *   * ##### Amazon LiveStream. Shop. Live⟨206⟩
   *   *  
 
 
-  * Conditions of Use & Sale⟨168⟩
-  * Privacy Notice⟨169⟩
-  * Interest-Based Ads⟨170⟩
+  * Conditions of Use & Sale⟨207⟩
+  * Privacy Notice⟨208⟩
+  * Interest-Based Ads⟨209⟩
 
 © 1996-2025, Amazon.com, Inc. or its affiliates
-![](//fls-eu.amazon.in/1/batch/1/OP/A21TJRUUN4KGV:259-9062319-1524538:APQEYP8WP97XA7ZF4F7K$uedata=s:%2Frd%2Fuedata%3Fnoscript%26id%3DAPQEYP8WP97XA7ZF4F7K:0)
+![](//fls-eu.amazon.in/1/batch/1/OP/A21TJRUUN4KGV:257-8137438-8359168:6VB8259PFDKZFZGB8PJ6$uedata=s:%2Frd%2Fuedata%3Fnoscript%26id%3D6VB8259PFDKZFZGB8PJ6:0)

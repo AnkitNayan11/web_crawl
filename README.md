@@ -25,6 +25,8 @@ pip install playwright
 playwright install
 
 ## How to run
+products :- product list : iphone, asus, samsung, iron, fans, table fan,routers.
+
 
 python /Users/ankitnayan/Downloads/final_web_v1/web_crawl/src/programatic_login.py
 python /Users/ankitnayan/Downloads/final_web_v1/web_crawl/src/main.py

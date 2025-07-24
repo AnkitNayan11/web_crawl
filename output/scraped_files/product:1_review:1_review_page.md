@@ -1,4 +1,4 @@
-Amazon.in:Customer reviews: Samsung Galaxy M36 5G (Orange Haze, 6 GB RAM, 128 GB Storage)| Circle to Search| Google Gemini| Corning Gorilla Glass Victus+| 7.7mm Slim| AI Enhanced 50 MP OIS Triple Camera| Unmatched Nightography
+Amazon.in:Customer reviews: ASUS TUF Gaming A15, AMD Ryzen 7 7435HS Gaming Laptop(NVIDIA RTX 3050-4GB/60W TGP/16GB RAM/512GB SSD/FHD/15.6&#34;/144Hz/RGB KB/48WHr/Windows 11//Graphite Black/2.30 Kg) FA506NCR-HN054W
 ![](https://m.media-amazon.com/images/G/31/gno/sprites/nav-sprite-global-1x-reorg-privacy._CB546381437_.png)
 ## Skip to
   *  Main content ⟨1⟩
@@ -70,12 +70,12 @@ Your Account
   * Ankit's Amazon.in⟨44⟩
   * Customer Service⟨45⟩
   * Subscribe & Save⟨46⟩
-  * Home & Kitchen⟨47⟩
-  * New Releases⟨48⟩
+  * New Releases⟨47⟩
+  * Home & Kitchen⟨48⟩
   * Grocery & Gourmet Foods⟨49⟩
   * Prime ⟨50⟩
-  * Audible⟨51⟩
-  * Toys & Games⟨52⟩
+  * Toys & Games⟨51⟩
+  * Audible⟨52⟩
   * Fashion⟨53⟩
   * Mobiles⟨54⟩
   *  Electronics ⟨55⟩
@@ -246,7 +246,7 @@ __Add to Cart
 
 
 # 
-  * Samsung Galaxy M36 5G (Orange Haze, 6 GB RAM, 128 GB Storage)| Circle...⟨86⟩
+  * ASUS TUF Gaming A15, AMD Ryzen 7 7435HS Gaming Laptop(NVIDIA RTX...⟨86⟩
   * ›
   * Customer reviews
 
@@ -254,19 +254,18 @@ __Add to Cart
 ## Customer reviews
  _3.8 out of 5 stars_
 3.8 out of 5
-293 global ratings
-  *  5 star  4 star  3 star  2 star  1 star  5 star  58%  11%  8%  3%  20%  58%  ⟨87⟩
-  *  5 star  4 star  3 star  2 star  1 star  4 star  58%  11%  8%  3%  20%  11%  ⟨88⟩
-  *  5 star  4 star  3 star  2 star  1 star  3 star  58%  11%  8%  3%  20%  8%  ⟨89⟩
-  *  5 star  4 star  3 star  2 star  1 star  2 star  58%  11%  8%  3%  20%  3%  ⟨90⟩
-  *  5 star  4 star  3 star  2 star  1 star  1 star  58%  11%  8%  3%  20%  20%  ⟨91⟩
+380 global ratings
+  *  5 star  4 star  3 star  2 star  1 star  5 star  48%  26%  8%  2%  16%  48%  ⟨87⟩
+  *  5 star  4 star  3 star  2 star  1 star  4 star  48%  26%  8%  2%  16%  26%  ⟨88⟩
+  *  5 star  4 star  3 star  2 star  1 star  3 star  48%  26%  8%  2%  16%  8%  ⟨89⟩
+  *  5 star  4 star  3 star  2 star  1 star  2 star  48%  26%  8%  2%  16%  2%  ⟨90⟩
+  *  5 star  4 star  3 star  2 star  1 star  1 star  48%  26%  8%  2%  16%  16%  ⟨91⟩
 
 
-![Samsung Galaxy M36 5G \(Orange Haze, 6 GB RAM, 128 GB Storage\)| Circle to Search| Google Gemini| Corning Gorilla Glass Victus+| 7.7mm Slim| AI Enhanced 50 MP OIS Triple Camera| Unmatched Nightography⟨92⟩](/Samsung-Storage-Enhanced-Unmatched-Nightography/dp/B0FDB765TN/ref=cm_cr_arp_d_pdt_img_top?ie=UTF8)
-# Samsung Galaxy M36 5G (Orange Haze, 6 GB RAM, 128 GB Storage)| Circle to Search| Google Gemini| Corning Gorilla Glass Victus+| 7.7mm Slim| AI Enhanced 50 MP OIS Triple Camera| Unmatched Nightography⟨93⟩
-bySamsung⟨94⟩
-  * Colour: Orange Haze __
-  * Size: 6GB + 128GB
+![ASUS TUF Gaming A15, AMD Ryzen 7 7435HS Gaming Laptop\(NVIDIA RTX 3050-4GB/60W TGP/16GB RAM/512GB SSD/FHD/15.6&#34;/144Hz/RGB KB/48WHr/Windows 11//Graphite Black/2.30 Kg\) FA506NCR-HN054W⟨92⟩](/ASUS-15-6-inch-GeForce-Graphite-FA506NCR-HN054W/dp/B0D5DFR78J/ref=cm_cr_arp_d_pdt_img_top?ie=UTF8)
+# ASUS TUF Gaming A15, AMD Ryzen 7 7435HS Gaming Laptop(NVIDIA RTX 3050-4GB/60W TGP/16GB RAM/512GB SSD/FHD/15.6"/144Hz/RGB KB/48WHr/Windows 11//Graphite Black/2.30 Kg) FA506NCR-HN054W⟨93⟩
+byASUS⟨94⟩
+  * Colour: Black, R7 | RTX 3050
   * __Change⟨93⟩
 
 
@@ -285,91 +284,86 @@ Sort by reviews type Top reviewsMost recentTop reviews __
 ### Filter by
 Filter by reviewer type All reviewersVerified purchase onlyAll reviewers __
 Filter by star count All stars5 star only4 star only3 star only2 star only1 star onlyPositive reviewsCritical reviewsAll stars __
-Filter by variant type All variantsColour: Orange Haze |Size: 6GB + 128GBAll variants __
+Filter by variant type All variantsColour: Black, R7 | RTX 3050All variants __
 Filter by media type All text, image and video reviewsImage and video reviews onlyAll text, image and video reviews __
-185 customer reviews 
+163 customer reviews 
 * * *
 #### There was a problem filtering reviews. Please reload the page.
 __
-Translate all reviews to English⟨97⟩
-###  From India 
-  * ![⟨98⟩![](https://images-eu.ssl-images-amazon.com/images/S/amazon-avatars-global/default._CR0,0,1024,1024_SX48_.png)ANUJ KUMAR](/gp/profile/amzn1.account.AEEEEJ5NF5TDO32SYSXN4OUTISGQ/ref=cm_cr_arp_d_gw_btm?ie=UTF8)
-#####  _5.0 out of 5 stars_ Overall Features Rating ⟨99⟩
-Reviewed in India on 15 July 2025
-Colour: Velvet Black __Size: 6GB + 128GB⟨100⟩ __Verified Purchase⟨101⟩
-Positive Review:  
+### From India
+  * ![⟨97⟩![](https://images-eu.ssl-images-amazon.com/images/S/amazon-avatars-global/default._CR0,0,1024,1024_SX48_.png)Maitri Pal](/gp/profile/amzn1.account.AFHQPO4S2IMBLYS4GM6GF4FPBYVA/ref=cm_cr_arp_d_gw_btm?ie=UTF8)
+#####  _5.0 out of 5 stars_ Goood ⟨98⟩
+Reviewed in India on 30 June 2025
+Colour: Graphite Black, R7 | RTX 2050⟨99⟩ __Verified Purchase⟨100⟩
+ Excellent Performance and Value – A True Beast for Work and Play!  
   
-Excellent Display: The Samsung Galaxy M36 5G features a stunning 6.7-inch Super AMOLED display with a 120Hz refresh rate, providing an immersive viewing experience.  
-Long-Lasting Battery: The phone's massive 5000mAh battery ensures extended usage, making it perfect for heavy users.  
-Impressive Cameras: The phone's AI-powered camera capabilities deliver high-quality images and videos.  
-Future-Proof: With Samsung's reliable One UI and promise of 6 years of software updates, this phone is a smart investment for anyone looking for a device that will stay relevant for years to come.  
-Affordable: The Samsung Galaxy M36 5G offers premium features at an affordable price, making it an attractive option for budget-conscious buyers.  
+I've been using the ASUS TUF A15 for a few weeks now, and I'm genuinely impressed. This machine delivers top-notch performance for both productivity and gaming.  
   
-Negative Points:-  
+✅ Pros:  
   
-Performance Issues: The phone's performance can be laggy at times, which may be frustrating for some users.  
-Slow Charging: The charging speed could be faster, especially considering the phone's large battery capacity.  
-Plastic Back: The phone's plastic back may not appeal to users seeking a premium feel and look.  
-No Stereo Speakers: The lack of stereo speakers might be a disappointment for some users who value high-quality audio.  
-Design: The phone's front design, featuring an Infinity-U notch, looks dated compared to its predecessor, which may not appeal to some users.
-![Customer image⟨102⟩]
-![⟨98⟩![](https://images-eu.ssl-images-amazon.com/images/S/amazon-avatars-global/default._CR0,0,1024,1024_SX48_.png)ANUJ KUMAR](/gp/profile/amzn1.account.AEEEEJ5NF5TDO32SYSXN4OUTISGQ/ref=cm_cr_arp_d_gw_pop?ie=UTF8)
+Powerful Ryzen 7 7345HS handles multitasking effortlessly—coding, editing, and running VMs is smooth.  
+  
+16GB RAM ensures no lag even with multiple Chrome tabs, IDEs, and background apps running.  
+  
+GTX 2050 might be entry-level for gaming, but it handles games like Valorant, GTA V, and FIFA comfortably at medium-high settings.  
+  
+SSD boot and load speeds are blazing fast.  
+  
+Thermals are well-managed with the dual 83-blade fan system. Even after hours of gaming, it doesn’t feel overly hot.  
+  
+RGB keyboard looks premium and adds to the gaming aesthetic.  
+  
+Military-grade build quality gives a solid and rugged feel—feels very durable.  
+  
+🚫 Cons:  
+  
+Slight fan noise under load (expected in performance laptops).  
+  
+Display could’ve been brighter outdoors, but great indoors.  
+  
+A bit on the heavier side—not ideal for very frequent travelers.  
+  
+💬 Verdict:  
+For the price, this laptop is an absolute powerhouse. Whether you're a gamer, a student, or a developer, the ASUS TUF A15 strikes a great balance between performance, build, and looks. Highly recommended if you're looking for a reliable machine that won’t break the bank!
+![Customer image⟨101⟩]
+![⟨97⟩![](https://images-eu.ssl-images-amazon.com/images/S/amazon-avatars-global/default._CR0,0,1024,1024_SX48_.png)Maitri Pal](/gp/profile/amzn1.account.AFHQPO4S2IMBLYS4GM6GF4FPBYVA/ref=cm_cr_arp_d_gw_pop?ie=UTF8)
 _5.0 out of 5 stars_
-#####  Overall Features Rating 
+#####  Goood 
   
-Reviewed in India on 15 July 2025 
-Positive Review:  
+Reviewed in India on 30 June 2025 
+ Excellent Performance and Value – A True Beast for Work and Play!  
   
-Excellent Display: The Samsung Galaxy M36 5G features a stunning 6.7-inch Super AMOLED display with a 120Hz refresh rate, providing an immersive viewing experience.  
-Long-Lasting Battery: The phone's massive 5000mAh battery ensures extended usage, making it perfect for heavy users.  
-Impressive Cameras: The phone's AI-powered camera capabilities deliver high-quality images and videos.  
-Future-Proof: With Samsung's reliable One UI and promise of 6 years of software updates, this phone is a smart investment for anyone looking for a device that will stay relevant for years to come.  
-Affordable: The Samsung Galaxy M36 5G offers premium features at an affordable price, making it an attractive option for budget-conscious buyers.  
+I've been using the ASUS TUF A15 for a few weeks now, and I'm genuinely impressed. This machine delivers top-notch performance for both productivity and gaming.  
   
-Negative Points:-  
+✅ Pros:  
   
-Performance Issues: The phone's performance can be laggy at times, which may be frustrating for some users.  
-Slow Charging: The charging speed could be faster, especially considering the phone's large battery capacity.  
-Plastic Back: The phone's plastic back may not appeal to users seeking a premium feel and look.  
-No Stereo Speakers: The lack of stereo speakers might be a disappointment for some users who value high-quality audio.  
-Design: The phone's front design, featuring an Infinity-U notch, looks dated compared to its predecessor, which may not appeal to some users. 
+Powerful Ryzen 7 7345HS handles multitasking effortlessly—coding, editing, and running VMs is smooth.  
+  
+16GB RAM ensures no lag even with multiple Chrome tabs, IDEs, and background apps running.  
+  
+GTX 2050 might be entry-level for gaming, but it handles games like Valorant, GTA V, and FIFA comfortably at medium-high settings.  
+  
+SSD boot and load speeds are blazing fast.  
+  
+Thermals are well-managed with the dual 83-blade fan system. Even after hours of gaming, it doesn’t feel overly hot.  
+  
+RGB keyboard looks premium and adds to the gaming aesthetic.  
+  
+Military-grade build quality gives a solid and rugged feel—feels very durable.  
+  
+🚫 Cons:  
+  
+Slight fan noise under load (expected in performance laptops).  
+  
+Display could’ve been brighter outdoors, but great indoors.  
+  
+A bit on the heavier side—not ideal for very frequent travelers.  
+  
+💬 Verdict:  
+For the price, this laptop is an absolute powerhouse. Whether you're a gamer, a student, or a developer, the ASUS TUF A15 strikes a great balance between performance, build, and looks. Highly recommended if you're looking for a reliable machine that won’t break the bank! 
 ######  Images in this review 
-![Customer image 1⟨103⟩] ![Customer image 2⟨104⟩] ![Customer image 3⟨105⟩] ![Customer image 4⟨106⟩]
-![Customer image⟨103⟩__](javascript:void\(0\))![Customer image⟨104⟩__](javascript:void\(0\))![Customer image⟨105⟩__](javascript:void\(0\))![Customer image⟨106⟩__](javascript:void\(0\))
-23 people found this helpful
-Helpful
-Sending feedback...
-__
-Thank you for your feedback.
-__
-Sorry, we failed to record your vote. Please try again
-__Report⟨107⟩
-Showing 0 comments
-#### There was a problem loading comments right now. Please try again later.
-__
-* * *
-  * ![⟨108⟩![](https://images-eu.ssl-images-amazon.com/images/S/amazon-avatars-global/default._CR0,0,1024,1024_SX48_.png)Akhil](/gp/profile/amzn1.account.AGSDTS6EZ7TK6MCI6EMVJN2RPV3Q/ref=cm_cr_arp_d_gw_btm?ie=UTF8)
-#####  _1.0 out of 5 stars_ Looting innocent customers, fraudsters and pathetic service from Amazon and samsung ⟨109⟩
-Reviewed in India on 22 July 2025
-Colour: Orange Haze __Size: 8GB + 128GB⟨110⟩ __Verified Purchase⟨101⟩
-I purchased the Samsung M36 5G on 16 July 2025 from Amazon, and within just a few days, the display stopped working completely.  
-  
-I immediately reached out to Amazon for a replacement, but to my surprise, they refused to provide any support or replacement, even though the issue occurred well within the return period.  
-  
-I then visited the Samsung Service Centre, hoping for a resolution — but the experience was even worse. The staff was unhelpful, and no proper service or repair was provided. I’ve wasted hours with no result.  
-  
-I feel completely let down by both Samsung and Amazon. This was a high-value product, and I expected at least basic after-sales service. Unfortunately, this has turned into a frustrating and disappointing experience.  
-  
-I strongly advise others to think twice before buying this phone or trusting the service support from either Samsung or Amazon.  
-मैंने 16 जुलाई 2025 को Amazon से Samsung M36 5G खरीदा था, लेकिन कुछ ही दिनों में इसका डिस्प्ले पूरी तरह से बंद हो गया।  
-  
-मैंने तुरंत Amazon से संपर्क किया और फोन की रिप्लेसमेंट मांगी, लेकिन उन्होंने साफ मना कर दिया और कोई सहायता नहीं दी, जबकि ये समस्या रिटर्न पीरियड के अंदर ही हुई थी।  
-  
-इसके बाद मैंने Samsung सर्विस सेंटर का रुख किया, लेकिन वहाँ का अनुभव और भी खराब रहा। स्टाफ का व्यवहार बेहद लापरवाह था और कोई संतोषजनक सेवा नहीं दी गई। मैंने कई घंटे बर्बाद किए लेकिन कोई समाधान नहीं मिला।  
-  
-Samsung और Amazon — दोनों ने पूरी तरह से निराश किया है। यह एक महँगा फोन था और मुझे कम से कम अच्छी आफ्टर-सेल्स सर्विस की उम्मीद थी, जो बिल्कुल नहीं मिली।  
-  
-मैं अन्य ग्राहकों से अनुरोध करता हूँ कि इस फोन को खरीदने से पहले ज़रूर सोचें, और Samsung या Amazon की सेवा पर आँख बंद करके भरोसा ना करें।
+![Customer image 1⟨102⟩]
+![Customer image⟨102⟩__](javascript:void\(0\))
 9 people found this helpful
 Helpful
 Sending feedback...
@@ -377,93 +371,264 @@ __
 Thank you for your feedback.
 __
 Sorry, we failed to record your vote. Please try again
-__Report⟨111⟩
-Translate review to English⟨97⟩
+__Report⟨103⟩
 Showing 0 comments
 #### There was a problem loading comments right now. Please try again later.
 __
 * * *
-  * ![⟨108⟩![](https://images-eu.ssl-images-amazon.com/images/S/amazon-avatars-global/default._CR0,0,1024,1024_SX48_.png)Amit Banerjee](/gp/profile/amzn1.account.AGICIAHWC63SCB2Z22YL7YS23AXA/ref=cm_cr_arp_d_gw_btm?ie=UTF8)
-#####  _5.0 out of 5 stars_ You'll not regret! ✌️☺️ ⟨112⟩
-Reviewed in India on 15 July 2025
-Colour: Serene Green __Size: 6GB + 128GB⟨113⟩ __Verified Purchase⟨101⟩
-Don't think too much!  
-Except the missing part of punch hole, the phone is actually good. I got it at 16k from Amazon. Considering the price point, it is awesome. I'll update after a few days of use. But I must say, the build quality is brilliant. It looks very premium and battery lasts pretty good. Out of the box it had 64% and after 5-6 hours of continual use, it is still standing strong at 14%. I think that's pretty handy. It will surely last a day. The camera quality is quite good also. As of now, I haven't seen any bad issue with it. Maybe not a huge upgrade from M35 physically but considering the software development, that's also a good point. It is very smooth and didn't experience any heating issue, except after that first boot, which is quite natural for any phone. Go for it! Don't worry.
-10 people found this helpful
+  * ![⟨104⟩![](https://images-eu.ssl-images-amazon.com/images/S/amazon-avatars-global/default._CR0,0,1024,1024_SX48_.png)Dubey Ji](/gp/profile/amzn1.account.AFQTMUDHENGDYDEORQ4WINL5N6XA/ref=cm_cr_arp_d_gw_btm?ie=UTF8)
+#####  _4.0 out of 5 stars_ Overall great performance ⟨105⟩
+Reviewed in India on 7 November 2024
+Colour: Black, R7 | RTX 3050⟨106⟩ __Verified Purchase⟨100⟩
+The media could not be loaded. 
+// this is after using for 9 months  
+I used my system for coding and programming purposes not for gaming...  
+  
+My laptop battery run only for 90min . After this time u need a charging port. And if you want to use it for medium size gaming purpose then first you put machine in charging port and then Play.  
+  
+So main problem it battery has very short time duration. You can't work for 4 to 5 hrs without electricity.  
+  
+Overall it is a good machine ...for coding and programming purpose.  
+  
+// this is my first review  
+Performance is good and easy to use and ,,it is capable to run medium size games ...  
+  
+I am using for it coding and programs purpose ...to u can easily do multi tabing without any lagging.  
+  
+Display quality is good and u can watch it at 178° also with clear vision.  
+  
+I used it for one month and I face one problem that is battery...  
+  
+Battery charging is very fast it allmost full within 50mins ....  
+  
+But it drains battery in 90min approx.  
+  
+So if you want to use it for 3 to 4 hrs battery back than it is not a good choice  
+  
+Or  
+  
+Use it with continuous on charging mode .  
+  
+Heating issues:-  
+  
+Laptop get heated if it doesn't get proper ventilation so use it on a laptop stand so that is remain cool and gives you smooth performance.
+![Customer image⟨101⟩]
+![⟨97⟩![](https://images-eu.ssl-images-amazon.com/images/S/amazon-avatars-global/default._CR0,0,1024,1024_SX48_.png)Dubey Ji](/gp/profile/amzn1.account.AFQTMUDHENGDYDEORQ4WINL5N6XA/ref=cm_cr_arp_d_gw_pop?ie=UTF8)
+_4.0 out of 5 stars_
+#####  Overall great performance 
+  
+Reviewed in India on 7 November 2024 
+// this is after using for 9 months  
+I used my system for coding and programming purposes not for gaming...  
+  
+My laptop battery run only for 90min . After this time u need a charging port. And if you want to use it for medium size gaming purpose then first you put machine in charging port and then Play.  
+  
+So main problem it battery has very short time duration. You can't work for 4 to 5 hrs without electricity.  
+  
+Overall it is a good machine ...for coding and programming purpose.  
+  
+// this is my first review  
+Performance is good and easy to use and ,,it is capable to run medium size games ...  
+  
+I am using for it coding and programs purpose ...to u can easily do multi tabing without any lagging.  
+  
+Display quality is good and u can watch it at 178° also with clear vision.  
+  
+I used it for one month and I face one problem that is battery...  
+  
+Battery charging is very fast it allmost full within 50mins ....  
+  
+But it drains battery in 90min approx.  
+  
+So if you want to use it for 3 to 4 hrs battery back than it is not a good choice  
+  
+Or  
+  
+Use it with continuous on charging mode .  
+  
+Heating issues:-  
+  
+Laptop get heated if it doesn't get proper ventilation so use it on a laptop stand so that is remain cool and gives you smooth performance. 
+######  Images in this review 
+![Customer image 1⟨107⟩]
+![Customer image⟨107⟩__](javascript:void\(0\))
+36 people found this helpful
 Helpful
 Sending feedback...
 __
 Thank you for your feedback.
 __
 Sorry, we failed to record your vote. Please try again
-__Report⟨114⟩
+__Report⟨108⟩
 Showing 0 comments
 #### There was a problem loading comments right now. Please try again later.
 __
 * * *
-  * ![⟨108⟩![](https://images-eu.ssl-images-amazon.com/images/S/amazon-avatars-global/default._CR0,0,1024,1024_SX48_.png)Keya Fofaria](/gp/profile/amzn1.account.AH6GW3OL55GA6DJBIJO4RIA6REMQ/ref=cm_cr_arp_d_gw_btm?ie=UTF8)
-#####  _5.0 out of 5 stars_ Phone with Simple and clean ui ⟨115⟩
-Reviewed in India on 20 July 2025
-Colour: Serene Green __Size: 6GB + 128GB⟨113⟩ __Verified Purchase⟨101⟩
-Good mobile  
-Sound is clear  
-Ui is clear n simple  
-Camera is good  
-No lagging
+  * ![⟨104⟩![](https://images-eu.ssl-images-amazon.com/images/S/amazon-avatars-global/default._CR0,0,1024,1024_SX48_.png)Nirban Roy](/gp/profile/amzn1.account.AH5JJSFIKFIYJBPHGHHQA4HF5WHA/ref=cm_cr_arp_d_gw_btm?ie=UTF8)
+#####  _1.0 out of 5 stars_ Can you work without the internet or without a touchpad? ⟨109⟩
+Reviewed in India on 12 July 2025
+Colour: Black, R7 | RTX 3050⟨106⟩ __Verified Purchase⟨100⟩
+This laptop comes with a high-end processor and powerful graphics: that’s clearly its main selling point.  
+  
+Now, I get it - high-performance machines can have trade-offs. The battery life isn’t great, and yes, it does get warm. I was prepared for that.  
+  
+But here’s what I wasn’t prepared for:  
+  
+1. Can you work without the internet?  
+  
+If not, think twice. The Wi-Fi connection is highly unreliable. It frequently disconnects, and at times, it won’t connect at all.  
+  
+This is an issue which is faced by almost all the TUF users across the internet.  
+  
+2. Can you work without a touchpad?  
+  
+If not, this might not be the right choice either. The touchpad occasionally stops responding, and it often takes three or four restarts to get it working again.  
+  
+There are countless people who are complaining about this.  
+  
+_______  
+  
+These are basic usability issues that seriously affect productivity - no matter how good the specs are.  
+  
+And Amazon won't give you a "refund" option for this purchase as well.  
+  
+Edit: Highly unreliable bluetooth connection. It's not just my experience. Explore the internet. You'll find numerous TUF users facing the same issue.
+8 people found this helpful
 Helpful
 Sending feedback...
 __
 Thank you for your feedback.
 __
 Sorry, we failed to record your vote. Please try again
-__Report⟨116⟩
+__Report⟨110⟩
 Showing 0 comments
 #### There was a problem loading comments right now. Please try again later.
 __
 * * *
-  * ![⟨108⟩![](https://images-eu.ssl-images-amazon.com/images/S/amazon-avatars-global/default._CR0,0,1024,1024_SX48_.png)Chinna Rao](/gp/profile/amzn1.account.AGXQROZIAC7DEG4RF3QYWHAEW2OQ/ref=cm_cr_arp_d_gw_btm?ie=UTF8)
-#####  _4.0 out of 5 stars_ Best Budget phone ⟨117⟩
-Reviewed in India on 17 July 2025
-Colour: Velvet Black __Size: 6GB + 128GB⟨100⟩ __Verified Purchase⟨101⟩
-Mobile looks good and slim,however observed heat while using .  
-Battery back up good  
-Camera quality avg
+  * ![⟨104⟩![](https://images-eu.ssl-images-amazon.com/images/S/amazon-avatars-global/1c7d1e20-10b2-425b-b3d2-81e6439fc523._CR0,79.0,843,843_SX48_.jpg)EveRestEver](/gp/profile/amzn1.account.AGNNLHCE4VBZV2VJWEKG3AHRN3YA/ref=cm_cr_arp_d_gw_btm?ie=UTF8)
+#####  _5.0 out of 5 stars_ Powerful Gaming Beast: ASUS TUF Gaming A15 Review ⟨111⟩
+Reviewed in India on 20 August 2024
+Colour: Black, R7 | RTX 3050⟨106⟩ __Verified Purchase⟨100⟩
+I've been using the ASUS TUF Gaming A15 with AMD Ryzen 7 7435HS for a few weeks now, and I'm impressed by its raw power and features. Here's my detailed review:  
+  
+Pros:  
+  
+- Lightning-Fast Performance: The Ryzen 7 7435HS processor handles demanding games and tasks with ease, providing seamless gaming and content creation experiences.  
+- Immersive Gaming: The NVIDIA GeForce RTX 3060 graphics card delivers stunning visuals, and the 144Hz display ensures smooth gameplay.  
+- Long-Lasting Battery: The laptop lasts up to 6 hours on a single charge (Regular use), making it perfect for long gaming sessions or work trips.  
+- Ergonomic Design: The TUF Gaming A15's rugged design and comfortable keyboard make it ideal for extended use.  
+- Affordable: Considering its specs and performance, this laptop is a great value for money.  
+  
+Cons:  
+  
+- Thermal Management: The laptop can get hot during intense gaming sessions, but the dual-fan design helps keep temperatures in check.  
+- Webcam Quality: The webcam could be better, but it's not a deal-breaker for me.  
+  
+Overall, the ASUS TUF Gaming A15 is an excellent choice for gamers and content creators seeking a powerful, feature-packed laptop without breaking the bank. Its performance, display, and battery life make it a top contender in its class.  
+  
+Recommendation: If you're looking for a reliable gaming laptop with impressive specs, look no further than the ASUS TUF Gaming A15.  
+  
+Rating Breakdown:  
+  
+- Performance: 5/5  
+- Display: 5/5  
+- Battery Life: 4.5/5  
+- Design: 4.5/5  
+- Value: 5/5  
+  
+Would I recommend it? Absolutely!
+180 people found this helpful
 Helpful
 Sending feedback...
 __
 Thank you for your feedback.
 __
 Sorry, we failed to record your vote. Please try again
-__Report⟨118⟩
+__Report⟨112⟩
 Showing 0 comments
 #### There was a problem loading comments right now. Please try again later.
 __
 * * *
-  * ![⟨108⟩![](https://images-eu.ssl-images-amazon.com/images/S/amazon-avatars-global/default._CR0,0,1024,1024_SX48_.png)JASVINDER](/gp/profile/amzn1.account.AENY7S6B53I2OHYZQBQKUSEUYCIQ/ref=cm_cr_arp_d_gw_btm?ie=UTF8)
-#####  _5.0 out of 5 stars_ Amazing 👍 ⟨119⟩
-Reviewed in India on 20 July 2025
-Colour: Velvet Black __Size: 6GB + 128GB⟨100⟩ __Verified Purchase⟨101⟩
-The Samsung Galaxy M36 5G is an excellent mid-range smartphone that checks all the right boxes. Its impressive display, robust performance, and advanced camera capabilities make it a compelling choice for those seeking a reliable and feature-packed device.
+  * ![⟨104⟩![](https://images-eu.ssl-images-amazon.com/images/S/amazon-avatars-global/default._CR0,0,1024,1024_SX48_.png)Katini](/gp/profile/amzn1.account.AFT4CJ7A4DHRUYTRKGAQQENKDKIQ/ref=cm_cr_arp_d_gw_btm?ie=UTF8)
+#####  _5.0 out of 5 stars_ Performance and battery ⟨113⟩
+Reviewed in India on 2 July 2025
+Colour: Black R7 | RTX 3050 - 1TB⟨114⟩ __Verified Purchase⟨100⟩
+Performance is very good for coding and all browsing , but battery could have been a Lil better,we have to plug in and use for running heavy duty application, no lag so far
+2 people found this helpful
 Helpful
 Sending feedback...
 __
 Thank you for your feedback.
 __
 Sorry, we failed to record your vote. Please try again
-__Report⟨120⟩
+__Report⟨115⟩
 Showing 0 comments
 #### There was a problem loading comments right now. Please try again later.
 __
 * * *
-  * ![⟨108⟩![](https://images-eu.ssl-images-amazon.com/images/S/amazon-avatars-global/default._CR0,0,1024,1024_SX48_.png)ND](/gp/profile/amzn1.account.AE73FWNBZXYBPZ7JXCMG42D5XDXA/ref=cm_cr_arp_d_gw_btm?ie=UTF8)
-#####  _3.0 out of 5 stars_ Antenna power is very poor ⟨121⟩
-Reviewed in India on 16 July 2025
-Colour: Orange Haze __Size: 6GB + 128GB⟨122⟩ __Verified Purchase⟨101⟩
-The mobile is good but the antenna is poor and there is a reason to say that.  
-The reason is i was using honor Y9 Prime 2019 when I compare the Samsung galaxy m36 5g to the honor the antenna power of honor is much better as it use to pull 3g inside the house atheist 1 bar and 2g 4 Larsson I thought buying this phone will improve the signal but to my surprise the new Samsung phone can't pull the 2g signal leave about 3g and further 4g and don't dream about 5g .  
-So if any one thinking to buy this phone for better signal power if facing network problem, don't buy as the technology has not improve from 2019 to 2025 it has become worse.  
-So this mobile has become my computer as I can't call from the mobile. The company should improve their signal power. Hope they take a note of this.
-6 people found this helpful
+  * ![⟨104⟩![](https://images-eu.ssl-images-amazon.com/images/S/amazon-avatars-global/default._CR0,0,1024,1024_SX48_.png)Pakhi](/gp/profile/amzn1.account.AEXDOPEW4MCH3LNSZGVCPNCABK3Q/ref=cm_cr_arp_d_gw_btm?ie=UTF8)
+#####  _4.0 out of 5 stars_ Decent product ⟨116⟩
+Reviewed in India on 1 July 2025
+Colour: Black, R7 | RTX 3050⟨106⟩ __Verified Purchase⟨100⟩
+The laptop is okay, only the battery drains very fast, but it has fast charging as well. Whenever I attach the charger to the laptop the screen goes black but comes back within seconds and the same while removing the adaptor the screen goes black for a second then comes back.
+One person found this helpful
+Helpful
+Sending feedback...
+__
+Thank you for your feedback.
+__
+Sorry, we failed to record your vote. Please try again
+__Report⟨117⟩
+Showing 0 comments
+#### There was a problem loading comments right now. Please try again later.
+__
+* * *
+  * ![⟨104⟩![](https://images-eu.ssl-images-amazon.com/images/S/amazon-avatars-global/default._CR0,0,1024,1024_SX48_.png)Venkat naveen](/gp/profile/amzn1.account.AHKTJDZLVSMIXWXPBR4Z2QAGCF7A/ref=cm_cr_arp_d_gw_btm?ie=UTF8)
+#####  _3.0 out of 5 stars_ Speaker quality is not good ⟨118⟩
+Reviewed in India on 11 May 2025
+Colour: Black, R7 | RTX 3050⟨106⟩ __Verified Purchase⟨100⟩
+Currently facing sound speaker problems,  
+It is ok ok choose on this budget and build quality is ok
+One person found this helpful
+Helpful
+Sending feedback...
+__
+Thank you for your feedback.
+__
+Sorry, we failed to record your vote. Please try again
+__Report⟨119⟩
+Showing 0 comments
+#### There was a problem loading comments right now. Please try again later.
+__
+* * *
+  * ![⟨104⟩![](https://images-eu.ssl-images-amazon.com/images/S/amazon-avatars-global/default._CR0,0,1024,1024_SX48_.png)Faizan Bashir](/gp/profile/amzn1.account.AF5J6SH3M64S7ZLH4U5NDMCVPD2Q/ref=cm_cr_arp_d_gw_btm?ie=UTF8)
+#####  _5.0 out of 5 stars_ Incredible Performance in the Sub-60K Range! ⟨120⟩
+Reviewed in India on 18 October 2024
+Colour: Graphite Black, R7 | RTX 2050⟨99⟩ __Verified Purchase⟨100⟩
+I recently purchased the ASUS TUF Gaming A15 (RTX 2050), and I must say, this laptop is phenomenal for under ₹60,000. It handles every graphics-intensive game effortlessly, making them feel like a breeze. Whether it’s AAA titles or resource-heavy tasks, this machine delivers outstanding performance.  
+  
+The Ryzen 7 7435HS processor paired with the RTX 2050 GPU ensures smooth gameplay, and I’ve been running everything at high settings without any noticeable lag. The Turbo Mode really brings out its power, making it a top choice for gaming enthusiasts on a budget.  
+  
+However, there are a couple of small issues that are common with gaming laptops, like heating during prolonged sessions and the battery life being on the shorter side when gaming. But this is expected given the power it packs. For everyday tasks or casual use, the battery holds up well enough.  
+  
+Overall, this laptop is a BEAST in every way. It offers exceptional value for money, and for anyone looking for great performance under 60K, this is hands down one of the best options out there.
+![Customer image⟨101⟩]
+![⟨97⟩![](https://images-eu.ssl-images-amazon.com/images/S/amazon-avatars-global/default._CR0,0,1024,1024_SX48_.png)Faizan Bashir](/gp/profile/amzn1.account.AF5J6SH3M64S7ZLH4U5NDMCVPD2Q/ref=cm_cr_arp_d_gw_pop?ie=UTF8)
+_5.0 out of 5 stars_
+#####  Incredible Performance in the Sub-60K Range! 
+  
+Reviewed in India on 18 October 2024 
+I recently purchased the ASUS TUF Gaming A15 (RTX 2050), and I must say, this laptop is phenomenal for under ₹60,000. It handles every graphics-intensive game effortlessly, making them feel like a breeze. Whether it’s AAA titles or resource-heavy tasks, this machine delivers outstanding performance.  
+  
+The Ryzen 7 7435HS processor paired with the RTX 2050 GPU ensures smooth gameplay, and I’ve been running everything at high settings without any noticeable lag. The Turbo Mode really brings out its power, making it a top choice for gaming enthusiasts on a budget.  
+  
+However, there are a couple of small issues that are common with gaming laptops, like heating during prolonged sessions and the battery life being on the shorter side when gaming. But this is expected given the power it packs. For everyday tasks or casual use, the battery holds up well enough.  
+  
+Overall, this laptop is a BEAST in every way. It offers exceptional value for money, and for anyone looking for great performance under 60K, this is hands down one of the best options out there. 
+######  Images in this review 
+![Customer image 1⟨121⟩] ![Customer image 2⟨122⟩]
+![Customer image⟨121⟩__](javascript:void\(0\))![Customer image⟨122⟩__](javascript:void\(0\))
+21 people found this helpful
 Helpful
 Sending feedback...
 __
@@ -475,72 +640,34 @@ Showing 0 comments
 #### There was a problem loading comments right now. Please try again later.
 __
 * * *
-  * ![⟨108⟩![](https://images-eu.ssl-images-amazon.com/images/S/amazon-avatars-global/default._CR0,0,1024,1024_SX48_.png)Venkata Ravi Chandra K](/gp/profile/amzn1.account.AGV23WWSIA24IGSVKCIKC7PYCZ7Q/ref=cm_cr_arp_d_gw_btm?ie=UTF8)
-#####  _4.0 out of 5 stars_ A phone for Parent's that might last long. Period. 3.5/5 ⟨124⟩
-Reviewed in India on 19 July 2025
-Colour: Serene Green __Size: 8GB + 128GB⟨125⟩ __Verified Purchase⟨101⟩
-Ordered this for my mom. The usage is typically 1-2 hours of network / whatsapp calls with family involves voice & video calls per day. Maybe 1-2 hours of video content viewing over WiFi & data. Overall 5hours of screen on time per day. The phone does get a bit hot after 1 hours of video calls which i guess is ok at this price point. I observed some app crashes like while making some UPI payments, when it tries to open camera module to scan QR codes, strange. However, its less than a week of observations, probably some software updates could fix some issues. Hoping for the hardware to last 6+ years like the software updates. Camera is decent. Sound over speaker is loud and gets the job done. Do not expect gaming. Battery life so far seems decent with the usage level, lasts a day with 5-6 hours screen on time with 30-40% left by end of the day. For the price you could get other options, but my need is for longer software updates and that's the only selling point. Otherwise a 3-4 star phone in terms of value for money.
-2 people found this helpful
+  * ![⟨104⟩![](https://images-eu.ssl-images-amazon.com/images/S/amazon-avatars-global/default._CR0,0,1024,1024_SX48_.png)Akshay ](/gp/profile/amzn1.account.AGE34H4ZAJEGVBA3YB67KPC54EAQ/ref=cm_cr_arp_d_gw_btm?ie=UTF8)
+##### _4.0 out of 5 stars_ Excellent performance ⟨124⟩
+Reviewed in India on 9 July 2025
+Colour: Black, R7 | RTX 3050⟨106⟩ __Verified Purchase⟨100⟩
+I am using this laptop from past 3 months, excellent performance but only problem is battery on full charge it can run upto maximum 2 to 3 hr for basic uses and for gaming and multi tasking maximum 45 minutes to 50 minutes
 Helpful
 Sending feedback...
 __
 Thank you for your feedback.
 __
 Sorry, we failed to record your vote. Please try again
-__Report⟨126⟩
+__Report⟨125⟩
 Showing 0 comments
 #### There was a problem loading comments right now. Please try again later.
 __
 * * *
-  * ![⟨108⟩![](https://images-eu.ssl-images-amazon.com/images/S/amazon-avatars-global/default._CR0,0,1024,1024_SX48_.png)Vairamuthu RL](/gp/profile/amzn1.account.AF4UM5OM2BF6PKYSNZOP5RV3ECCQ/ref=cm_cr_arp_d_gw_btm?ie=UTF8)
-#####  _4.0 out of 5 stars_ Good quality phone with little disadvantagess ⟨127⟩
-Reviewed in India on 20 July 2025
-Colour: Orange Haze __Size: 6GB + 128GB⟨122⟩ __Verified Purchase⟨101⟩
-Product is good in quality but few disadvantages like if you use SD card then only one sim can be used since they provide only 2 slots and there is no separate slot for SD card and no charger included as well no slot for headphone jack so you can only use airpods and cannot use wired earphones
+  * ![⟨104⟩![](https://images-eu.ssl-images-amazon.com/images/S/amazon-avatars-global/49f7ca0f-8e98-48c1-90ec-2dcea6b337b2._CR0,0,499,499_SX48_.jpg)Mallikarjun Kumbar](/gp/profile/amzn1.account.AHIWW3NTLYQMFYELHKXSGHODDCGQ/ref=cm_cr_arp_d_gw_btm?ie=UTF8)
+#####  _4.0 out of 5 stars_ Display is not clear than most other ⟨126⟩
+Reviewed in India on 15 July 2025
+Colour: Black, R7 | RTX 3050⟨106⟩ __Verified Purchase⟨100⟩
+Excellent
 Helpful
 Sending feedback...
 __
 Thank you for your feedback.
 __
 Sorry, we failed to record your vote. Please try again
-__Report⟨128⟩
-Showing 0 comments
-#### There was a problem loading comments right now. Please try again later.
-__
-* * *
-  * ![⟨108⟩![](https://images-eu.ssl-images-amazon.com/images/S/amazon-avatars-global/default._CR0,0,1024,1024_SX48_.png)Sathish D](/gp/profile/amzn1.account.AHDG2ICA72N6OE6IQPXSAA6KIE7Q/ref=cm_cr_arp_d_gw_btm?ie=UTF8)
-#####  _4.0 out of 5 stars_ Over all ok ⟨129⟩
-Reviewed in India on 21 July 2025
-Colour: Velvet Black __Size: 6GB + 128GB⟨100⟩ __Verified Purchase⟨101⟩
-While installing 6-8 app my mobile getting heat is that normal or not dnt know need use mobile a month.  
-Looks wise so elegant..nice feature.  
-But I feel camera quality is average.  
-  
-I ll share after few days  
-Thanks
-![Customer image⟨102⟩]
-![⟨98⟩![](https://images-eu.ssl-images-amazon.com/images/S/amazon-avatars-global/default._CR0,0,1024,1024_SX48_.png)Sathish D](/gp/profile/amzn1.account.AHDG2ICA72N6OE6IQPXSAA6KIE7Q/ref=cm_cr_arp_d_gw_pop?ie=UTF8)
-_4.0 out of 5 stars_
-#####  Over all ok 
-  
-Reviewed in India on 21 July 2025 
-While installing 6-8 app my mobile getting heat is that normal or not dnt know need use mobile a month.  
-Looks wise so elegant..nice feature.  
-But I feel camera quality is average.  
-  
-I ll share after few days  
-Thanks 
-######  Images in this review 
-![Customer image 1⟨130⟩] ![Customer image 2⟨131⟩]
-![Customer image⟨130⟩__](javascript:void\(0\))![Customer image⟨131⟩__](javascript:void\(0\))
-One person found this helpful
-Helpful
-Sending feedback...
-__
-Thank you for your feedback.
-__
-Sorry, we failed to record your vote. Please try again
-__Report⟨132⟩
+__Report⟨127⟩
 Showing 0 comments
 #### There was a problem loading comments right now. Please try again later.
 __
@@ -549,89 +676,89 @@ __
 
 
   * ←Previous page
-  * Next page→⟨133⟩
+  * Next page→⟨128⟩
 
 
 Sponsored ****
-Need customer service? ⟨134⟩
-‹ See all details for Samsung Galaxy M36 5G (Orange Haze, 6 GB RAM, 128 GB Storage)| Circle...⟨135⟩
+Need customer service? ⟨129⟩
+‹ See all details for ASUS TUF Gaming A15, AMD Ryzen 7 7435HS Gaming Laptop(NVIDIA RTX...⟨130⟩
   
 
 ![](https://m.media-amazon.com/images/G/31/personalization/ybh/loading-4x-gray._CB485916689_.gif)  
 ---  
 Your recently viewed items and featured recommendations 
 ›
- View or edit your browsing history ⟨136⟩
+ View or edit your browsing history ⟨131⟩
 After viewing product detail pages, look here to find an easy way to navigate back to pages you are interested in. 
 Your recently viewed items and featured recommendations 
 › 
- View or edit your browsing history ⟨136⟩
+ View or edit your browsing history ⟨131⟩
 After viewing product detail pages, look here to find an easy way to navigate back to pages you are interested in. 
   
 
 Back to top 
 Get to Know Us
-  * About Amazon⟨137⟩
-  * Careers⟨138⟩
-  * Press Releases⟨139⟩
-  * Amazon Science⟨140⟩
+  * About Amazon⟨132⟩
+  * Careers⟨133⟩
+  * Press Releases⟨134⟩
+  * Amazon Science⟨135⟩
 
 
 Connect with Us
-  * Facebook⟨141⟩
-  * Twitter⟨142⟩
-  * Instagram⟨143⟩
+  * Facebook⟨136⟩
+  * Twitter⟨137⟩
+  * Instagram⟨138⟩
 
 
 Make Money with Us
-  * Sell on Amazon⟨144⟩
-  * Sell under Amazon Accelerator⟨145⟩
-  * Protect and Build Your Brand⟨146⟩
-  * Amazon Global Selling⟨147⟩
-  * Supply to Amazon⟨148⟩
-  * Become an Affiliate⟨149⟩
-  * Fulfilment by Amazon⟨150⟩
-  * Advertise Your Products⟨151⟩
-  * Amazon Pay on Merchants⟨152⟩
+  * Sell on Amazon⟨139⟩
+  * Sell under Amazon Accelerator⟨140⟩
+  * Protect and Build Your Brand⟨141⟩
+  * Amazon Global Selling⟨142⟩
+  * Supply to Amazon⟨143⟩
+  * Become an Affiliate⟨144⟩
+  * Fulfilment by Amazon⟨145⟩
+  * Advertise Your Products⟨146⟩
+  * Amazon Pay on Merchants⟨147⟩
 
 
 Let Us Help You
-  * Your Account⟨153⟩
-  * Returns Centre⟨154⟩
-  * Recalls and Product Safety Alerts⟨155⟩
-  * 100% Purchase Protection⟨156⟩
-  * Amazon App Download⟨157⟩
-  * Help⟨158⟩
+  * Your Account⟨148⟩
+  * Returns Centre⟨149⟩
+  * Recalls and Product Safety Alerts⟨150⟩
+  * 100% Purchase Protection⟨151⟩
+  * Amazon App Download⟨152⟩
+  * Help⟨153⟩
 
 
- ⟨159⟩
- English ⟨160⟩
- India ⟨161⟩
+ ⟨154⟩
+ English ⟨155⟩
+ India ⟨156⟩
   * ##### AbeBooksBooks, art  
-& collectibles⟨162⟩
+& collectibles⟨157⟩
   *   * ##### Amazon Web ServicesScalable Cloud  
-Computing Services⟨163⟩
+Computing Services⟨158⟩
   *   * ##### AudibleDownload  
-Audio Books⟨164⟩
+Audio Books⟨159⟩
   *   * ##### IMDbMovies, TV  
-& Celebrities⟨165⟩
+& Celebrities⟨160⟩
   *   * ##### ShopbopDesigner  
-Fashion Brands⟨166⟩
+Fashion Brands⟨161⟩
 
 
   * #####  Amazon BusinessEverything For  
-Your Business⟨167⟩
+Your Business⟨162⟩
   *   * ##### Prime Now 2-Hour Delivery  
-on Everyday Items⟨168⟩
+on Everyday Items⟨163⟩
   *   * ##### Amazon Prime Music100 million songs, ad-free  
-Over 15 million podcast episodes ⟨169⟩
-  *   * ##### Amazon LiveStream. Shop. Live⟨170⟩
+Over 15 million podcast episodes ⟨164⟩
+  *   * ##### Amazon LiveStream. Shop. Live⟨165⟩
   *   *  
 
 
-  * Conditions of Use & Sale⟨171⟩
-  * Privacy Notice⟨172⟩
-  * Interest-Based Ads⟨173⟩
+  * Conditions of Use & Sale⟨166⟩
+  * Privacy Notice⟨167⟩
+  * Interest-Based Ads⟨168⟩
 
 © 1996-2025, Amazon.com, Inc. or its affiliates
-![](//fls-eu.amazon.in/1/batch/1/OP/A21TJRUUN4KGV:259-9062319-1524538:APQEYP8WP97XA7ZF4F7K$uedata=s:%2Frd%2Fuedata%3Fnoscript%26id%3DAPQEYP8WP97XA7ZF4F7K:0)
+![](//fls-eu.amazon.in/1/batch/1/OP/A21TJRUUN4KGV:257-8137438-8359168:6VB8259PFDKZFZGB8PJ6$uedata=s:%2Frd%2Fuedata%3Fnoscript%26id%3D6VB8259PFDKZFZGB8PJ6:0)

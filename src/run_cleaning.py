@@ -22,8 +22,13 @@ def run_review_cleaning_process():
     client = OpenAI(api_key=api_key)
 
     # === Process Files ===
+    # all_reviews = []
+    # for filename in os.listdir(input_folder):
+
     all_reviews = []
-    for filename in os.listdir(input_folder):
+    for i, filename in enumerate(os.listdir(input_folder)):
+        if i >= 5: ##added for demo
+            break
         if filename.endswith(".txt"):
             path = os.path.join(input_folder, filename)
             print(f" Processing {filename}")
