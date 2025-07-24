@@ -32,15 +32,15 @@ def run_review_cleaning_process():
                 try:
                     reviews = extract_reviews(text, client, model, temperature, max_tokens)
                     print("Cleaned reviews", reviews)
-                    # all_reviews.extend(reviews)
-                    # print(f" Extracted {len(reviews)} reviews.")
+                    all_reviews.extend(reviews)
+                    print(f" Extracted {len(reviews)} reviews.")
                 except Exception as e:
                     print(f" Failed to process {filename}: {e}")
 
-    # # === Save Output ===
-    # print(f"\n Saving {len(all_reviews)} reviews to {output_json_path}")
-    # with open(output_json_path, "w", encoding="utf-8") as f:
-    #     import json
-    #     json.dump(all_reviews, f, ensure_ascii=False, indent=2)
-    # print(" Done!")
+    # === Save Output ===
+    print(f"\n Saving {len(all_reviews)} reviews to {output_json_path}")
+    with open(output_json_path, "w", encoding="utf-8") as f:
+        import json
+        json.dump(all_reviews, f, ensure_ascii=False, indent=2)
+    print(" Done!")
 

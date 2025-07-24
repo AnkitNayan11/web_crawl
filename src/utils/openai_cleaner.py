@@ -38,13 +38,13 @@ def extract_reviews(text, client, model, temperature, max_tokens):
     )
 
     content = response.choices[0].message.content
-    return content
-    # try:
-    #     json_start = content.find("[")
-    #     json_end = content.rfind("]") + 1
-    #     json_str = content[json_start:json_end]
-    #     return json.loads(json_str)
-    # except json.JSONDecodeError as e:
-    #     print("JSON parse error:", e)
-    #     print("Raw response:\n", content[:500])
-    #     return []
+    # return content
+    try:
+        json_start = content.find("[")
+        json_end = content.rfind("]") + 1
+        json_str = content[json_start:json_end]
+        return json.loads(json_str)
+    except json.JSONDecodeError as e:
+        print("JSON parse error:", e)
+        print("Raw response:\n", content[:500])
+        return []

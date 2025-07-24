@@ -24,6 +24,10 @@ pip install -r requirements.txt
 pip install playwright
 playwright install
 
+## How to run
+
+python /Users/ankitnayan/Downloads/final_web_v1/web_crawl/src/programatic_login.py
+python /Users/ankitnayan/Downloads/final_web_v1/web_crawl/src/main.py
 
 ### 2. Project Folder Structure:
 

@@ -1,4 +1,4 @@
-Amazon.in:Customer reviews: HP 15, 13th Gen Intel Core i5-1334U Laptop (16GB DDR4,512GB SSD) Anti-Glare, Micro-edge,15.6&#39;&#39;/39.6cm, FHD, Win11,M365,Office24, Silver,1.59kg, Iris Xe Graphics, FHD Camera w/privacy shutter, fd0577TU
+Amazon.in:Customer reviews: Samsung Galaxy M36 5G (Orange Haze, 6 GB RAM, 128 GB Storage)| Circle to Search| Google Gemini| Corning Gorilla Glass Victus+| 7.7mm Slim| AI Enhanced 50 MP OIS Triple Camera| Unmatched Nightography
 ![](https://m.media-amazon.com/images/G/31/gno/sprites/nav-sprite-global-1x-reorg-privacy._CB546381437_.png)
 ## Skip to
   *  Main content ⟨1⟩
@@ -17,82 +17,236 @@ shift + opt + Z
 __
 To move between items, use your keyboard's up or down arrows.
  .in ⟨2⟩
- ⟨3⟩
-[ Deliver to Mayank  Kichha 263148‌  ]()
+[ Deliver to Ankit  Bengaluru 560066‌  ]()
 All __
-Select the department you want to search in All Categories Alexa Skills Amazon Devices Amazon Fashion Amazon Fresh Amazon Pharmacy Appliances Apps & Games Audible Audiobooks Baby Beauty Books Car & Motorbike Clothing & Accessories Collectibles Computers & Accessories Deals Electronics Furniture Garden & Outdoors Gift Cards Grocery & Gourmet Foods Health & Personal Care Home & Kitchen Industrial & Scientific Jewellery Kindle Store Luggage & Bags Luxury Beauty Movies & TV Shows MP3 Music Music Musical Instruments Office Products Pet Supplies Prime Video Shoes & Handbags Software Sports, Fitness & Outdoors Subscribe & Save Tools & Home Improvement Toys & Games Under ₹500 Video Games Watches
+Select the department you want to search in All Categories Alexa Skills Amazon Devices Amazon Fashion Amazon Fresh Amazon Fresh Meat Amazon Pharmacy Appliances Apps & Games Audible Audiobooks Baby Beauty Books Car & Motorbike Clothing & Accessories Collectibles Computers & Accessories Deals Electronics Furniture Garden & Outdoors Gift Cards Grocery & Gourmet Foods Health & Personal Care Home & Kitchen Industrial & Scientific Jewellery Kindle Store Luggage & Bags Luxury Beauty Movies & TV Shows MP3 Music Music Musical Instruments Office Products Pet Supplies Prime Video Shoes & Handbags Software Sports, Fitness & Outdoors Subscribe & Save Tools & Home Improvement Toys & Games Under ₹500 Video Games Watches
 Search Amazon.in
- EN ⟨4⟩
- Hello, Mayank Account & Lists  ⟨5⟩
- Returns & Orders ⟨6⟩  0 Cart  ⟨7⟩
+ EN ⟨3⟩
+ Hello, Ankit Account & Lists  ⟨4⟩
+ Returns & Orders ⟨5⟩  6 Cart  ⟨6⟩
 Your Lists
-  * Create a Wish List⟨8⟩
-  * Wish from Any Website⟨9⟩
-  * Baby Wishlist⟨10⟩
-  * Discover Your Style⟨11⟩
-  * Explore Showroom⟨12⟩
+  * Create a Wish List⟨7⟩
+  * Wish from Any Website⟨8⟩
+  * Baby Wishlist⟨9⟩
+  * Discover Your Style⟨10⟩
+  * Explore Showroom⟨11⟩
 
 
 Your Account
-  * Switch Accounts⟨13⟩
-  * Sign Out⟨14⟩
-  * Your Account⟨15⟩
-  * Your Orders⟨16⟩
-  * Your Wish List⟨17⟩
-  * Keep shopping for⟨18⟩
-  * Your Recommendations⟨19⟩
-  * Recalls and Product Safety Alerts⟨20⟩
-  * Your Prime Membership⟨21⟩
-  * Your Prime Video⟨22⟩
-  * Your Subscribe & Save Items⟨23⟩
-  * Memberships & Subscriptions⟨24⟩
-  * Your Seller Account⟨25⟩
-  * Content Library⟨26⟩
-  * Devices⟨27⟩
-  * Register for a free Business Account⟨28⟩
+  * Switch Accounts⟨12⟩
+  * Sign Out⟨13⟩
+  * Your Account⟨14⟩
+  * Your Orders⟨15⟩
+  * Your Wish List⟨16⟩
+  * Keep shopping for⟨17⟩
+  * Your Recommendations⟨18⟩
+  * Recalls and Product Safety Alerts⟨19⟩
+  * Your Prime Membership⟨20⟩
+  * Your Prime Video⟨21⟩
+  * Your Subscribe & Save Items⟨22⟩
+  * Memberships & Subscriptions⟨23⟩
+  * Your Seller Account⟨24⟩
+  * Content Library⟨25⟩
+  * Devices⟨26⟩
+  * Register for a free Business Account⟨27⟩
 
 
- __ All ⟨29⟩)
-  * Fresh⟨30⟩
-  * Today's Deals⟨31⟩
-  * Prime ⟨32⟩
-  * Bestsellers⟨33⟩
-  * Keep Shopping for⟨34⟩
-  * MX Player⟨35⟩
-  * Sell⟨36⟩
-  * Buy Again⟨37⟩
-  * Gift Cards⟨38⟩
-  * Kindle eBooks⟨39⟩
-  * Amazon Business ⟨40⟩
-  * Amazon Pay⟨41⟩
-  * Browsing History⟨42⟩
-  * Mayank's Amazon.in⟨43⟩
-  * AmazonBasics⟨44⟩
-  * Grocery & Gourmet Foods⟨45⟩
-  * Books⟨46⟩
-  * Health, Household & Personal Care⟨47⟩
-  * Home Improvement⟨48⟩
-  * Customer Service⟨49⟩
-  * Gift Ideas ⟨50⟩
-  * Home & Kitchen⟨51⟩
-  * Subscribe & Save⟨52⟩
-  * New Releases⟨53⟩
+ __ All ⟨28⟩)
+  * Fresh ⟨29⟩
+  * MX Player⟨30⟩
+  * Sell⟨31⟩
+  * Gift Cards⟨32⟩
+  * Buy Again⟨33⟩
+  * Amazon Pay⟨34⟩
+  * AmazonBasics⟨35⟩
+  * Kindle eBooks⟨36⟩
+  * Books⟨37⟩
+  * Today's Deals⟨38⟩
+  * Gift Ideas ⟨39⟩
+  * Home Improvement⟨40⟩
+  * Health, Household & Personal Care⟨41⟩
+  * Bestsellers⟨42⟩
+  * Browsing History⟨43⟩
+  * Ankit's Amazon.in⟨44⟩
+  * Customer Service⟨45⟩
+  * Subscribe & Save⟨46⟩
+  * Home & Kitchen⟨47⟩
+  * New Releases⟨48⟩
+  * Grocery & Gourmet Foods⟨49⟩
+  * Prime ⟨50⟩
+  * Audible⟨51⟩
+  * Toys & Games⟨52⟩
+  * Fashion⟨53⟩
   * Mobiles⟨54⟩
-  * Fashion⟨55⟩
-  * Toys & Games⟨56⟩
-  *  Electronics ⟨57⟩
+  *  Electronics ⟨55⟩
+  * Computers⟨56⟩
+  * Pet Supplies⟨57⟩
   * Beauty & Personal Care⟨58⟩
-  * Computers⟨59⟩
-  * Audible⟨60⟩
-  * Pet Supplies⟨61⟩
-  * Baby⟨62⟩
-  * Car & Motorbike⟨63⟩
-  * Video Games⟨64⟩
-  * Sports, Fitness & Outdoors⟨65⟩
+  * Baby⟨59⟩
+  * Car & Motorbike⟨60⟩
+
+
+![Amazon⟨61⟩]
+0 items 
+![Amazon Fresh⟨62⟩]
+6 items 
+![Amazon⟨61⟩]
+0 items 
+##  ₹0.00 
+![Amazon Fresh⟨62⟩]
+6 items 
+##  ₹166.00 
+ Go to Cart ⟨63⟩
+Add items worth ₹333.00 for FREE delivery 
+ Go to Cart ⟨64⟩
+  *  ![Fresh Tomato Hybrid, 1kg⟨65⟩ ](/gp/product/B07BG7LB3Q/ref=ewc_pr_img_1?smid=A14ZXHJG8U9TGB&almBrandId=ctnow&psc=1&fpw=alm)
+₹45.00 
+ Fresh Tomato Hybrid, 1kg ⟨66⟩ was removed from Shopping Cart. 
+ Fresh Tomato Hybrid, 1kg ⟨66⟩ was already removed from Shopping Cart. 
+ ⟨67⟩
+ ⟨67⟩ ![Fresh Tomato Hybrid, 1kg⟨68⟩ ](/gp/product/B07BG7LB3Q/ref=ewc_pr_img_1?smid=A14ZXHJG8U9TGB&almBrandId=ctnow&psc=1&fpw=alm)
+Moved to   
+Saved for later⟨67⟩
+__
+Delete Failed. Try again 
+__
+Update failed. Try again 
+__
+We couldn’t save this item for later; try again
+__1 Qty:  
+---  
+Update  
+Qty:1change⟨69⟩)
+Total Price: $000.00
+Total Price: ₹45.00
+  
+
+__Add to Cart
+![Delete⟨70⟩]
+  *  ![Fresh Cucumber, 500g⟨71⟩ ](/gp/product/B07BG7B7WB/ref=ewc_pr_img_2?smid=A14ZXHJG8U9TGB&almBrandId=ctnow&psc=1&fpw=alm)
+₹24.00 
+ Fresh Cucumber, 500g ⟨72⟩ was removed from Shopping Cart. 
+ Fresh Cucumber, 500g ⟨72⟩ was already removed from Shopping Cart. 
+ ⟨67⟩
+ ⟨67⟩ ![Fresh Cucumber, 500g⟨73⟩ ](/gp/product/B07BG7B7WB/ref=ewc_pr_img_2?smid=A14ZXHJG8U9TGB&almBrandId=ctnow&psc=1&fpw=alm)
+Moved to   
+Saved for later⟨67⟩
+__
+Delete Failed. Try again 
+__
+Update failed. Try again 
+__
+We couldn’t save this item for later; try again
+__1 Qty:  
+---  
+Update  
+Qty:1change⟨69⟩)
+Total Price: $000.00
+Total Price: ₹24.00
+  
+
+__Add to Cart
+![Delete⟨70⟩]
+  *  ![Fresh Bhendi \(Lady Finger\), 500g⟨74⟩ ](/gp/product/B07BG7D7HF/ref=ewc_pr_img_3?smid=A14ZXHJG8U9TGB&almBrandId=ctnow&psc=1&fpw=alm)
+₹28.00 
+ Fresh Bhendi (Lady Finger), 500g ⟨75⟩ was removed from Shopping Cart. 
+ Fresh Bhendi (Lady Finger), 500g ⟨75⟩ was already removed from Shopping Cart. 
+ ⟨67⟩
+ ⟨67⟩ ![Fresh Bhendi \(Lady Finger\), 500g⟨76⟩ ](/gp/product/B07BG7D7HF/ref=ewc_pr_img_3?smid=A14ZXHJG8U9TGB&almBrandId=ctnow&psc=1&fpw=alm)
+Moved to   
+Saved for later⟨67⟩
+__
+Delete Failed. Try again 
+__
+Update failed. Try again 
+__
+We couldn’t save this item for later; try again
+__1 Qty:  
+---  
+Update  
+Qty:1change⟨69⟩)
+Total Price: $000.00
+Total Price: ₹28.00
+  
+
+__Add to Cart
+![Delete⟨70⟩]
+  *  ![Fresh Coriander Leaves, 100 g⟨77⟩ ](/gp/product/B07BG5GJJW/ref=ewc_pr_img_4?smid=A14ZXHJG8U9TGB&almBrandId=ctnow&psc=1&fpw=alm)
+₹9.00 
+ Fresh Coriander Leaves, 100 g ⟨78⟩ was removed from Shopping Cart. 
+ Fresh Coriander Leaves, 100 g ⟨78⟩ was already removed from Shopping Cart. 
+ ⟨67⟩
+ ⟨67⟩ ![Fresh Coriander Leaves, 100 g⟨79⟩ ](/gp/product/B07BG5GJJW/ref=ewc_pr_img_4?smid=A14ZXHJG8U9TGB&almBrandId=ctnow&psc=1&fpw=alm)
+Moved to   
+Saved for later⟨67⟩
+__
+Delete Failed. Try again 
+__
+Update failed. Try again 
+__
+We couldn’t save this item for later; try again
+__1 Qty:  
+---  
+Update  
+Qty:1change⟨69⟩)
+Total Price: $000.00
+Total Price: ₹9.00
+  
+
+__Add to Cart
+![Delete⟨70⟩]
+  *  ![Fresh Potato, 1kg⟨80⟩ ](/gp/product/B07BG5GZP2/ref=ewc_pr_img_5?smid=A14ZXHJG8U9TGB&almBrandId=ctnow&psc=1&fpw=alm)
+₹33.00 
+ Fresh Potato, 1kg ⟨81⟩ was removed from Shopping Cart. 
+ Fresh Potato, 1kg ⟨81⟩ was already removed from Shopping Cart. 
+ ⟨67⟩
+ ⟨67⟩ ![Fresh Potato, 1kg⟨82⟩ ](/gp/product/B07BG5GZP2/ref=ewc_pr_img_5?smid=A14ZXHJG8U9TGB&almBrandId=ctnow&psc=1&fpw=alm)
+Moved to   
+Saved for later⟨67⟩
+__
+Delete Failed. Try again 
+__
+Update failed. Try again 
+__
+We couldn’t save this item for later; try again
+__1 Qty:  
+---  
+Update  
+Qty:1change⟨69⟩)
+Total Price: $000.00
+Total Price: ₹33.00
+  
+
+__Add to Cart
+![Delete⟨70⟩]
+  *  ![Fresh Onion, 1kg⟨83⟩ ](/gp/product/B07BG62MBV/ref=ewc_pr_img_6?smid=A14ZXHJG8U9TGB&almBrandId=ctnow&psc=1&fpw=alm)
+₹27.00 
+ Fresh Onion, 1kg ⟨84⟩ was removed from Shopping Cart. 
+ Fresh Onion, 1kg ⟨84⟩ was already removed from Shopping Cart. 
+ ⟨67⟩
+ ⟨67⟩ ![Fresh Onion, 1kg⟨85⟩ ](/gp/product/B07BG62MBV/ref=ewc_pr_img_6?smid=A14ZXHJG8U9TGB&almBrandId=ctnow&psc=1&fpw=alm)
+Moved to   
+Saved for later⟨67⟩
+__
+Delete Failed. Try again 
+__
+Update failed. Try again 
+__
+We couldn’t save this item for later; try again
+__1 Qty:  
+---  
+Update  
+Qty:1change⟨69⟩)
+Total Price: $000.00
+Total Price: ₹27.00
+  
+
+__Add to Cart
+![Delete⟨70⟩]
 
 
 # 
-  * HP 15, 13th Gen Intel Core i5-1334U Laptop (16GB DDR4,512GB SSD)...⟨66⟩
+  * Samsung Galaxy M36 5G (Orange Haze, 6 GB RAM, 128 GB Storage)| Circle...⟨86⟩
   * ›
   * Customer reviews
 
@@ -100,25 +254,26 @@ Your Account
 ## Customer reviews
  _3.8 out of 5 stars_
 3.8 out of 5
-40 global ratings
-  *  5 star  4 star  3 star  2 star  1 star  5 star  56%  16%  3%  3%  22%  56%  ⟨67⟩
-  *  5 star  4 star  3 star  2 star  1 star  4 star  56%  16%  3%  3%  22%  16%  ⟨68⟩
-  *  5 star  4 star  3 star  2 star  1 star  3 star  56%  16%  3%  3%  22%  3%  ⟨69⟩
-  *  5 star  4 star  3 star  2 star  1 star  2 star  56%  16%  3%  3%  22%  3%  ⟨70⟩
-  *  5 star  4 star  3 star  2 star  1 star  1 star  56%  16%  3%  3%  22%  22%  ⟨71⟩
+293 global ratings
+  *  5 star  4 star  3 star  2 star  1 star  5 star  58%  11%  8%  3%  20%  58%  ⟨87⟩
+  *  5 star  4 star  3 star  2 star  1 star  4 star  58%  11%  8%  3%  20%  11%  ⟨88⟩
+  *  5 star  4 star  3 star  2 star  1 star  3 star  58%  11%  8%  3%  20%  8%  ⟨89⟩
+  *  5 star  4 star  3 star  2 star  1 star  2 star  58%  11%  8%  3%  20%  3%  ⟨90⟩
+  *  5 star  4 star  3 star  2 star  1 star  1 star  58%  11%  8%  3%  20%  20%  ⟨91⟩
 
 
-![HP 15, 13th Gen Intel Core i5-1334U Laptop \(16GB DDR4,512GB SSD\) Anti-Glare, Micro-edge,15.6&#39;&#39;/39.6cm, FHD, Win11,M365,Office24, Silver,1.59kg, Iris Xe Graphics, FHD Camera w/privacy shutter, fd0577TU⟨72⟩](/HP-i5-1334U-Anti-Glare-Micro-edge-fd0577TU/dp/B0F4R6H3NB/ref=cm_cr_arp_d_pdt_img_top?ie=UTF8)
-# HP 15, 13th Gen Intel Core i5-1334U Laptop (16GB DDR4,512GB SSD) Anti-Glare, Micro-edge,15.6''/39.6cm, FHD, Win11,M365,Office24, Silver,1.59kg, Iris Xe Graphics, FHD Camera w/privacy shutter, fd0577TU⟨73⟩
-byHP⟨74⟩
-  * Size: 512GB
-  * __Change⟨73⟩
+![Samsung Galaxy M36 5G \(Orange Haze, 6 GB RAM, 128 GB Storage\)| Circle to Search| Google Gemini| Corning Gorilla Glass Victus+| 7.7mm Slim| AI Enhanced 50 MP OIS Triple Camera| Unmatched Nightography⟨92⟩](/Samsung-Storage-Enhanced-Unmatched-Nightography/dp/B0FDB765TN/ref=cm_cr_arp_d_pdt_img_top?ie=UTF8)
+# Samsung Galaxy M36 5G (Orange Haze, 6 GB RAM, 128 GB Storage)| Circle to Search| Google Gemini| Corning Gorilla Glass Victus+| 7.7mm Slim| AI Enhanced 50 MP OIS Triple Camera| Unmatched Nightography⟨93⟩
+bySamsung⟨94⟩
+  * Colour: Orange Haze __
+  * Size: 6GB + 128GB
+  * __Change⟨93⟩
 
 
-Write a review⟨75⟩
-__How are ratings calculated?⟨76⟩)
+Write a review⟨95⟩
+__How are ratings calculated?⟨69⟩)
 To calculate the overall star rating and percentage breakdown by star, we don’t use a simple average. Instead, our system considers things like how recent a review is and if the reviewer bought the item on Amazon. It also analyses reviews to verify trustworthiness. 
-See All Buying Options⟨77⟩
+See All Buying Options⟨96⟩
 * * *
 __
 This page works best with JavaScript. Disabling it will result in some disabled or missing features. You can still see all customer reviews for the product.
@@ -130,157 +285,69 @@ Sort by reviews type Top reviewsMost recentTop reviews __
 ### Filter by
 Filter by reviewer type All reviewersVerified purchase onlyAll reviewers __
 Filter by star count All stars5 star only4 star only3 star only2 star only1 star onlyPositive reviewsCritical reviewsAll stars __
-Filter by variant type All variantsSize: 512GBAll variants __
+Filter by variant type All variantsColour: Orange Haze |Size: 6GB + 128GBAll variants __
 Filter by media type All text, image and video reviewsImage and video reviews onlyAll text, image and video reviews __
-24 customer reviews 
+185 customer reviews 
 * * *
 #### There was a problem filtering reviews. Please reload the page.
 __
 ###  From India 
-  * ![⟨78⟩![](https://images-eu.ssl-images-amazon.com/images/S/amazon-avatars-global/default._CR0,0,1024,1024_SX48_.png)Subhankar Banerjee](/gp/profile/amzn1.account.AHIUX62RSXDTFNRTJM35DUMMJ34A/ref=cm_cr_getr_d_gw_btm?ie=UTF8)
-#####  _5.0 out of 5 stars_ Design ⟨79⟩
-Reviewed in India on 28 June 2025
-Size: 1 TB⟨80⟩ __Verified Purchase⟨81⟩
-Beautiful sleek silver laptop.loved it
-One person found this helpful
-Helpful
-Sending feedback...
-__
-Thank you for your feedback.
-__
-Sorry, we failed to record your vote. Please try again
-__Report⟨82⟩
-Showing 0 comments
-#### There was a problem loading comments right now. Please try again later.
-__
-* * *
-  * ![⟨78⟩![](https://images-eu.ssl-images-amazon.com/images/S/amazon-avatars-global/default._CR0,0,1024,1024_SX48_.png) Delivery person not willing to deliver till door step though other Web sellers supporting to till Door step delivery which is Unprofessional and not fair to spending time for asking delivery till house.](/gp/profile/amzn1.account.AGOGBD6NRX6OA7735OBBBDKSCXRQ/ref=cm_cr_getr_d_gw_btm?ie=UTF8)
-##### _5.0 out of 5 stars_ Amazon always trustable ⟨83⟩
-Reviewed in India on 22 June 2025
-Size: 512GB⟨84⟩ __Verified Purchase⟨81⟩
-Why did you pick this product vs others?:  
-Good 👍
-2 people found this helpful
-Helpful
-Sending feedback...
-__
-Thank you for your feedback.
-__
-Sorry, we failed to record your vote. Please try again
-__Report⟨85⟩
-Showing 0 comments
-#### There was a problem loading comments right now. Please try again later.
-__
-* * *
-  * ![⟨78⟩![](https://images-eu.ssl-images-amazon.com/images/S/amazon-avatars-global/default._CR0,0,1024,1024_SX48_.png) SJP](/gp/profile/amzn1.account.AF77DZFE3MTBU3BUS2RXSDX6DRLA/ref=cm_cr_getr_d_gw_btm?ie=UTF8)
-#####  _5.0 out of 5 stars_ Nice performance laptop. Good Battery ⟨86⟩
-Reviewed in India on 9 June 2025
-Size: 1 TB⟨80⟩ __Verified Purchase⟨81⟩
-Battery life is good.  
-Microsoft Office 2024 version needs to be downloaded from your microsoft account linked to this laptop.  
-Other wise will get a notification regarding office activation.
-One person found this helpful
-Helpful
-Sending feedback...
-__
-Thank you for your feedback.
-__
-Sorry, we failed to record your vote. Please try again
-__Report⟨87⟩
-Showing 0 comments
-#### There was a problem loading comments right now. Please try again later.
-__
-* * *
-  * ![⟨78⟩![](https://images-eu.ssl-images-amazon.com/images/S/amazon-avatars-global/default._CR0,0,1024,1024_SX48_.png) Nikhil Payal](/gp/profile/amzn1.account.AFKIBS77YHGDINQVDSCBV4TEU3ZQ/ref=cm_cr_getr_d_gw_btm?ie=UTF8)
-#####  _5.0 out of 5 stars_ BEST QUALITY ⟨88⟩
-Reviewed in India on 2 June 2025
-Size: 512GB⟨84⟩ __Verified Purchase⟨81⟩
-Good quality product
-One person found this helpful
-Helpful
-Sending feedback...
-__
-Thank you for your feedback.
-__
-Sorry, we failed to record your vote. Please try again
-__Report⟨89⟩
-Showing 0 comments
-#### There was a problem loading comments right now. Please try again later.
-__
-* * *
-  * ![⟨78⟩![](https://images-eu.ssl-images-amazon.com/images/S/amazon-avatars-global/default._CR0,0,1024,1024_SX48_.png) kapil shrivastava](/gp/profile/amzn1.account.AERQG25KOIQEQKGSBFONEO4ZEEEQ/ref=cm_cr_getr_d_gw_btm?ie=UTF8)
-#####  _1.0 out of 5 stars_ Received Product not in working condition not turn on technician not align and replacement not done ⟨90⟩
-Reviewed in India on 16 July 2025
-Size: 1 TB⟨80⟩ __Verified Purchase⟨81⟩
-Received Product not in working condition. replacement experience very poor. 24 hours but no technician and replacement available.
-One person found this helpful
-Helpful
-Sending feedback...
-__
-Thank you for your feedback.
-__
-Sorry, we failed to record your vote. Please try again
-__Report⟨91⟩
-Showing 0 comments
-#### There was a problem loading comments right now. Please try again later.
-__
-* * *
-  * ![⟨92⟩![](https://images-eu.ssl-images-amazon.com/images/S/amazon-avatars-global/default._CR0,0,1024,1024_SX48_.png) Koduru Vijaya Naga Babu](/gp/profile/amzn1.account.AH6SVBTXBQCWO4DR2SJVIG27CISA/ref=cm_cr_getr_d_gw_btm?ie=UTF8)
-#####  _1.0 out of 5 stars_ Laptop have heating issue ⟨93⟩
+  * ![⟨97⟩![](https://images-eu.ssl-images-amazon.com/images/S/amazon-avatars-global/default._CR0,0,1024,1024_SX48_.png)Max](/gp/profile/amzn1.account.AHMFCQMDCFEKXZM32SDBDLASQVAA/ref=cm_cr_getr_d_gw_btm?ie=UTF8)
+#####  _4.0 out of 5 stars_ Biometric sensor in power button 😊 ⟨98⟩
 Reviewed in India on 15 July 2025
-Size: 512GB⟨84⟩ __Verified Purchase⟨81⟩
-Heating issue
+Colour: Velvet Black __Size: 6GB + 128GB⟨99⟩ __Verified Purchase⟨100⟩
+Decent phone, large display, jazzy colours.  
+Biometric sensor is on power button, something different in this category.  
+  
+Below are some ratings on different areas:  
+Call clarity - 5  
+Touchscreen - 5  
+Camera - 4  
+Speaker - 4  
+Battery life - 4.5  
+  
+Total value for money phone. Worth it!
 Helpful
 Sending feedback...
 __
 Thank you for your feedback.
 __
 Sorry, we failed to record your vote. Please try again
-__Report⟨94⟩
+__Report⟨101⟩
 Showing 0 comments
 #### There was a problem loading comments right now. Please try again later.
 __
 * * *
-  * ![⟨92⟩![](https://images-eu.ssl-images-amazon.com/images/S/amazon-avatars-global/default._CR0,0,1024,1024_SX48_.png) senthilkumar](/gp/profile/amzn1.account.AEDZZ2WP4BMOF4GY5WKJR4OYGEDA/ref=cm_cr_getr_d_gw_btm?ie=UTF8)
-#####  _4.0 out of 5 stars_ Overall feedback ⟨95⟩
-Reviewed in India on 5 July 2025
-Size: 512GB⟨84⟩
-Product design is good. Performance is stable. Need to watch out games and other functionality. Recommended for a normal user
+  * ![⟨97⟩![](https://images-eu.ssl-images-amazon.com/images/S/amazon-avatars-global/default._CR0,0,1024,1024_SX48_.png) Sri Ram Prasanna](/gp/profile/amzn1.account.AFKM4JAMBBH7XMUZI6Y2ZYNDDHGQ/ref=cm_cr_getr_d_gw_btm?ie=UTF8)
+#####  _4.0 out of 5 stars_ Recommended for Office usage. Not for gaming. ⟨102⟩
+Reviewed in India on 19 July 2025
+Colour: Orange Haze __Size: 8GB + 128GB⟨103⟩ __Verified Purchase⟨100⟩
+Decent phone for Regular usage. Not for gaming. It does have heating problem. Camera is perfect for daily usage. Battery life is almost 14 hr. I personally like display. Colors pop up
 Helpful
 Sending feedback...
 __
 Thank you for your feedback.
 __
 Sorry, we failed to record your vote. Please try again
-__Report⟨96⟩
+__Report⟨104⟩
 Showing 0 comments
 #### There was a problem loading comments right now. Please try again later.
 __
 * * *
-  * ![⟨92⟩![](https://images-eu.ssl-images-amazon.com/images/S/amazon-avatars-global/default._CR0,0,1024,1024_SX48_.png) Shine Nair](/gp/profile/amzn1.account.AEQVKVG4XFVM33O5Y6EFAREGI5IA/ref=cm_cr_getr_d_gw_btm?ie=UTF8)
-#####  _1.0 out of 5 stars_ The product is very heat ⟨97⟩
-Reviewed in India on 13 June 2025
-Size: 512GB⟨84⟩ __Verified Purchase⟨81⟩
-The product is very heat and I wish to replace the item.
-5 people found this helpful
-Helpful
-Sending feedback...
-__
-Thank you for your feedback.
-__
-Sorry, we failed to record your vote. Please try again
-__Report⟨98⟩
-Showing 0 comments
-#### There was a problem loading comments right now. Please try again later.
-__
-* * *
-  * ![⟨92⟩![](https://images-eu.ssl-images-amazon.com/images/S/amazon-avatars-global/default._CR0,0,1024,1024_SX48_.png) Kavindra](/gp/profile/amzn1.account.AGJ6QHRZHMTUGUBWPNOCPOC5QRIA/ref=cm_cr_getr_d_gw_btm?ie=UTF8)
-#####  _1.0 out of 5 stars_ Battery ⟨99⟩
-Reviewed in India on 10 June 2025
-Size: 512GB⟨84⟩ __Verified Purchase⟨81⟩
-Very bad  
-The battery is draining very fast  
-Laptop is overheating
+  * ![⟨97⟩![](https://images-eu.ssl-images-amazon.com/images/S/amazon-avatars-global/default._CR0,0,1024,1024_SX48_.png) Sireesha](/gp/profile/amzn1.account.AFASPC7XLQKFHSJYBTCVFLAS7AFA/ref=cm_cr_getr_d_gw_btm?ie=UTF8)
+#####  _3.0 out of 5 stars_ Honest review..! ⟨105⟩
+Reviewed in India on 17 July 2025
+Colour: Orange Haze __Size: 8GB + 128GB⟨103⟩ __Verified Purchase⟨100⟩
+Honest raw review..!  
+The mobile is not worthy of 18K though I bought 8gb ram the mobile processing and response is slow.. and the camera is worst for this price. Camera of mobile feels like less than 10k also the clarity of the screen isn't that great.. the signals and switching between wifi and mobile data is not proper.  
+  
+More than that if you are expecting it to be so good i suggest not to go for it..  
+  
+you can buy it if you want to try all the latest AI features. Else if you are expecting the good camera, fast processing then go for higher end mobile of 25k or more..  
+  
+The screensize is good and feels big which is good but the performance can do more better..!  
+  
+I used Samsung M33 which was very good but didn't expect M36 like this..:(
 3 people found this helpful
 Helpful
 Sending feedback...
@@ -288,25 +355,121 @@ __
 Thank you for your feedback.
 __
 Sorry, we failed to record your vote. Please try again
-__Report⟨100⟩
+__Report⟨106⟩
 Showing 0 comments
 #### There was a problem loading comments right now. Please try again later.
 __
 * * *
-  * ![⟨92⟩![](https://images-eu.ssl-images-amazon.com/images/S/amazon-avatars-global/dc9a0ea1-fbae-49a9-89ac-b802486de56d._CR0,0,388,388_SX48_.jpg) Boniramu](/gp/profile/amzn1.account.AFEHNOEM3AE3DP5YTNXRPV67CIVA/ref=cm_cr_getr_d_gw_btm?ie=UTF8)
-#####  _1.0 out of 5 stars_ Useless product ⟨101⟩
-Reviewed in India on 22 June 2025
-Size: 512GB⟨84⟩ __Verified Purchase⟨81⟩
-Brightness:  
-Total waste
-One person found this helpful
+  * ![⟨107⟩![](https://images-eu.ssl-images-amazon.com/images/S/amazon-avatars-global/default._CR0,0,1024,1024_SX48_.png) Amazon Customer](/gp/profile/amzn1.account.AE6T5QBOW5OQ7ZUZS5J5SZ47CR7A/ref=cm_cr_getr_d_gw_btm?ie=UTF8)
+#####  _4.0 out of 5 stars_ Phone looking great 😃😃👍👍 ⟨108⟩
+Reviewed in India on 18 July 2025
+Colour: Orange Haze __Size: 6GB + 128GB⟨109⟩ __Verified Purchase⟨100⟩
+Nice phone for normal users .camera is decent for this cost.AI is used for playing and saving photos in gallery.please provide a charger.
 Helpful
 Sending feedback...
 __
 Thank you for your feedback.
 __
 Sorry, we failed to record your vote. Please try again
-__Report⟨102⟩
+__Report⟨110⟩
+Showing 0 comments
+#### There was a problem loading comments right now. Please try again later.
+__
+* * *
+  * ![⟨107⟩![](https://images-eu.ssl-images-amazon.com/images/S/amazon-avatars-global/default._CR0,0,1024,1024_SX48_.png) Jignesh Patel](/gp/profile/amzn1.account.AGFWHHP6PEB4V3RHJH3I2AVL3O4Q/ref=cm_cr_getr_d_gw_btm?ie=UTF8)
+#####  _4.0 out of 5 stars_ Good...but ⟨111⟩
+Reviewed in India on 19 July 2025
+Colour: Orange Haze __Size: 8GB + 128GB⟨103⟩ __Verified Purchase⟨100⟩
+Smooth experience. Good build quality. Great camera.  
+But battery for average user OK for one day. If it is 6000mah will make it best choice.
+Helpful
+Sending feedback...
+__
+Thank you for your feedback.
+__
+Sorry, we failed to record your vote. Please try again
+__Report⟨112⟩
+Showing 0 comments
+#### There was a problem loading comments right now. Please try again later.
+__
+* * *
+  * ![⟨107⟩![](https://images-eu.ssl-images-amazon.com/images/S/amazon-avatars-global/default._CR0,0,1024,1024_SX48_.png) Amazon Customer](/gp/profile/amzn1.account.AH45TR3Z4TKXB5HZAJCJBWDRDE6Q/ref=cm_cr_getr_d_gw_btm?ie=UTF8)
+#####  _4.0 out of 5 stars_ About three days uage ⟨113⟩
+Reviewed in India on 17 July 2025
+Colour: Velvet Black __Size: 8GB + 128GB⟨114⟩ __Verified Purchase⟨100⟩
+Good Mobile so far .But camera not upto the mark and photos not that much clear.
+Helpful
+Sending feedback...
+__
+Thank you for your feedback.
+__
+Sorry, we failed to record your vote. Please try again
+__Report⟨115⟩
+Showing 0 comments
+#### There was a problem loading comments right now. Please try again later.
+__
+* * *
+  * ![⟨107⟩![](https://images-eu.ssl-images-amazon.com/images/S/amazon-avatars-global/a5a66b66-1dfe-4abc-8eee-6ead5059a324._CR0,135,1458,1458_SX48_.jpg) Dr.Dixit Chauhan](/gp/profile/amzn1.account.AEB67RWXFROK2SR2TFBZS2FESHHA/ref=cm_cr_getr_d_gw_btm?ie=UTF8)
+#####  _4.0 out of 5 stars_ Review ⟨116⟩
+Reviewed in India on 17 July 2025
+Colour: Serene Green __Size: 6GB + 128GB⟨117⟩ __Verified Purchase⟨100⟩
+Nice phone bt camera is not well as comapre company talk. Battery back up ok ok.
+Helpful
+Sending feedback...
+__
+Thank you for your feedback.
+__
+Sorry, we failed to record your vote. Please try again
+__Report⟨118⟩
+Showing 0 comments
+#### There was a problem loading comments right now. Please try again later.
+__
+* * *
+  * ![⟨107⟩![](https://images-eu.ssl-images-amazon.com/images/S/amazon-avatars-global/default._CR0,0,1024,1024_SX48_.png) KRS](/gp/profile/amzn1.account.AE6ZSM6R5TOLZUE4RRUXNUZ3L7VQ/ref=cm_cr_getr_d_gw_btm?ie=UTF8)
+#####  _4.0 out of 5 stars_ Mediocre Battery Performance ⟨119⟩
+Reviewed in India on 22 July 2025
+Colour: Velvet Black __Size: 8GB + 128GB⟨114⟩ __Verified Purchase⟨100⟩
+Battery not Sustaining full day compared to F series.
+Helpful
+Sending feedback...
+__
+Thank you for your feedback.
+__
+Sorry, we failed to record your vote. Please try again
+__Report⟨120⟩
+Showing 0 comments
+#### There was a problem loading comments right now. Please try again later.
+__
+* * *
+  * ![⟨107⟩![](https://images-eu.ssl-images-amazon.com/images/S/amazon-avatars-global/default._CR0,0,1024,1024_SX48_.png) SSKedar](/gp/profile/amzn1.account.AFFQHE6Q7L4HWXDJDIXDL7LZY6UA/ref=cm_cr_getr_d_gw_btm?ie=UTF8)
+#####  _4.0 out of 5 stars_ About M36 ⟨121⟩
+Reviewed in India on 15 July 2025
+Colour: Serene Green __Size: 8GB + 128GB⟨122⟩ __Verified Purchase⟨100⟩
+The phone does not have slots for two SIMS and a SD card. You may insert only one SIM and one card or two SIMS.
+4 people found this helpful
+Helpful
+Sending feedback...
+__
+Thank you for your feedback.
+__
+Sorry, we failed to record your vote. Please try again
+__Report⟨123⟩
+Showing 0 comments
+#### There was a problem loading comments right now. Please try again later.
+__
+* * *
+  * ![⟨107⟩![](https://images-eu.ssl-images-amazon.com/images/S/amazon-avatars-global/default._CR0,0,1024,1024_SX48_.png) hemant](/gp/profile/amzn1.account.AG5BMSFRMPEMI6P54QM25YVYJCKA/ref=cm_cr_getr_d_gw_btm?ie=UTF8)
+#####  _4.0 out of 5 stars_ Ok ⟨124⟩
+Reviewed in India on 19 July 2025
+Colour: Serene Green __Size: 8GB + 128GB⟨122⟩ __Verified Purchase⟨100⟩
+Ok
+Helpful
+Sending feedback...
+__
+Thank you for your feedback.
+__
+Sorry, we failed to record your vote. Please try again
+__Report⟨125⟩
 Showing 0 comments
 #### There was a problem loading comments right now. Please try again later.
 __
@@ -314,207 +477,90 @@ __
 
 
 
-  *  ←Previous page⟨103⟩
-  * Next page→⟨104⟩
+  *  ←Previous page⟨126⟩
+  * Next page→⟨127⟩
 
 
 Sponsored ****
-Need customer service? ⟨105⟩
-‹ See all details for HP 15, 13th Gen Intel Core i5-1334U Laptop (16GB DDR4,512GB SSD)...⟨106⟩
+Need customer service? ⟨128⟩
+‹ See all details for Samsung Galaxy M36 5G (Orange Haze, 6 GB RAM, 128 GB Storage)| Circle...⟨129⟩
   
 
-## Buy it again
-View All & Manage⟨107⟩
-Page 1 of 1 Start over⟨108⟩
- _Previous set of slides_⟨108⟩
-  1. ![Nat Habit Organic Indigo Powder, Natural Hair Color for Black Hair, HUFA, Indigo Leaf Powder for Rich and Fast Post-Henna Col⟨109⟩](/gp/buyagain/ref=pd_rhf_cr_s_rp_c_d_sccl_1_1/262-4105813-0440431?pd_rd_w=hG43h&content-id=amzn1.sym.021374e7-f959-460a-8cc3-e18766dbce45&pf_rd_p=021374e7-f959-460a-8cc3-e18766dbce45&pf_rd_r=8D4NG5XQ4H3T3WDR9KDZ&pd_rd_wg=bx0tf&pd_rd_r=83e114d2-7f3f-46ea-abb6-e547be752389&pd_rd_i=B0DV9GTZLX&ats=eyJleHBsaWNpdENhbmRpZGF0ZXMiOiJCMERWOUdUWkxYIiwiYXNpbkludGVyYWN0ZWQiOiJ0cnVlIiwiY3VzdG9tZXJJZCI6IkFaRlVHUlVMRDhDRzkifQ==)
- Nat Habit Organic Indigo Powder, Natural Hair Color for Black Hair, HUFA, Indigo Leaf Powder for Rich and Fast Post-Henna Coloring, Chemical Free (Pack of 1 X 85g)⟨110⟩
-_4.0 out of 5 stars_ 268⟨111⟩
--40%⟨110⟩₹243.00₹243.00⟨110⟩ (₹285.88/100 g)⟨110⟩
-M.R.P: ₹406.00⟨110⟩
-Get it by **Tuesday, July 29**
-FREE Delivery by Amazon
-Purchased Apr 2025
-  2. ![Biolage Smoothproof Deep Smoothing 6-In-1 Professional Hair Serum For Women & Men For Frizzy Hair⟨112⟩](/gp/buyagain/ref=pd_rhf_cr_s_rp_c_d_sccl_1_2/262-4105813-0440431?pd_rd_w=hG43h&content-id=amzn1.sym.021374e7-f959-460a-8cc3-e18766dbce45&pf_rd_p=021374e7-f959-460a-8cc3-e18766dbce45&pf_rd_r=8D4NG5XQ4H3T3WDR9KDZ&pd_rd_wg=bx0tf&pd_rd_r=83e114d2-7f3f-46ea-abb6-e547be752389&pd_rd_i=B01HO9EC94&ats=eyJleHBsaWNpdENhbmRpZGF0ZXMiOiJCMDFITzlFQzk0IiwiYXNpbkludGVyYWN0ZWQiOiJ0cnVlIiwiY3VzdG9tZXJJZCI6IkFaRlVHUlVMRDhDRzkifQ==)
-Biolage Smoothproof Deep Smoothing 6-In-1 Professional Hair Serum For Women & Men For Frizzy Hair⟨113⟩
- _4.2 out of 5 stars_ 26,164⟨114⟩
--10%⟨113⟩₹315.00₹315.00⟨113⟩ (₹315.00/100 ml)⟨113⟩
-M.R.P: ₹350.00⟨113⟩
-Get it by **Tuesday, July 29**
-FREE Delivery by Amazon
-Purchased Apr 2025
-  3. ![PLIXIO Adjustable Laptop Stand with 360° Rotating Base Tabletop Ergonomic Foldable Portable Holder Compatible for MacBook, HP⟨115⟩](/gp/buyagain/ref=pd_rhf_cr_s_rp_c_d_sccl_1_3/262-4105813-0440431?pd_rd_w=hG43h&content-id=amzn1.sym.021374e7-f959-460a-8cc3-e18766dbce45&pf_rd_p=021374e7-f959-460a-8cc3-e18766dbce45&pf_rd_r=8D4NG5XQ4H3T3WDR9KDZ&pd_rd_wg=bx0tf&pd_rd_r=83e114d2-7f3f-46ea-abb6-e547be752389&pd_rd_i=B0C9J63G2F&ats=eyJleHBsaWNpdENhbmRpZGF0ZXMiOiJCMEM5SjYzRzJGIiwiYXNpbkludGVyYWN0ZWQiOiJ0cnVlIiwiY3VzdG9tZXJJZCI6IkFaRlVHUlVMRDhDRzkifQ==)
-PLIXIO Adjustable Laptop Stand with 360° Rotating Base Tabletop Ergonomic Foldable Portable Holder Compatible for MacBook, HP, Dell, Lenovo & All Other Notebook (Sliver)⟨116⟩
-_4.3 out of 5 stars_ 1,007⟨117⟩
--67%⟨116⟩₹2,298.00₹2,298.00⟨116⟩ (₹2,29,800.00/100 g)⟨116⟩
-M.R.P: ₹6,999.00⟨116⟩
-Get it by **Tuesday, July 29**
-FREE Delivery by Amazon
-Purchased Sep 2024
-  4. ![Autofact Waterproof Car Body Cover Compatible with Hyundai Aura \(2020 to 2021\) with Mirror and Antenna Pockets \(Shinning Silv⟨118⟩](/gp/buyagain/ref=pd_rhf_cr_s_rp_c_d_sccl_1_4/262-4105813-0440431?pd_rd_w=hG43h&content-id=amzn1.sym.021374e7-f959-460a-8cc3-e18766dbce45&pf_rd_p=021374e7-f959-460a-8cc3-e18766dbce45&pf_rd_r=8D4NG5XQ4H3T3WDR9KDZ&pd_rd_wg=bx0tf&pd_rd_r=83e114d2-7f3f-46ea-abb6-e547be752389&pd_rd_i=B098LFHYJZ&ats=eyJleHBsaWNpdENhbmRpZGF0ZXMiOiJCMDk4TEZIWUpaIiwiYXNpbkludGVyYWN0ZWQiOiJ0cnVlIiwiY3VzdG9tZXJJZCI6IkFaRlVHUlVMRDhDRzkifQ==)
-Autofact Waterproof Car Body Cover Compatible with Hyundai Aura (2020 to 2021) with Mirror and Antenna Pockets (Shinning Silver)⟨119⟩
-_4.0 out of 5 stars_ 685⟨120⟩
--50%⟨119⟩₹1,999.00₹1,999.00⟨119⟩
-Limited time deal
-M.R.P: ₹3,999.00⟨119⟩
-Get it by **Tuesday, July 29**
-FREE Delivery by Amazon
-Purchased May 2024
-  5. ![PILGRIM Redensyl 3%+Anagain 4% Advanced Hair Growth Serum For Scalp\(50Ml\) With Natural Ingredients Korean Black Rice,Controls⟨121⟩](/gp/buyagain/ref=pd_rhf_cr_s_rp_c_d_sccl_1_5/262-4105813-0440431?pd_rd_w=hG43h&content-id=amzn1.sym.021374e7-f959-460a-8cc3-e18766dbce45&pf_rd_p=021374e7-f959-460a-8cc3-e18766dbce45&pf_rd_r=8D4NG5XQ4H3T3WDR9KDZ&pd_rd_wg=bx0tf&pd_rd_r=83e114d2-7f3f-46ea-abb6-e547be752389&pd_rd_i=B096Y23VJK&ats=eyJleHBsaWNpdENhbmRpZGF0ZXMiOiJCMDk2WTIzVkpLIiwiYXNpbkludGVyYWN0ZWQiOiJ0cnVlIiwiY3VzdG9tZXJJZCI6IkFaRlVHUlVMRDhDRzkifQ==)
-PILGRIM Redensyl 3%+Anagain 4% Advanced Hair Growth Serum For Scalp(50Ml) With Natural Ingredients Korean Black Rice,Controls Hair Fall,Stimulates,Increases Hair Density|Hairgrowth Serum For Unisex⟨122⟩
- _4.1 out of 5 stars_ 8,267⟨123⟩
--24%⟨122⟩₹680.00₹680.00⟨122⟩ (₹1,360.00/100 ml)⟨122⟩
-M.R.P: ₹895.00⟨122⟩
-Get it by **Tuesday, July 29**
-FREE Delivery by Amazon
-Purchased Apr 2025
-  6. ![Be Bodywise Rosemary Hair Growth Serum \(Roll On\) | 3% Redensyl & 2% Anagain | Hair fall control serum for Women & Men | Promo⟨124⟩](/gp/buyagain/ref=pd_rhf_cr_s_rp_c_d_sccl_1_6/262-4105813-0440431?pd_rd_w=hG43h&content-id=amzn1.sym.021374e7-f959-460a-8cc3-e18766dbce45&pf_rd_p=021374e7-f959-460a-8cc3-e18766dbce45&pf_rd_r=8D4NG5XQ4H3T3WDR9KDZ&pd_rd_wg=bx0tf&pd_rd_r=83e114d2-7f3f-46ea-abb6-e547be752389&pd_rd_i=B0CPJB7WW7&ats=eyJleHBsaWNpdENhbmRpZGF0ZXMiOiJCMENQSkI3V1c3IiwiYXNpbkludGVyYWN0ZWQiOiJ0cnVlIiwiY3VzdG9tZXJJZCI6IkFaRlVHUlVMRDhDRzkifQ==)
-Be Bodywise Rosemary Hair Growth Serum (Roll On) | 3% Redensyl & 2% Anagain | Hair fall control serum for Women & Men | Promotes Hair Growth & Stimulates Hair Follicles | For All Hair Types | 25ml⟨125⟩
- _4.1 out of 5 stars_ 2,075⟨126⟩
-₹599.00₹599.00⟨125⟩ (₹2,396.00/100 ml)⟨125⟩
-Get it by **Tuesday, July 29**
-FREE Delivery by Amazon
-Purchased Apr 2025
-
-
- _Next set of slides_⟨108⟩
-## Discover more
-Page 1 of 1 Start over⟨108⟩
- _Previous set of slides_⟨108⟩
-  1. ![Syvo - 3580 77 Inch \(195CM\) Tripod for DSLR, Camera | Maximum Load Capacity up to 5kg | Portable Lightweight Aluminum Tripod ⟨127⟩](/Syvo-Capacity-Portable-Lightweight-Aluminum/dp/B0D1CHV5SB/ref=pd_rhf_cr_s_bmx_gp_d_sccl_2_1/262-4105813-0440431?pd_rd_w=tkntC&content-id=amzn1.sym.35f1b9bc-e9a4-4d72-8834-da50e17d0f85&pf_rd_p=35f1b9bc-e9a4-4d72-8834-da50e17d0f85&pf_rd_r=8D4NG5XQ4H3T3WDR9KDZ&pd_rd_wg=bx0tf&pd_rd_r=83e114d2-7f3f-46ea-abb6-e547be752389&pd_rd_i=B0D1CHV5SB&psc=1)
- Syvo - 3580 77 Inch (195CM) Tripod for DSLR, Camera | Maximum Load Capacity up to 5kg | Portable Lightweight Aluminum Tripod Stand 360 Degree Ball Head | Carry Bag (Black)⟨128⟩
-_4.2 out of 5 stars_ 745⟨129⟩
--73%⟨128⟩₹1,627.00₹1,627.00⟨128⟩
-M.R.P: ₹5,999.00⟨128⟩
-Get it by **Tuesday, July 29**
-FREE Delivery by Amazon
-  2. ![Action Pro 360 Degree Rotatable J-Hook Buckle Base Vertical Surface Mount Adapter Compatible with Gopro-13/12/11/10/9/8/7/6/5⟨130⟩](/Action-Pro-Rotatable-Compatible-INSTA-360/dp/B076N85DGQ/ref=pd_rhf_cr_s_bmx_gp_d_sccl_2_2/262-4105813-0440431?pd_rd_w=tkntC&content-id=amzn1.sym.35f1b9bc-e9a4-4d72-8834-da50e17d0f85&pf_rd_p=35f1b9bc-e9a4-4d72-8834-da50e17d0f85&pf_rd_r=8D4NG5XQ4H3T3WDR9KDZ&pd_rd_wg=bx0tf&pd_rd_r=83e114d2-7f3f-46ea-abb6-e547be752389&pd_rd_i=B076N85DGQ&psc=1)
-Action Pro 360 Degree Rotatable J-Hook Buckle Base Vertical Surface Mount Adapter Compatible with Gopro-13/12/11/10/9/8/7/6/5/4/3+/3/DJI INSTA-360/Yi/SJCAM & Other Action Cameras⟨131⟩
- _3.7 out of 5 stars_ 399⟨132⟩
--55%⟨131⟩₹180.00₹180.00⟨131⟩ (₹90.00/count)⟨131⟩
-M.R.P: ₹399.00⟨131⟩
-Get it by **Tuesday, July 29**
-FREE Delivery by Amazon
-  3. ![Logitech Zone Vibe 100 Lightweight Wireless Over-Ear Headphones with Noise-Cancelling Microphone, Advanced Multipoint Bluetoo⟨133⟩](/Logitech-Zone-100-Lightweight-Noise-Cancelling/dp/B0BDYS7T7Q/ref=pd_rhf_cr_s_bmx_gp_d_sccl_2_3/262-4105813-0440431?pd_rd_w=tkntC&content-id=amzn1.sym.35f1b9bc-e9a4-4d72-8834-da50e17d0f85&pf_rd_p=35f1b9bc-e9a4-4d72-8834-da50e17d0f85&pf_rd_r=8D4NG5XQ4H3T3WDR9KDZ&pd_rd_wg=bx0tf&pd_rd_r=83e114d2-7f3f-46ea-abb6-e547be752389&pd_rd_i=B0BDYS7T7Q&psc=1)
-Logitech Zone Vibe 100 Lightweight Wireless Over-Ear Headphones with Noise-Cancelling Microphone, Advanced Multipoint Bluetooth Headset, Works with Teams, Google Meet, Zoom, Mac/PC - Graphite⟨134⟩
- _3.6 out of 5 stars_ 80⟨135⟩
--28%⟨134⟩₹8,995.00₹8,995.00⟨134⟩
-M.R.P: ₹12,495.00⟨134⟩
-Get it by **Tuesday, July 29**
-FREE Delivery by Amazon
-  4. ![SAMSUNG PRO Plus Full Size 256GB SDXC Memory Card, Up to 180 MB/s, Full HD & 4K UHD, UHS-I, C10, U3, V30 for DSLR, Mirrorless⟨136⟩](/SAMSUNG-PRO-Plus-Mirrorless-MB-SD256S/dp/B0CNXDDQRZ/ref=pd_rhf_cr_s_bmx_gp_d_sccl_2_4/262-4105813-0440431?pd_rd_w=tkntC&content-id=amzn1.sym.35f1b9bc-e9a4-4d72-8834-da50e17d0f85&pf_rd_p=35f1b9bc-e9a4-4d72-8834-da50e17d0f85&pf_rd_r=8D4NG5XQ4H3T3WDR9KDZ&pd_rd_wg=bx0tf&pd_rd_r=83e114d2-7f3f-46ea-abb6-e547be752389&pd_rd_i=B0CNXDDQRZ&psc=1)
-SAMSUNG PRO Plus Full Size 256GB SDXC Memory Card, Up to 180 MB/s, Full HD & 4K UHD, UHS-I, C10, U3, V30 for DSLR, Mirrorless Cameras, PCs, MB-SD256S/APC⟨137⟩
- _4.5 out of 5 stars_ 203⟨138⟩
--61%⟨137⟩₹2,749.00₹2,749.00⟨137⟩
-M.R.P: ₹7,139.00⟨137⟩
-Get it by **Tuesday, July 29**
-FREE Delivery by Amazon
-  5. ![HIFFIN Helmet Chin Strap Mount Compatible with All Smart Phones Go pro Hero 11, 10, 9, 8, 7, 6, 5 and SJCAM DJI Osmo and All ⟨139⟩](/HIFFIN%C2%AE-Helmet-Compatible-Action-Cameras/dp/B08P5HYHQR/ref=pd_rhf_cr_s_bmx_gp_d_sccl_2_5/262-4105813-0440431?pd_rd_w=tkntC&content-id=amzn1.sym.35f1b9bc-e9a4-4d72-8834-da50e17d0f85&pf_rd_p=35f1b9bc-e9a4-4d72-8834-da50e17d0f85&pf_rd_r=8D4NG5XQ4H3T3WDR9KDZ&pd_rd_wg=bx0tf&pd_rd_r=83e114d2-7f3f-46ea-abb6-e547be752389&pd_rd_i=B08P5HYHQR&psc=1)
-HIFFIN Helmet Chin Strap Mount Compatible with All Smart Phones Go pro Hero 11, 10, 9, 8, 7, 6, 5 and SJCAM DJI Osmo and All Action Cameras Made in India (Helmet Mount Blue)⟨140⟩
-_3.7 out of 5 stars_ 1,038⟨141⟩
--65%⟨140⟩₹349.00₹349.00⟨140⟩
-Limited time deal
-M.R.P: ₹999.00⟨140⟩
-Get it by **Tuesday, July 29**
-FREE Delivery by Amazon
-  6. ![Sony Alpha ZV-E10L 24.2 Mega Pixel Interchangeable-Lens Mirrorless vlog Camera with 16-50 mm Lens, Made for Creators | APS-C ⟨142⟩](/Sony-ZV-E10L-Interchangeable-Lens-Mirrorless-Autofocus/dp/B09F9Q7287/ref=pd_rhf_cr_s_bmx_gp_d_sccl_2_6/262-4105813-0440431?pd_rd_w=tkntC&content-id=amzn1.sym.35f1b9bc-e9a4-4d72-8834-da50e17d0f85&pf_rd_p=35f1b9bc-e9a4-4d72-8834-da50e17d0f85&pf_rd_r=8D4NG5XQ4H3T3WDR9KDZ&pd_rd_wg=bx0tf&pd_rd_r=83e114d2-7f3f-46ea-abb6-e547be752389&pd_rd_i=B09F9Q7287&psc=1)
-Sony Alpha ZV-E10L 24.2 Mega Pixel Interchangeable-Lens Mirrorless vlog Camera with 16-50 mm Lens, Made for Creators | APS-C Sensor | Advanced Autofocus | Clear Audio & 4K Movie Recording - Black⟨143⟩
- _4.4 out of 5 stars_ 646⟨144⟩
-In 40+ carts
- _#1 Best Seller_⟨145⟩
- -12%⟨143⟩₹61,490.00₹61,490.00⟨143⟩
-M.R.P: ₹69,990.00⟨143⟩
-Get it by **Tuesday, July 29**
-FREE Delivery by Amazon
-
-
- _Next set of slides_⟨108⟩
-## Your browsing history
-View or edit your browsing history⟨146⟩
-Page 1 of 1 Start over⟨108⟩
- _Previous set of slides_⟨108⟩
-  1. ![Apple iPhone 15 \(128 GB\) - Blue⟨147⟩](/Apple-iPhone-15-128-GB/dp/B0CHX2F5QT/ref=rvi_d_sccl_1/262-4105813-0440431?pd_rd_w=ytvyp&content-id=amzn1.sym.2fa5ef78-d215-4b54-bdb7-fa3d3620b822&pf_rd_p=2fa5ef78-d215-4b54-bdb7-fa3d3620b822&pf_rd_r=8D4NG5XQ4H3T3WDR9KDZ&pd_rd_wg=c6nlt&pd_rd_r=512ff840-fa1f-471b-b53f-d953e99f1564&pd_rd_i=B0CHX2F5QT&psc=1)
-  2. ![iPhone 16 128 GB: 5G Mobile Phone with Camera Control, A18 Chip and a Big Boost in Battery Life. Works with AirPods; White⟨148⟩](/iPhone-16-128-GB-Control/dp/B0DGHZWBYB/ref=rvi_d_sccl_2/262-4105813-0440431?pd_rd_w=ytvyp&content-id=amzn1.sym.2fa5ef78-d215-4b54-bdb7-fa3d3620b822&pf_rd_p=2fa5ef78-d215-4b54-bdb7-fa3d3620b822&pf_rd_r=8D4NG5XQ4H3T3WDR9KDZ&pd_rd_wg=c6nlt&pd_rd_r=512ff840-fa1f-471b-b53f-d953e99f1564&pd_rd_i=B0DGHZWBYB&psc=1)
-  3. ![iPhone 16e 128 GB: Built for Apple Intelligence, A18 Chip, Supersized Battery Life, 48MP Fusion. Camera, 15.40 cm \(6.1″\) Supe⟨149⟩](/iPhone-16e-128-Intelligence-Supersized/dp/B0DXQHMRCP/ref=rvi_d_sccl_3/262-4105813-0440431?pd_rd_w=ytvyp&content-id=amzn1.sym.2fa5ef78-d215-4b54-bdb7-fa3d3620b822&pf_rd_p=2fa5ef78-d215-4b54-bdb7-fa3d3620b822&pf_rd_r=8D4NG5XQ4H3T3WDR9KDZ&pd_rd_wg=c6nlt&pd_rd_r=512ff840-fa1f-471b-b53f-d953e99f1564&pd_rd_i=B0DXQHMRCP&psc=1)
-  4. ![iPhone 16 128 GB: 5G Mobile Phone with Camera Control, A18 Chip and a Big Boost in Battery Life. Works with AirPods; Black⟨150⟩](/iPhone-16-128-GB-Control/dp/B0DGJHBX5Y/ref=rvi_d_sccl_4/262-4105813-0440431?pd_rd_w=ytvyp&content-id=amzn1.sym.2fa5ef78-d215-4b54-bdb7-fa3d3620b822&pf_rd_p=2fa5ef78-d215-4b54-bdb7-fa3d3620b822&pf_rd_r=8D4NG5XQ4H3T3WDR9KDZ&pd_rd_wg=c6nlt&pd_rd_r=512ff840-fa1f-471b-b53f-d953e99f1564&pd_rd_i=B0DGJHBX5Y&psc=1)
-  5. ![iPhone 16 128 GB: 5G Mobile Phone with Camera Control, A18 Chip and a Big Boost in Battery Life. Works with AirPods; Teal⟨151⟩](/iPhone-16-128-GB-Control/dp/B0DGJH8RYG/ref=rvi_d_sccl_5/262-4105813-0440431?pd_rd_w=ytvyp&content-id=amzn1.sym.2fa5ef78-d215-4b54-bdb7-fa3d3620b822&pf_rd_p=2fa5ef78-d215-4b54-bdb7-fa3d3620b822&pf_rd_r=8D4NG5XQ4H3T3WDR9KDZ&pd_rd_wg=c6nlt&pd_rd_r=512ff840-fa1f-471b-b53f-d953e99f1564&pd_rd_i=B0DGJH8RYG&psc=1)
-  6. ![Apple iPhone 15 \(256 GB\) - Black⟨152⟩](/Apple-iPhone-15-256-GB/dp/B0CHX2WQLX/ref=rvi_d_sccl_6/262-4105813-0440431?pd_rd_w=ytvyp&content-id=amzn1.sym.2fa5ef78-d215-4b54-bdb7-fa3d3620b822&pf_rd_p=2fa5ef78-d215-4b54-bdb7-fa3d3620b822&pf_rd_r=8D4NG5XQ4H3T3WDR9KDZ&pd_rd_wg=c6nlt&pd_rd_r=512ff840-fa1f-471b-b53f-d953e99f1564&pd_rd_i=B0CHX2WQLX&psc=1)
-
-
- _Next set of slides_⟨108⟩
+![](https://m.media-amazon.com/images/G/31/personalization/ybh/loading-4x-gray._CB485916689_.gif)  
+---  
 Your recently viewed items and featured recommendations 
 ›
- View or edit your browsing history ⟨146⟩
+ View or edit your browsing history ⟨130⟩
 After viewing product detail pages, look here to find an easy way to navigate back to pages you are interested in. 
 Your recently viewed items and featured recommendations 
 › 
- View or edit your browsing history ⟨146⟩
+ View or edit your browsing history ⟨130⟩
 After viewing product detail pages, look here to find an easy way to navigate back to pages you are interested in. 
   
 
 Back to top 
 Get to Know Us
-  * About Amazon⟨153⟩
-  * Careers⟨154⟩
-  * Press Releases⟨155⟩
-  * Amazon Science⟨156⟩
+  * About Amazon⟨131⟩
+  * Careers⟨132⟩
+  * Press Releases⟨133⟩
+  * Amazon Science⟨134⟩
 
 
 Connect with Us
-  * Facebook⟨157⟩
-  * Twitter⟨158⟩
-  * Instagram⟨159⟩
+  * Facebook⟨135⟩
+  * Twitter⟨136⟩
+  * Instagram⟨137⟩
 
 
 Make Money with Us
-  * Sell on Amazon⟨160⟩
-  * Sell under Amazon Accelerator⟨161⟩
-  * Protect and Build Your Brand⟨162⟩
-  * Amazon Global Selling⟨163⟩
-  * Supply to Amazon⟨164⟩
-  * Become an Affiliate⟨165⟩
-  * Fulfilment by Amazon⟨166⟩
-  * Advertise Your Products⟨167⟩
-  * Amazon Pay on Merchants⟨168⟩
+  * Sell on Amazon⟨138⟩
+  * Sell under Amazon Accelerator⟨139⟩
+  * Protect and Build Your Brand⟨140⟩
+  * Amazon Global Selling⟨141⟩
+  * Supply to Amazon⟨142⟩
+  * Become an Affiliate⟨143⟩
+  * Fulfilment by Amazon⟨144⟩
+  * Advertise Your Products⟨145⟩
+  * Amazon Pay on Merchants⟨146⟩
 
 
 Let Us Help You
-  * Your Account⟨169⟩
-  * Returns Centre⟨170⟩
-  * Recalls and Product Safety Alerts⟨171⟩
-  * 100% Purchase Protection⟨172⟩
-  * Amazon App Download⟨173⟩
-  * Help⟨174⟩
+  * Your Account⟨147⟩
+  * Returns Centre⟨148⟩
+  * Recalls and Product Safety Alerts⟨149⟩
+  * 100% Purchase Protection⟨150⟩
+  * Amazon App Download⟨151⟩
+  * Help⟨152⟩
 
 
- ⟨175⟩
- English ⟨176⟩
- India ⟨177⟩
+ ⟨153⟩
+ English ⟨154⟩
+ India ⟨155⟩
   * ##### AbeBooksBooks, art  
-& collectibles⟨178⟩
+& collectibles⟨156⟩
   *   * ##### Amazon Web ServicesScalable Cloud  
-Computing Services⟨179⟩
+Computing Services⟨157⟩
   *   * ##### AudibleDownload  
-Audio Books⟨180⟩
+Audio Books⟨158⟩
   *   * ##### IMDbMovies, TV  
-& Celebrities⟨181⟩
+& Celebrities⟨159⟩
   *   * ##### ShopbopDesigner  
-Fashion Brands⟨182⟩
+Fashion Brands⟨160⟩
 
 
   * #####  Amazon BusinessEverything For  
-Your Business⟨183⟩
+Your Business⟨161⟩
   *   * ##### Prime Now 2-Hour Delivery  
-on Everyday Items⟨184⟩
+on Everyday Items⟨162⟩
   *   * ##### Amazon Prime Music100 million songs, ad-free  
-Over 15 million podcast episodes ⟨185⟩
-  *   * ##### Amazon LiveStream. Shop. Live⟨186⟩
+Over 15 million podcast episodes ⟨163⟩
+  *   * ##### Amazon LiveStream. Shop. Live⟨164⟩
   *   *  
 
 
-  * Conditions of Use & Sale⟨187⟩
-  * Privacy Notice⟨188⟩
-  * Interest-Based Ads⟨189⟩
+  * Conditions of Use & Sale⟨165⟩
+  * Privacy Notice⟨166⟩
+  * Interest-Based Ads⟨167⟩
 
 © 1996-2025, Amazon.com, Inc. or its affiliates
-![](//fls-eu.amazon.in/1/batch/1/OP/A21TJRUUN4KGV:262-4105813-0440431:4HQ3JN0860DC5V6GMR4C$uedata=s:%2Frd%2Fuedata%3Fnoscript%26id%3D4HQ3JN0860DC5V6GMR4C:0)
+![](//fls-eu.amazon.in/1/batch/1/OP/A21TJRUUN4KGV:259-9062319-1524538:APQEYP8WP97XA7ZF4F7K$uedata=s:%2Frd%2Fuedata%3Fnoscript%26id%3DAPQEYP8WP97XA7ZF4F7K:0)

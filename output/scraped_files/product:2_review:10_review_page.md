@@ -292,12 +292,11 @@ Filter by media type All text, image and video reviewsImage and video reviews on
 #### There was a problem filtering reviews. Please reload the page.
 __
 ###  From India 
-  * ![⟨97⟩![](https://images-eu.ssl-images-amazon.com/images/S/amazon-avatars-global/default._CR0,0,1024,1024_SX48_.png)muhammad khesaluddin](/gp/profile/amzn1.account.AF74SHK6N2EIIQA7JUCHCTB2FFKA/ref=cm_cr_getr_d_gw_btm?ie=UTF8)
-#####  _4.0 out of 5 stars_ The camera app is not working properly. ⟨98⟩
-Reviewed in India on 3 July 2025
+  * ![⟨97⟩![](https://images-eu.ssl-images-amazon.com/images/S/amazon-avatars-global/default._CR0,0,1024,1024_SX48_.png)Tarak Halder](/gp/profile/amzn1.account.AH5KSP6SHQIULW2BFEESHNOMKG5Q/ref=cm_cr_getr_d_gw_btm?ie=UTF8)
+#####  _5.0 out of 5 stars_ Nice ⟨98⟩
+Reviewed in India on 2 July 2025
 Verified Purchase⟨99⟩
-The camera app is not working properly. Sometimes, photos are captured but not saved in the gallery.  
-Other than the camera, mobile is perfect for its price.
+Best budget phone under 10k
 One person found this helpful
 Helpful
 Sending feedback...
@@ -310,11 +309,11 @@ Showing 0 comments
 #### There was a problem loading comments right now. Please try again later.
 __
 * * *
-  * ![⟨97⟩![](https://images-eu.ssl-images-amazon.com/images/S/amazon-avatars-global/default._CR0,0,1024,1024_SX48_.png) Nagarajan](/gp/profile/amzn1.account.AHWHI2BHSBHIURRCZJIWYOI52HYA/ref=cm_cr_getr_d_gw_btm?ie=UTF8)
-#####  _4.0 out of 5 stars_ Nice ⟨101⟩
-Reviewed in India on 15 July 2025
-Colour: Cosmic Green __Size: 8GB+128GB⟨102⟩ __Verified Purchase⟨99⟩
-Good specification for this price
+  * ![⟨97⟩![](https://images-eu.ssl-images-amazon.com/images/S/amazon-avatars-global/default._CR0,0,1024,1024_SX48_.png) Shresth Kumar](/gp/profile/amzn1.account.AHWCUESIUXMSU7WRHNXBKJXGQN3A/ref=cm_cr_getr_d_gw_btm?ie=UTF8)
+#####  _5.0 out of 5 stars_ Good ⟨101⟩
+Reviewed in India on 2 July 2025
+Colour: Lunar Blue __Size: 6GB+128GB⟨102⟩ __Verified Purchase⟨99⟩
+Best phone under this range
 One person found this helpful
 Helpful
 Sending feedback...
@@ -327,12 +326,11 @@ Showing 0 comments
 #### There was a problem loading comments right now. Please try again later.
 __
 * * *
-  * ![⟨97⟩![](https://images-eu.ssl-images-amazon.com/images/S/amazon-avatars-global/default._CR0,0,1024,1024_SX48_.png) S SANKARARAO](/gp/profile/amzn1.account.AHWY6UVBBJOB66XCRLQEJ2VYCUWQ/ref=cm_cr_getr_d_gw_btm?ie=UTF8)
-#####  _4.0 out of 5 stars_ Best product for this price ⟨104⟩
-Reviewed in India on 15 July 2025
-Colour: Cosmic Green __Size: 8GB+128GB⟨102⟩ __Verified Purchase⟨99⟩
-Worth
-One person found this helpful
+  * ![⟨97⟩![](https://images-eu.ssl-images-amazon.com/images/S/amazon-avatars-global/default._CR0,0,1024,1024_SX48_.png) S Karmakar](/gp/profile/amzn1.account.AH46DHDFMIMSJDMVI7MKMZIEKLRA/ref=cm_cr_getr_d_gw_btm?ie=UTF8)
+#####  _5.0 out of 5 stars_ Nice ⟨104⟩
+Reviewed in India on 1 July 2025
+Colour: Lunar Blue __Size: 6GB+128GB⟨102⟩ __Verified Purchase⟨99⟩
+good smartphone
 Helpful
 Sending feedback...
 __
@@ -344,13 +342,11 @@ Showing 0 comments
 #### There was a problem loading comments right now. Please try again later.
 __
 * * *
-  * ![⟨97⟩![](https://images-eu.ssl-images-amazon.com/images/S/amazon-avatars-global/default._CR0,0,1024,1024_SX48_.png) amar](/gp/profile/amzn1.account.AG3RWI5IHSGU5IYYSFAKW7IZXH2Q/ref=cm_cr_getr_d_gw_btm?ie=UTF8)
-#####  _4.0 out of 5 stars_ Good for Normal Use ⟨106⟩
-Reviewed in India on 30 June 2025
-Colour: Cosmic Green __Size: 6GB+128GB⟨107⟩ __Verified Purchase⟨99⟩
-Good product under this price range.  
-Good for normal use but hangs while playing big games like Pubg etc
-One person found this helpful
+  * ![⟨97⟩![](https://images-eu.ssl-images-amazon.com/images/S/amazon-avatars-global/default._CR0,0,1024,1024_SX48_.png) Teara](/gp/profile/amzn1.account.AFJK544FSF727A6OBDIY4AL5XSXQ/ref=cm_cr_getr_d_gw_btm?ie=UTF8)
+#####  _5.0 out of 5 stars_ VERY GOOD ⟨106⟩
+Reviewed in India on 15 July 2025
+Colour: Cosmic Green __Size: 4GB+128GB⟨107⟩ __Verified Purchase⟨99⟩
+WISH SCREEN WAS CURVED
 Helpful
 Sending feedback...
 __
@@ -362,13 +358,12 @@ Showing 0 comments
 #### There was a problem loading comments right now. Please try again later.
 __
 * * *
-  * ![⟨97⟩![](https://images-eu.ssl-images-amazon.com/images/S/amazon-avatars-global/default._CR0,0,1024,1024_SX48_.png) Aman R.](/gp/profile/amzn1.account.AGIHEWA6KAKVH22AYYIT4IWNDLLA/ref=cm_cr_getr_d_gw_btm?ie=UTF8)
-##### _3.0 out of 5 stars_ Don't go for it ⟨109⟩
-Reviewed in India on 20 July 2025
-Colour: Lunar Blue __Size: 6GB+128GB⟨110⟩ __Verified Purchase⟨99⟩
-Didn't like the product  
-Please avoit this
-One person found this helpful
+  * ![⟨97⟩![](https://images-eu.ssl-images-amazon.com/images/S/amazon-avatars-global/default._CR0,0,1024,1024_SX48_.png) Pradeep](/gp/profile/amzn1.account.AHCTOCM36QJTQJHRN7VHQOX4F4CA/ref=cm_cr_getr_d_gw_btm?ie=UTF8)
+#####  _2.0 out of 5 stars_ Good and poor ⟨109⟩
+Reviewed in India on 11 June 2025
+Colour: Cosmic Green __Size: 8GB+128GB⟨110⟩ __Verified Purchase⟨99⟩
+The product as super to quality and performance but the camera as very poor but bejut friendly
+3 people found this helpful
 Helpful
 Sending feedback...
 __
@@ -380,34 +375,11 @@ Showing 0 comments
 #### There was a problem loading comments right now. Please try again later.
 __
 * * *
-  * ![⟨112⟩![](https://images-eu.ssl-images-amazon.com/images/S/amazon-avatars-global/default._CR0,0,1024,1024_SX48_.png) sarath baby](/gp/profile/amzn1.account.AFHPIB332FKAZ7VEJTQ2I6CQYDUA/ref=cm_cr_getr_d_gw_btm?ie=UTF8)
-#####  _5.0 out of 5 stars_ Acer Super ZX is the Best One to Buy ⟨113⟩
-Reviewed in India on 30 June 2025
-Colour: Cosmic Green __Size: 6GB+128GB⟨107⟩ __Verified Purchase⟨99⟩
-Design & Build: 4/5  
-The Acer Super ZX 5G has a sleek, modern design with a glossy plastic back that gives it a premium look, although it’s not as sturdy as glass. The phone feels comfortable to hold, and the curved edges offer a good grip. It’s a solid mid-range device, but not the most standout in terms of aesthetics.  
-  
-Display: 4.5/5  
-The 6.7-inch Full HD+ display is a highlight. It offers vibrant colors, deep blacks, and good brightness levels, which makes for an enjoyable media experience. Whether you’re watching videos or gaming, the screen performs well in terms of clarity and color reproduction, especially considering the price point.  
-  
-Performance: 4/5  
-Powered by the MediaTek Dimensity 6400 chipset, the Acer Super ZX 5G provides solid performance for everyday tasks, gaming, and multitasking. It handles apps, browsing, and light gaming with ease. Heavy users might notice some lag when running demanding apps or games, but for its price, it’s more than adequate for most.  
-  
-Camera: 3.5/5  
-The triple-camera setup includes a 50MP main sensor, which delivers good photos in well-lit conditions with decent color accuracy and detail. Low-light performance, however, isn’t great, and the ultrawide and depth sensors aren’t the most impressive in terms of output. If you’re not into professional-grade photography, though, it should serve you well for casual shots.  
-  
-Battery Life: 5/5  
-The 5000mAh battery is a standout feature of the Acer Super ZX 5G. It lasts all day with moderate to heavy use, including video streaming, gaming, and browsing. With the included 15W fast charging, the phone can recharge to full relatively quickly, making it convenient for day-to-day use.  
-  
-Software: 4/5  
-The device runs on Stock Android based on Android 15, offering a clean and user-friendly experience. The software is smooth and intuitive.  
-  
-5G Connectivity: 4/5  
-With 5G support, the Acer Super ZX 5G offers good future-proofing, especially as 5G networks continue to expand. The speeds are solid where 5G is available, but it might not offer the same blazing-fast speeds as flagship devices.  
-  
-Overall: 4/5  
-The Acer Super ZX 5G is a solid choice in the budget to mid-range segment. With its impressive display, reliable performance, and fantastic battery life, it provides excellent value for money. While the camera performance and build quality could be improved, it’s a great all-around device for users who want a solid, affordable 5G phone.
-9 people found this helpful
+  * ![⟨112⟩![](https://images-eu.ssl-images-amazon.com/images/S/amazon-avatars-global/cdf213b9-c05c-48c4-9fda-071566f4b2ba._CR0,0,359,359_SX48_.jpg) Surya Vamsi](/gp/profile/amzn1.account.AHPFDND74BSGXAY2MIJIC55XWUCQ/ref=cm_cr_getr_d_gw_btm?ie=UTF8)
+#####  _5.0 out of 5 stars_ Bang for buck ⟨113⟩
+Reviewed in India on 1 July 2025
+Colour: Cosmic Green __Size: 8GB+128GB⟨110⟩ __Verified Purchase⟨99⟩
+Great for the price
 Helpful
 Sending feedback...
 __
@@ -419,11 +391,11 @@ Showing 0 comments
 #### There was a problem loading comments right now. Please try again later.
 __
 * * *
-  * ![⟨112⟩![](https://images-eu.ssl-images-amazon.com/images/S/amazon-avatars-global/default._CR0,0,1024,1024_SX48_.png) Arvind Kumar](/gp/profile/amzn1.account.AFFD5MCYS3YVBMH3YJWHG2UT2FGQ/ref=cm_cr_getr_d_gw_btm?ie=UTF8)
-#####  _3.0 out of 5 stars_ No buy this phone ⟨115⟩
-Reviewed in India on 6 July 2025
-Colour: Cosmic Green __Size: 6GB+128GB⟨107⟩ __Verified Purchase⟨99⟩
-Os interface is average.hotspot catch maximum 1 or 2 meter. He did not even tell how much OS update he will give.Camera good.battery good. Not buy this phone
+  * ![⟨112⟩![](https://images-eu.ssl-images-amazon.com/images/S/amazon-avatars-global/default._CR0,0,1024,1024_SX48_.png) Bishnu prasad ghadai](/gp/profile/amzn1.account.AFMBLLXIPYBREP5RXP2BPT3HZKPA/ref=cm_cr_getr_d_gw_btm?ie=UTF8)
+#####  _5.0 out of 5 stars_ Need some work upon bug. ⟨115⟩
+Reviewed in India on 30 June 2025
+Colour: Cosmic Green __Size: 8GB+128GB⟨110⟩ __Verified Purchase⟨99⟩
+Value for money 🤑💰 product..... Good for professional user....
 One person found this helpful
 Helpful
 Sending feedback...
@@ -436,12 +408,12 @@ Showing 0 comments
 #### There was a problem loading comments right now. Please try again later.
 __
 * * *
-  * ![⟨112⟩![](https://images-eu.ssl-images-amazon.com/images/S/amazon-avatars-global/default._CR0,0,1024,1024_SX48_.png) Rico](/gp/profile/amzn1.account.AF6BZ6SW3DDLUVDDOMEFI265QVTA/ref=cm_cr_getr_d_gw_btm?ie=UTF8)
-#####  _4.0 out of 5 stars_ Design is crazy ⟨117⟩
-Reviewed in India on 12 June 2025
-Colour: Cosmic Green __Size: 6GB+128GB⟨107⟩ __Verified Purchase⟨99⟩
-My father brought 6gb 128gb model at 10,000. At this price Acer Zx Super is insanely good for value. It provides extra 2gb ram, punch hole selfie notch and excellent design. Although I'm disappointed with the camera. Camera is not good as I expected. Overall the phone is superb, you should go for this (expect you don't use camera often).
-7 people found this helpful
+  * ![⟨112⟩![](https://images-eu.ssl-images-amazon.com/images/S/amazon-avatars-global/default._CR0,0,1024,1024_SX48_.png) tarang sharma](/gp/profile/amzn1.account.AFAK3435LO6XQOU66IR4GRGC76DA/ref=cm_cr_getr_d_gw_btm?ie=UTF8)
+#####  _5.0 out of 5 stars_ Best mobile ⟨117⟩
+Reviewed in India on 5 July 2025
+Colour: Lunar Blue __Size: 6GB+128GB⟨102⟩ __Verified Purchase⟨99⟩
+Fantastic mobile. Good looking, camera awesome, very user friendly.
+3 people found this helpful
 Helpful
 Sending feedback...
 __
@@ -453,29 +425,32 @@ Showing 0 comments
 #### There was a problem loading comments right now. Please try again later.
 __
 * * *
-  * ![⟨112⟩![](https://images-eu.ssl-images-amazon.com/images/S/amazon-avatars-global/default._CR0,0,1024,1024_SX48_.png) Renuka K](/gp/profile/amzn1.account.AHSBA4JMQ2ZYVDGE5JGPFHP5LJLQ/ref=cm_cr_getr_d_gw_btm?ie=UTF8)
-#####  _4.0 out of 5 stars_ Super 😊 ⟨119⟩
-Reviewed in India on 5 July 2025
-Colour: Cosmic Green __Size: 6GB+128GB⟨107⟩ __Verified Purchase⟨99⟩
-Super
-One person found this helpful
+  * ![⟨112⟩![](https://images-eu.ssl-images-amazon.com/images/S/amazon-avatars-global/default._CR0,0,1024,1024_SX48_.png) Abuzar](/gp/profile/amzn1.account.AG55U3I3ATROWYVBPUBH4XD6P6WQ/ref=cm_cr_getr_d_gw_btm?ie=UTF8)
+#####  _5.0 out of 5 stars_ Acer Super ZX ⟨119⟩
+Reviewed in India on 30 June 2025
+Colour: Carbon Black __Size: 6GB+128GB⟨120⟩ __Verified Purchase⟨99⟩
+Excellent performance and great value
 Helpful
 Sending feedback...
 __
 Thank you for your feedback.
 __
 Sorry, we failed to record your vote. Please try again
-__Report⟨120⟩
+__Report⟨121⟩
 Showing 0 comments
 #### There was a problem loading comments right now. Please try again later.
 __
 * * *
-  * ![⟨112⟩![](https://images-eu.ssl-images-amazon.com/images/S/amazon-avatars-global/default._CR0,0,1024,1024_SX48_.png) Noir](/gp/profile/amzn1.account.AGEQGXNZADTZNTIZ6IO7DS347CQQ/ref=cm_cr_getr_d_gw_btm?ie=UTF8)
-#####  _3.0 out of 5 stars_ Phone is only fit for normal use ⟨121⟩
-Reviewed in India on 11 June 2025
-Colour: Carbon Black __Size: 6GB+128GB⟨122⟩ __Verified Purchase⟨99⟩
-The phone is good for normal use but definitely not recommended for gaming. It lags a lot even within a week of purchase if you start gaming. Camera quality is good as well as long but the lag and heaviness in the phones is irritating. Overall 5/10. Good for normal and everyday use, not for gaming.
-11 people found this helpful
+  * ![⟨112⟩![](https://images-eu.ssl-images-amazon.com/images/S/amazon-avatars-global/default._CR0,0,1024,1024_SX48_.png) Ravinder Kumar](/gp/profile/amzn1.account.AEFJNDOUKBEHEU43DXUMFPORKQDA/ref=cm_cr_getr_d_gw_btm?ie=UTF8)
+#####  _5.0 out of 5 stars_ Best stereo speakers and RAM ⟨122⟩
+Reviewed in India on 3 July 2025
+Colour: Cosmic Green __Size: 8GB+128GB⟨110⟩ __Verified Purchase⟨99⟩
+Why did you pick this product vs others?:  
+Less price more benefits   
+Mobile quality:  
+An excellent quality   
+Quick customer care response and quality service.
+One person found this helpful
 Helpful
 Sending feedback...
 __
@@ -491,9 +466,10 @@ __
 
 
   *  ←Previous page⟨124⟩
-  * Next page→⟨125⟩
+  * Next page→
 
 
+To see more,  search or filter all reviews.⟨125⟩
 Sponsored ****
 Need customer service? ⟨126⟩
 ‹ See all details for Acer Super ZX 5G (Carbon Black, 6GB RAM, 128GB Storage) | 120 Hz FHD+...⟨127⟩
