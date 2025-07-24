@@ -127,7 +127,7 @@ async def amazon_navigation_async(url, email, password,product):
 
         await page.fill('input#twotabsearchtextbox', product)
         await page.click('input#nav-search-submit-button')
-        await asyncio.sleep(4)
+        await asyncio.sleep(10)
         anchors = await page.query_selector_all('a.a-link-normal.s-line-clamp-2.s-line-clamp-3-for-col-12.s-link-style.a-text-normal')
         
         hrefs = [await a.get_attribute('href') for a in anchors]
@@ -342,10 +342,10 @@ def check_login_status(cookies):
             greeting_text = page.inner_text("#nav-link-accountList-nav-line-1")
 
             if "sign in" in greeting_text.lower():
-                print("❌ Not logged in")
+                print(" Not logged in")
                 login_status = False
             else:
-                print(f"✅ Logged in as: {greeting_text}")
+                print(f" Logged in as: {greeting_text}")
                 login_status = True
             browser.close()
     except Exception as e:
