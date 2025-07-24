@@ -70,12 +70,12 @@ Your Account
   * Ankit's Amazon.in⟨44⟩
   * Customer Service⟨45⟩
   * Subscribe & Save⟨46⟩
-  * Home & Kitchen⟨47⟩
-  * New Releases⟨48⟩
+  * New Releases⟨47⟩
+  * Home & Kitchen⟨48⟩
   * Grocery & Gourmet Foods⟨49⟩
   * Prime ⟨50⟩
-  * Audible⟨51⟩
-  * Toys & Games⟨52⟩
+  * Toys & Games⟨51⟩
+  * Audible⟨52⟩
   * Fashion⟨53⟩
   * Mobiles⟨54⟩
   *  Electronics ⟨55⟩
@@ -254,7 +254,7 @@ __Add to Cart
 ## Customer reviews
  _4.2 out of 5 stars_
 4.2 out of 5
-12,099 global ratings
+12,100 global ratings
   *  5 star  4 star  3 star  2 star  1 star  5 star  58%  24%  7%  2%  9%  58%  ⟨87⟩
   *  5 star  4 star  3 star  2 star  1 star  4 star  58%  24%  7%  2%  9%  24%  ⟨88⟩
   *  5 star  4 star  3 star  2 star  1 star  3 star  58%  24%  7%  2%  9%  7%  ⟨89⟩
@@ -287,7 +287,7 @@ Filter by reviewer type All reviewersVerified purchase onlyAll reviewers __
 Filter by star count All stars5 star only4 star only3 star only2 star only1 star onlyPositive reviewsCritical reviewsAll stars __
 Filter by variant type All variantsColour: DayBreak Blue |Size: 8GB + 128GBAll variants __
 Filter by media type All text, image and video reviewsImage and video reviews onlyAll text, image and video reviews __
-4,080 customer reviews 
+4,086 customer reviews 
 * * *
 #### There was a problem filtering reviews. Please reload the page.
 __
@@ -479,24 +479,8 @@ Showing 0 comments
 #### There was a problem loading comments right now. Please try again later.
 __
 * * *
-  * ![⟨112⟩![](https://images-eu.ssl-images-amazon.com/images/S/amazon-avatars-global/default._CR0,0,1024,1024_SX48_.png) Felici Peter](/gp/profile/amzn1.account.AGTZNQ7M3ONS7AMVSFKOZTCFXU6A/ref=cm_cr_getr_d_gw_btm?ie=UTF8)
-#####  _4.0 out of 5 stars_ Good ⟨122⟩
-Reviewed in India on 15 July 2025
-Colour: DayBreak Blue __Size: 6GB + 128GB⟨110⟩ __Verified Purchase⟨100⟩
-Good mobile
-Helpful
-Sending feedback...
-__
-Thank you for your feedback.
-__
-Sorry, we failed to record your vote. Please try again
-__Report⟨123⟩
-Showing 0 comments
-#### There was a problem loading comments right now. Please try again later.
-__
-* * *
   * ![⟨112⟩![](https://images-eu.ssl-images-amazon.com/images/S/amazon-avatars-global/default._CR0,0,1024,1024_SX48_.png) Sooryeah](/gp/profile/amzn1.account.AGMLVOO6UF2GC7HQT4T5CSS6S3ZQ/ref=cm_cr_getr_d_gw_btm?ie=UTF8)
-#####  _4.0 out of 5 stars_ Samsung being SAMSUNG! ⟨124⟩
+#####  _4.0 out of 5 stars_ Samsung being SAMSUNG! ⟨122⟩
 Reviewed in India on 12 April 2025
 Colour: Moonlight Blue __Size: 6GB + 128GB⟨114⟩ __Verified Purchase⟨100⟩
 I wanted a new with amoled display. At first i went for poco f4 at a great deal but got delivered re pack edition so returned the product. So when I went re order again price went too high. So I was searching for new deal at budget category and found this champ at 13999. I felt everything happens for a reason. I really loved this phone. Battery life, standby, display, speed everything is fabulous. Only con is charging speed. It only supports samsung adapter which is not available in the box. By third party chagers or other brands, charging speed is extremely low. It takes around 3 hours to fully charge. With this kind of battery life and software support. This monster can last for years. If it comes under 15k with offers you can definitely go without any second thought. Above 15k, a bit judgable.
@@ -508,9 +492,25 @@ _4.0 out of 5 stars_
 Reviewed in India on 12 April 2025 
 I wanted a new with amoled display. At first i went for poco f4 at a great deal but got delivered re pack edition so returned the product. So when I went re order again price went too high. So I was searching for new deal at budget category and found this champ at 13999. I felt everything happens for a reason. I really loved this phone. Battery life, standby, display, speed everything is fabulous. Only con is charging speed. It only supports samsung adapter which is not available in the box. By third party chagers or other brands, charging speed is extremely low. It takes around 3 hours to fully charge. With this kind of battery life and software support. This monster can last for years. If it comes under 15k with offers you can definitely go without any second thought. Above 15k, a bit judgable. 
 ######  Images in this review 
-![Customer image 1⟨125⟩]
-![Customer image⟨125⟩__](javascript:void\(0\))
+![Customer image 1⟨123⟩]
+![Customer image⟨123⟩__](javascript:void\(0\))
 23 people found this helpful
+Helpful
+Sending feedback...
+__
+Thank you for your feedback.
+__
+Sorry, we failed to record your vote. Please try again
+__Report⟨124⟩
+Showing 0 comments
+#### There was a problem loading comments right now. Please try again later.
+__
+* * *
+  * ![⟨112⟩![](https://images-eu.ssl-images-amazon.com/images/S/amazon-avatars-global/default._CR0,0,1024,1024_SX48_.png) Felici Peter](/gp/profile/amzn1.account.AGTZNQ7M3ONS7AMVSFKOZTCFXU6A/ref=cm_cr_getr_d_gw_btm?ie=UTF8)
+#####  _4.0 out of 5 stars_ Good ⟨125⟩
+Reviewed in India on 15 July 2025
+Colour: DayBreak Blue __Size: 6GB + 128GB⟨110⟩ __Verified Purchase⟨100⟩
+Good mobile
 Helpful
 Sending feedback...
 __
@@ -566,45 +566,43 @@ Need customer service? ⟨133⟩
 ‹ See all details for Samsung Galaxy M35 5G (Daybreak Blue,8GB RAM,128GB Storage)| Corning...⟨134⟩
   
 
-## Items you may like
-Page 1 of 6 Start over⟨135⟩
+## Consider these items
+Page 1 of 3 Start over⟨135⟩
  _Previous set of slides_⟨135⟩
-  1. ![GO DESi Rakhi Gift Box – 17 Items | DESi Fun Gift Box | Rakhi Gift for Brother | Single Rakhi for Brother | Kaju Katli | Roli⟨136⟩](/GO-DESi-Hamper-Coated-Peanuts/dp/B0DFMJHY3V/ref=pd_rhf_cr_s_bmx_gp_d_sccl_1_1/259-9062319-1524538?pd_rd_w=MswXU&content-id=amzn1.sym.35f1b9bc-e9a4-4d72-8834-da50e17d0f85&pf_rd_p=35f1b9bc-e9a4-4d72-8834-da50e17d0f85&pf_rd_r=D73722BXSJQ3S6MV2XX9&pd_rd_wg=ExaXv&pd_rd_r=5447e77e-eee7-475d-a6b4-acdb06e27ada&pd_rd_i=B0DFMJHY3V&psc=1)
- GO DESi Rakhi Gift Box – 17 Items | DESi Fun Gift Box | Rakhi Gift for Brother | Single Rakhi for Brother | Kaju Katli | Roli Chawal | Desi Popz | Meetha Paan | Coconut Barfi | Fruti Twist | Raksha Bandhan Combo Set | Rakhi Hamper⟨137⟩
- _4.3 out of 5 stars_ 111⟨138⟩
--50%⟨137⟩₹349.00₹349.00⟨137⟩
-M.R.P: ₹699.00⟨137⟩
+  1. ![Skybags Paratrip Medium Size Hard Luggage \(67 Cm\) | Polypropylene Luggage Trolley with 8 Wheels| Bumblebee | Unisex, Spinner,⟨136⟩](/Skybags-Paratrip-Luggage-Polypropylene-Bumblebee/dp/B0CPSW55F5/ref=pd_rhf_cr_s_bmx_gp_d_sccl_1_1/261-1325849-2609413?pd_rd_w=Fuxkc&content-id=amzn1.sym.35f1b9bc-e9a4-4d72-8834-da50e17d0f85&pf_rd_p=35f1b9bc-e9a4-4d72-8834-da50e17d0f85&pf_rd_r=YBZ34YC7SWWQM52JBBWJ&pd_rd_wg=9Y1r8&pd_rd_r=132628d0-634c-4cca-80b6-1d59cc334f45&pd_rd_i=B0CPSW55F5&psc=1)
+ Skybags Paratrip Medium Size Hard Luggage (67 Cm) | Polypropylene Luggage Trolley with 8 Wheels| Bumblebee | Unisex, Spinner, Yellow⟨137⟩
+ _4.4 out of 5 stars_ 408⟨138⟩
+-74%⟨137⟩₹2,438.00₹2,438.00⟨137⟩
+M.R.P: ₹9,450.00⟨137⟩
+Get it by **Tuesday, July 29**
+FREE Delivery by Amazon
+  2. ![Safari Genius Fortis 55cm Cabin Trolley Bag Hard Case Polycarbonate, 4 Spinner Wheels, 360 Degree Wheeling Carry on Luggage, ⟨139⟩](/Safari-Trolley-Polycarbonate-Wheeling-Suitcase/dp/B0F67GDB92/ref=pd_rhf_cr_s_bmx_gp_d_sccl_1_2/261-1325849-2609413?pd_rd_w=Fuxkc&content-id=amzn1.sym.35f1b9bc-e9a4-4d72-8834-da50e17d0f85&pf_rd_p=35f1b9bc-e9a4-4d72-8834-da50e17d0f85&pf_rd_r=YBZ34YC7SWWQM52JBBWJ&pd_rd_wg=9Y1r8&pd_rd_r=132628d0-634c-4cca-80b6-1d59cc334f45&pd_rd_i=B0F67GDB92&psc=1)
+Safari Genius Fortis 55cm Cabin Trolley Bag Hard Case Polycarbonate, 4 Spinner Wheels, 360 Degree Wheeling Carry on Luggage, Travel Bag, Suitcase for Travel, Trolley Bags for Travel, Green⟨140⟩
+ _3.8 out of 5 stars_ 57⟨141⟩
+-76%⟨140⟩₹1,699.00₹1,699.00⟨140⟩
+M.R.P: ₹7,199.00⟨140⟩
 Get it by **Saturday, July 26**
 FREE Delivery by Amazon
-  2. ![Kohinoor Brown Authentic Basmati Rice 1 Kg Jar – Rich Aroma & Long Grain Rice⟨139⟩](/Kohinoor-Brown-Authentic-Basmati-Rice/dp/B0DHXD1CXN/ref=pd_rhf_cr_s_bmx_gp_d_sccl_1_2/259-9062319-1524538?pd_rd_w=MswXU&content-id=amzn1.sym.35f1b9bc-e9a4-4d72-8834-da50e17d0f85&pf_rd_p=35f1b9bc-e9a4-4d72-8834-da50e17d0f85&pf_rd_r=D73722BXSJQ3S6MV2XX9&pd_rd_wg=ExaXv&pd_rd_r=5447e77e-eee7-475d-a6b4-acdb06e27ada&pd_rd_i=B0DHXD1CXN&psc=1)
-Kohinoor Brown Authentic Basmati Rice 1 Kg Jar – Rich Aroma & Long Grain Rice⟨140⟩
- _4.2 out of 5 stars_ 48⟨141⟩
--30%⟨140⟩₹168.00₹168.00⟨140⟩ (₹168.00/kg)⟨140⟩
-M.R.P: ₹239.00⟨140⟩
+  3. ![uppercase Polyester Cyber Punk \(Medium\) 66Cms|Check-In Inline Trolley Bag For Travel|Polycarbonate Hardshellsided Printed Lug⟨142⟩](/uppercase-Polycarbonate-Hardsided-Combination-Warranty/dp/B0CR1CTD5P/ref=pd_rhf_cr_s_bmx_gp_d_sccl_1_3/261-1325849-2609413?pd_rd_w=Fuxkc&content-id=amzn1.sym.35f1b9bc-e9a4-4d72-8834-da50e17d0f85&pf_rd_p=35f1b9bc-e9a4-4d72-8834-da50e17d0f85&pf_rd_r=YBZ34YC7SWWQM52JBBWJ&pd_rd_wg=9Y1r8&pd_rd_r=132628d0-634c-4cca-80b6-1d59cc334f45&pd_rd_i=B0CR1CTD5P&psc=1)
+uppercase Polyester Cyber Punk (Medium) 66Cms|Check-In Inline Trolley Bag For Travel|Polycarbonate Hardshellsided Printed Luggage|Combination Lock|8 Wheel Inline Trolley Bag |(White),H-65.5 cms,Large⟨143⟩
+ _4.2 out of 5 stars_ 69⟨144⟩
+-36%⟨143⟩₹3,776.00₹3,776.00⟨143⟩
+M.R.P: ₹5,900.00⟨143⟩
 Get it by **Saturday, July 26**
 FREE Delivery by Amazon
-  3. ![DiSano Extra Light Olive Oil 500ml, Ideal for Indian Cooking⟨142⟩](/Disano-Olive-Extra-Light-Flavour/dp/B016DM4M48/ref=pd_rhf_cr_s_bmx_gp_d_sccl_1_3/259-9062319-1524538?pd_rd_w=MswXU&content-id=amzn1.sym.35f1b9bc-e9a4-4d72-8834-da50e17d0f85&pf_rd_p=35f1b9bc-e9a4-4d72-8834-da50e17d0f85&pf_rd_r=D73722BXSJQ3S6MV2XX9&pd_rd_wg=ExaXv&pd_rd_r=5447e77e-eee7-475d-a6b4-acdb06e27ada&pd_rd_i=B016DM4M48&psc=1)
-DiSano Extra Light Olive Oil 500ml, Ideal for Indian Cooking⟨143⟩
- _4.4 out of 5 stars_ 2,079⟨144⟩
--52%⟨143⟩₹599.00₹599.00⟨143⟩ (₹1,198.00/l)⟨143⟩
-Limited time deal
-M.R.P: ₹1,245.00⟨143⟩
+  4. ![Safari Thorium Royale 8 Wheels 77cm Large Size Trolley Bag Hard Case Checkin Polycarbonate Luggage, TSA Lock, Wet Pouch Organ⟨145⟩](/Safari-Polycarbonate-Organized-Interior-Suitcase/dp/B097B4JTKH/ref=pd_rhf_cr_s_bmx_gp_d_sccl_1_4/261-1325849-2609413?pd_rd_w=Fuxkc&content-id=amzn1.sym.35f1b9bc-e9a4-4d72-8834-da50e17d0f85&pf_rd_p=35f1b9bc-e9a4-4d72-8834-da50e17d0f85&pf_rd_r=YBZ34YC7SWWQM52JBBWJ&pd_rd_wg=9Y1r8&pd_rd_r=132628d0-634c-4cca-80b6-1d59cc334f45&pd_rd_i=B097B4JTKH&psc=1)
+Safari Thorium Royale 8 Wheels 77cm Large Size Trolley Bag Hard Case Checkin Polycarbonate Luggage, TSA Lock, Wet Pouch Organized Interior, Suitcase for Travel, Trolley Bags for Travel, Vanilla Tan⟨146⟩
+ _4.1 out of 5 stars_ 14,292⟨147⟩
+-77%⟨146⟩₹3,699.00₹3,699.00⟨146⟩
+M.R.P: ₹15,999.00⟨146⟩
 Get it by **Saturday, July 26**
 FREE Delivery by Amazon
-  4. ![Borges Character Extra Virgin Olive Oil, 250 ml⟨145⟩](/Borges-Character-Extra-Virgin-Olive/dp/B0DQV8Y5Z5/ref=pd_rhf_cr_s_bmx_gp_d_sccl_1_4/259-9062319-1524538?pd_rd_w=MswXU&content-id=amzn1.sym.35f1b9bc-e9a4-4d72-8834-da50e17d0f85&pf_rd_p=35f1b9bc-e9a4-4d72-8834-da50e17d0f85&pf_rd_r=D73722BXSJQ3S6MV2XX9&pd_rd_wg=ExaXv&pd_rd_r=5447e77e-eee7-475d-a6b4-acdb06e27ada&pd_rd_i=B0DQV8Y5Z5&psc=1)
-Borges Character Extra Virgin Olive Oil, 250 ml⟨146⟩
- _4.5 out of 5 stars_ 16⟨147⟩
--50%⟨146⟩₹399.00₹399.00⟨146⟩ (₹1,596.00/l)⟨146⟩
-Limited time deal
-M.R.P: ₹800.00⟨146⟩
-Get it by **Saturday, July 26**
-FREE Delivery by Amazon
-  5. ![Colavita Mediterranean Extra Virgin Olive Oil \(750ml\) | Imported from Italy | Premium Olive Oil for Cooking, Dips and Marinad⟨148⟩](/Colavita-Mediterranean-Extra-Virgin-Olive/dp/B00L2YH7L8/ref=pd_rhf_cr_s_bmx_gp_d_sccl_1_5/259-9062319-1524538?pd_rd_w=MswXU&content-id=amzn1.sym.35f1b9bc-e9a4-4d72-8834-da50e17d0f85&pf_rd_p=35f1b9bc-e9a4-4d72-8834-da50e17d0f85&pf_rd_r=D73722BXSJQ3S6MV2XX9&pd_rd_wg=ExaXv&pd_rd_r=5447e77e-eee7-475d-a6b4-acdb06e27ada&pd_rd_i=B00L2YH7L8&psc=1)
-Colavita Mediterranean Extra Virgin Olive Oil (750ml) | Imported from Italy | Premium Olive Oil for Cooking, Dips and Marinades | Cold Pressed Oil from Superior Whole Olives | Timeless Bottle⟨149⟩
- _4.3 out of 5 stars_ 165⟨150⟩
-₹1,994.00₹1,994.00⟨149⟩ (₹2,658.67/l)⟨149⟩
-M.R.P: ₹1,995.00⟨149⟩
-Get it by **Thursday, July 31**
+  5. ![Provogue Cascade Hard-Sided PP 65 Cm Check-in Medium Size Luggage Suitcase | Expandable Space with 8 Wheels Trolley Bags for ⟨148⟩](/Provogue-Hard-Sided-Expandable-Combination-Timberwolf/dp/B0DXTW7P64/ref=pd_rhf_cr_s_bmx_gp_d_sccl_1_5/261-1325849-2609413?pd_rd_w=Fuxkc&content-id=amzn1.sym.35f1b9bc-e9a4-4d72-8834-da50e17d0f85&pf_rd_p=35f1b9bc-e9a4-4d72-8834-da50e17d0f85&pf_rd_r=YBZ34YC7SWWQM52JBBWJ&pd_rd_wg=9Y1r8&pd_rd_r=132628d0-634c-4cca-80b6-1d59cc334f45&pd_rd_i=B0DXTW7P64&psc=1)
+Provogue Cascade Hard-Sided PP 65 Cm Check-in Medium Size Luggage Suitcase | Expandable Space with 8 Wheels Trolley Bags for Travel | Combination Lock |5 Year Warranty (Timberwolf Grey/Burnt Orange)⟨149⟩
+_4.2 out of 5 stars_ 16⟨150⟩
+-61%⟨149⟩₹2,899.00₹2,899.00⟨149⟩
+M.R.P: ₹7,375.00⟨149⟩
+Get it by **Monday, July 28**
 FREE Delivery by Amazon
 
 
@@ -612,48 +610,46 @@ FREE Delivery by Amazon
 ## Discover more
 Page 1 of 1 Start over⟨135⟩
  _Previous set of slides_⟨135⟩
-  1. ![uppercase Polyester Cyber Punk \(Medium\) 66Cms|Check-In Inline Trolley Bag For Travel|Polycarbonate Hardshellsided Printed Lug⟨151⟩](/uppercase-Polycarbonate-Hardsided-Combination-Warranty/dp/B0CR1CTD5P/ref=pd_rhf_cr_s_bmx_gp_d_sccl_2_1/259-9062319-1524538?pd_rd_w=6lKn7&content-id=amzn1.sym.35f1b9bc-e9a4-4d72-8834-da50e17d0f85&pf_rd_p=35f1b9bc-e9a4-4d72-8834-da50e17d0f85&pf_rd_r=D73722BXSJQ3S6MV2XX9&pd_rd_wg=ExaXv&pd_rd_r=5447e77e-eee7-475d-a6b4-acdb06e27ada&pd_rd_i=B0CR1CTD5P&psc=1)
- uppercase Polyester Cyber Punk (Medium) 66Cms|Check-In Inline Trolley Bag For Travel|Polycarbonate Hardshellsided Printed Luggage|Combination Lock|8 Wheel Inline Trolley Bag |(White),H-65.5 cms,Large⟨152⟩
- _4.2 out of 5 stars_ 69⟨153⟩
--36%⟨152⟩₹3,776.00₹3,776.00⟨152⟩
-M.R.P: ₹5,900.00⟨152⟩
+  1. ![True Elements Protein Muesli 1kg - 24g Clean Protein | With 15% Millets, Almonds, Seeds & Black Currant | High Protein Breakf⟨151⟩](/True-Elements-Protein-Muesli-1kg/dp/B0C2QBS726/ref=pd_rhf_cr_s_bmx_gp_d_sccl_2_1/261-1325849-2609413?pd_rd_w=abGuS&content-id=amzn1.sym.35f1b9bc-e9a4-4d72-8834-da50e17d0f85&pf_rd_p=35f1b9bc-e9a4-4d72-8834-da50e17d0f85&pf_rd_r=YBZ34YC7SWWQM52JBBWJ&pd_rd_wg=9Y1r8&pd_rd_r=132628d0-634c-4cca-80b6-1d59cc334f45&pd_rd_i=B0C2QBS726&psc=1)
+ True Elements Protein Muesli 1kg - 24g Clean Protein | With 15% Millets, Almonds, Seeds & Black Currant | High Protein Breakfast Cereal | 100% Wholegrain Muesli⟨152⟩
+ _3.9 out of 5 stars_ 102⟨153⟩
+-12%⟨152⟩₹700.00₹700.00⟨152⟩ (₹700.00/kg)⟨152⟩
+M.R.P: ₹795.00⟨152⟩
 Get it by **Saturday, July 26**
 FREE Delivery by Amazon
-  2. ![Skybags Rhumba 66 Cms Medium Check-in Polyster Soft Sided Luggae/Suitcase/Inline Trolley Bag- Green⟨154⟩](/Skybags-Rhumba-Polyster-Suitcase-Trolley/dp/B0DX6BPTQT/ref=pd_rhf_cr_s_bmx_gp_d_sccl_2_2/259-9062319-1524538?pd_rd_w=6lKn7&content-id=amzn1.sym.35f1b9bc-e9a4-4d72-8834-da50e17d0f85&pf_rd_p=35f1b9bc-e9a4-4d72-8834-da50e17d0f85&pf_rd_r=D73722BXSJQ3S6MV2XX9&pd_rd_wg=ExaXv&pd_rd_r=5447e77e-eee7-475d-a6b4-acdb06e27ada&pd_rd_i=B0DX6BPTQT&psc=1)
-Skybags Rhumba 66 Cms Medium Check-in Polyster Soft Sided Luggae/Suitcase/Inline Trolley Bag- Green⟨155⟩
- _4.1 out of 5 stars_ 42⟨156⟩
--66%⟨155⟩₹2,567.57₹2,567.57⟨155⟩
-M.R.P: ₹7,500.00⟨155⟩
-Get it by **Saturday, July 26**
-FREE Delivery by Amazon
-  3. ![Provogue Cascade Hard-Sided PP 65 Cm Check-in Medium Size Luggage Suitcase | Expandable Space with 8 Wheels Trolley Bags for ⟨157⟩](/Provogue-Hard-Sided-Expandable-Combination-Timberwolf/dp/B0DXTW7P64/ref=pd_rhf_cr_s_bmx_gp_d_sccl_2_3/259-9062319-1524538?pd_rd_w=6lKn7&content-id=amzn1.sym.35f1b9bc-e9a4-4d72-8834-da50e17d0f85&pf_rd_p=35f1b9bc-e9a4-4d72-8834-da50e17d0f85&pf_rd_r=D73722BXSJQ3S6MV2XX9&pd_rd_wg=ExaXv&pd_rd_r=5447e77e-eee7-475d-a6b4-acdb06e27ada&pd_rd_i=B0DXTW7P64&psc=1)
-Provogue Cascade Hard-Sided PP 65 Cm Check-in Medium Size Luggage Suitcase | Expandable Space with 8 Wheels Trolley Bags for Travel | Combination Lock |5 Year Warranty (Timberwolf Grey/Burnt Orange)⟨158⟩
-_4.2 out of 5 stars_ 16⟨159⟩
--61%⟨158⟩₹2,899.00₹2,899.00⟨158⟩
-M.R.P: ₹7,375.00⟨158⟩
+  2. ![Del Monte Green Pitted Olives 450g l Select Quality Olives Imported from Spain | Italian cuisine ingredient | Low Fat Ready-t⟨154⟩](/Del-Monte-Green-Pitted-Olives/dp/B00RTBWKWY/ref=pd_rhf_cr_s_bmx_gp_d_sccl_2_2/261-1325849-2609413?pd_rd_w=abGuS&content-id=amzn1.sym.35f1b9bc-e9a4-4d72-8834-da50e17d0f85&pf_rd_p=35f1b9bc-e9a4-4d72-8834-da50e17d0f85&pf_rd_r=YBZ34YC7SWWQM52JBBWJ&pd_rd_wg=9Y1r8&pd_rd_r=132628d0-634c-4cca-80b6-1d59cc334f45&pd_rd_i=B00RTBWKWY&psc=1)
+Del Monte Green Pitted Olives 450g l Select Quality Olives Imported from Spain | Italian cuisine ingredient | Low Fat Ready-to-Eat Healthy Snack l 100% Natural | Suitable for Pizza, Pasta Topping, Garnishing Salad, Wraps | Source of Fibre, Gluten Free, No Added Preservatives⟨155⟩
+ _4.2 out of 5 stars_ 1,271⟨156⟩
+-3%⟨155⟩₹350.00₹350.00⟨155⟩ (₹777.78/kg)⟨155⟩
+M.R.P: ₹360.00⟨155⟩
+Get it **Aug 6 - 9**
+₹130.00 shipping 
+  3. ![The Oil Factory Extra Virgin Olive Oil - 1 LTR Pack of 2⟨157⟩](/Oil-Factory-Extra-Virgin-Olive/dp/B07KD4PH8D/ref=pd_rhf_cr_s_bmx_gp_d_sccl_2_3/261-1325849-2609413?pd_rd_w=abGuS&content-id=amzn1.sym.35f1b9bc-e9a4-4d72-8834-da50e17d0f85&pf_rd_p=35f1b9bc-e9a4-4d72-8834-da50e17d0f85&pf_rd_r=YBZ34YC7SWWQM52JBBWJ&pd_rd_wg=9Y1r8&pd_rd_r=132628d0-634c-4cca-80b6-1d59cc334f45&pd_rd_i=B07KD4PH8D&psc=1)
+The Oil Factory Extra Virgin Olive Oil - 1 LTR Pack of 2⟨158⟩
+ _3.6 out of 5 stars_ 151⟨159⟩
+-50%⟨158⟩₹994.00₹994.00⟨158⟩ (₹497.00/kg)⟨158⟩
+M.R.P: ₹1,998.00⟨158⟩
 Get it by **Sunday, July 27**
 FREE Delivery by Amazon
-  4. ![Genie Polycarbonate Scarlett Trolley Bag Large Size, 79 cms Fresh Mint Hard Side Travel Bag, 8 Wheel Double Spinner Luggage S⟨160⟩](/Genie-Scarlett-Polycarbonate-Hardsided-Rotation/dp/B097PGT9T1/ref=pd_rhf_cr_s_bmx_gp_d_sccl_2_4/259-9062319-1524538?pd_rd_w=6lKn7&content-id=amzn1.sym.35f1b9bc-e9a4-4d72-8834-da50e17d0f85&pf_rd_p=35f1b9bc-e9a4-4d72-8834-da50e17d0f85&pf_rd_r=D73722BXSJQ3S6MV2XX9&pd_rd_wg=ExaXv&pd_rd_r=5447e77e-eee7-475d-a6b4-acdb06e27ada&pd_rd_i=B097PGT9T1&psc=1)
-Genie Polycarbonate Scarlett Trolley Bag Large Size, 79 cms Fresh Mint Hard Side Travel Bag, 8 Wheel Double Spinner Luggage Suitcase for Travelling, Check in Luggage with Trolley, Scratch Resistant⟨161⟩
- _4.3 out of 5 stars_ 47⟨162⟩
--64%⟨161⟩₹3,699.00₹3,699.00⟨161⟩
-Limited time deal
-M.R.P: ₹10,167.00⟨161⟩
-Get it by **Tuesday, July 29**
+  4. ![TE-A-ME Spearmint Tea - 40G | Spearmint Leaves Tea for PCOS, PCOD & Facial Hair⟨160⟩](/TE-ME-Spearmint-Tea-Leaves/dp/B0DL9WDX2J/ref=pd_rhf_cr_s_bmx_gp_d_sccl_2_4/261-1325849-2609413?pd_rd_w=abGuS&content-id=amzn1.sym.35f1b9bc-e9a4-4d72-8834-da50e17d0f85&pf_rd_p=35f1b9bc-e9a4-4d72-8834-da50e17d0f85&pf_rd_r=YBZ34YC7SWWQM52JBBWJ&pd_rd_wg=9Y1r8&pd_rd_r=132628d0-634c-4cca-80b6-1d59cc334f45&pd_rd_i=B0DL9WDX2J&psc=1)
+TE-A-ME Spearmint Tea - 40G | Spearmint Leaves Tea for PCOS, PCOD & Facial Hair⟨161⟩
+ _3.9 out of 5 stars_ 16⟨162⟩
+-1%⟨161⟩₹198.00₹198.00⟨161⟩ (₹495.00/100 g)⟨161⟩
+M.R.P: ₹200.00⟨161⟩
+Get it by **Sunday, July 27**
 FREE Delivery by Amazon
-  5. ![Skybags Acrylonitrile Butadiene Styrene \(Abs\) Trooper Large Check-in Size Hard Luggage \(75Cm\) | Luggage Trolley with 4 Spinne⟨163⟩](/Skybags-Acrylonitrile-Butadiene-Resettable-Combination/dp/B0D9P2YPD7/ref=pd_rhf_cr_s_bmx_gp_d_sccl_2_5/259-9062319-1524538?pd_rd_w=6lKn7&content-id=amzn1.sym.35f1b9bc-e9a4-4d72-8834-da50e17d0f85&pf_rd_p=35f1b9bc-e9a4-4d72-8834-da50e17d0f85&pf_rd_r=D73722BXSJQ3S6MV2XX9&pd_rd_wg=ExaXv&pd_rd_r=5447e77e-eee7-475d-a6b4-acdb06e27ada&pd_rd_i=B0D9P2YPD7&psc=1)
-Skybags Acrylonitrile Butadiene Styrene (Abs) Trooper Large Check-in Size Hard Luggage (75Cm) | Luggage Trolley with 4 Spinner Wheels and Resettable Combination Lock | Black⟨164⟩
- _4.1 out of 5 stars_ 20,480⟨165⟩
--60%⟨164⟩₹4,359.00₹4,359.00⟨164⟩
-Limited time deal
-M.R.P: ₹10,920.00⟨164⟩
-Get it by **Saturday, July 26**
+  5. ![Continental Speciale | Vanilla Flavoured Coffee | 50 gm Jar | Makes 25 Cups | Instant flavored Coffee for both Hot & Cold Cof⟨163⟩](/Continental-Speciale-Flavoured-Coffee-flavored/dp/B0DTYCZDM4/ref=pd_rhf_cr_s_bmx_gp_d_sccl_2_5/261-1325849-2609413?pd_rd_w=abGuS&content-id=amzn1.sym.35f1b9bc-e9a4-4d72-8834-da50e17d0f85&pf_rd_p=35f1b9bc-e9a4-4d72-8834-da50e17d0f85&pf_rd_r=YBZ34YC7SWWQM52JBBWJ&pd_rd_wg=9Y1r8&pd_rd_r=132628d0-634c-4cca-80b6-1d59cc334f45&pd_rd_i=B0DTYCZDM4&psc=1)
+Continental Speciale | Vanilla Flavoured Coffee | 50 gm Jar | Makes 25 Cups | Instant flavored Coffee for both Hot & Cold Coffee | Medium Roast⟨164⟩
+ _3.8 out of 5 stars_ 41⟨165⟩
+-28%⟨164⟩₹269.00₹269.00⟨164⟩ (₹538.00/100 g)⟨164⟩
+M.R.P: ₹375.00⟨164⟩
+Get it by **Monday, July 28**
 FREE Delivery by Amazon
-  6. ![Safari Hexa 21 Ltrs Water Resistant 3 Compartment Backpack - Black, S \(HEXA19CBBLK\)⟨166⟩](/Safari-Hexa-Water-Resistant-Backpack/dp/B09B26TVPM/ref=pd_rhf_cr_s_bmx_gp_d_sccl_2_6/259-9062319-1524538?pd_rd_w=6lKn7&content-id=amzn1.sym.35f1b9bc-e9a4-4d72-8834-da50e17d0f85&pf_rd_p=35f1b9bc-e9a4-4d72-8834-da50e17d0f85&pf_rd_r=D73722BXSJQ3S6MV2XX9&pd_rd_wg=ExaXv&pd_rd_r=5447e77e-eee7-475d-a6b4-acdb06e27ada&pd_rd_i=B09B26TVPM&psc=1)
-Safari Hexa 21 Ltrs Water Resistant 3 Compartment Backpack - Black, S (HEXA19CBBLK)⟨167⟩
-_3.9 out of 5 stars_ 2,282⟨168⟩
--75%⟨167⟩₹502.00₹502.00⟨167⟩
-M.R.P: ₹2,010.00⟨167⟩
+  6. ![GO DESi Rakhi Gift Box – 17 Items | DESi Fun Gift Box | Rakhi Gift for Brother | Single Rakhi for Brother | Kaju Katli | Roli⟨166⟩](/GO-DESi-Hamper-Coated-Peanuts/dp/B0DFMJHY3V/ref=pd_rhf_cr_s_bmx_gp_d_sccl_2_6/261-1325849-2609413?pd_rd_w=abGuS&content-id=amzn1.sym.35f1b9bc-e9a4-4d72-8834-da50e17d0f85&pf_rd_p=35f1b9bc-e9a4-4d72-8834-da50e17d0f85&pf_rd_r=YBZ34YC7SWWQM52JBBWJ&pd_rd_wg=9Y1r8&pd_rd_r=132628d0-634c-4cca-80b6-1d59cc334f45&pd_rd_i=B0DFMJHY3V&psc=1)
+GO DESi Rakhi Gift Box – 17 Items | DESi Fun Gift Box | Rakhi Gift for Brother | Single Rakhi for Brother | Kaju Katli | Roli Chawal | Desi Popz | Meetha Paan | Coconut Barfi | Fruti Twist | Raksha Bandhan Combo Set | Rakhi Hamper⟨167⟩
+ _4.3 out of 5 stars_ 111⟨168⟩
+-50%⟨167⟩₹349.00₹349.00⟨167⟩
+M.R.P: ₹699.00⟨167⟩
 Get it by **Saturday, July 26**
 FREE Delivery by Amazon
 
@@ -663,12 +659,12 @@ FREE Delivery by Amazon
 View or edit your browsing history⟨169⟩
 Page 1 of 1 Start over⟨135⟩
  _Previous set of slides_⟨135⟩
-  1. ![Acer Super ZX 5G \(Carbon Black, 6GB RAM, 128GB Storage\) | 120 Hz FHD+ Display | 5000 mAh Ultra-Thin Battery | Dimensity 6300 ⟨170⟩](/Storage-Display-Ultra-Thin-Dimensity-Processor/dp/B0F4DG9ZH5/ref=rvi_d_sccl_1/259-9062319-1524538?pd_rd_w=7Exsy&content-id=amzn1.sym.2fa5ef78-d215-4b54-bdb7-fa3d3620b822&pf_rd_p=2fa5ef78-d215-4b54-bdb7-fa3d3620b822&pf_rd_r=D73722BXSJQ3S6MV2XX9&pd_rd_wg=GYYFe&pd_rd_r=cde262de-ec4e-42d6-b68d-5fe8bf919366&pd_rd_i=B0F4DG9ZH5&psc=1)
-  2. ![Samsung Galaxy M36 5G \(Orange Haze, 6 GB RAM, 128 GB Storage\)| Circle to Search| Google Gemini| Corning Gorilla Glass Victus+⟨171⟩](/Samsung-Storage-Enhanced-Unmatched-Nightography/dp/B0FDB765TN/ref=rvi_d_sccl_2/259-9062319-1524538?pd_rd_w=7Exsy&content-id=amzn1.sym.2fa5ef78-d215-4b54-bdb7-fa3d3620b822&pf_rd_p=2fa5ef78-d215-4b54-bdb7-fa3d3620b822&pf_rd_r=D73722BXSJQ3S6MV2XX9&pd_rd_wg=GYYFe&pd_rd_r=cde262de-ec4e-42d6-b68d-5fe8bf919366&pd_rd_i=B0FDB765TN&psc=1)
-  3. ![Samsung Galaxy A55 5G \(Awesome Iceblue, 8GB RAM, 256GB Storage\) | AI | Metal Frame | 50 MP Main Camera \(OIS\) | Super HDR Vide⟨172⟩](/Samsung-Awesome-Iceblue-Storage-Nightography/dp/B0CWPCFSM3/ref=rvi_d_sccl_3/259-9062319-1524538?pd_rd_w=7Exsy&content-id=amzn1.sym.2fa5ef78-d215-4b54-bdb7-fa3d3620b822&pf_rd_p=2fa5ef78-d215-4b54-bdb7-fa3d3620b822&pf_rd_r=D73722BXSJQ3S6MV2XX9&pd_rd_wg=GYYFe&pd_rd_r=cde262de-ec4e-42d6-b68d-5fe8bf919366&pd_rd_i=B0CWPCFSM3&psc=1)
-  4. ![Samsung Galaxy A35 5G \(Awesome Iceblue, 8GB RAM, 128GB Storage\) Without Offer⟨173⟩](/samsung-Awesome-Iceblue-Storage-Without/dp/B0CXMCX9MD/ref=rvi_d_sccl_4/259-9062319-1524538?pd_rd_w=7Exsy&content-id=amzn1.sym.2fa5ef78-d215-4b54-bdb7-fa3d3620b822&pf_rd_p=2fa5ef78-d215-4b54-bdb7-fa3d3620b822&pf_rd_r=D73722BXSJQ3S6MV2XX9&pd_rd_wg=GYYFe&pd_rd_r=cde262de-ec4e-42d6-b68d-5fe8bf919366&pd_rd_i=B0CXMCX9MD&psc=1)
-  5. ![Samsung Galaxy M36 5G \(Serene Green, 8 GB RAM, 128 GB Storage\)| Circle to Search| Google Gemini| Corning Gorilla Glass Victus⟨174⟩](/Samsung-Storage-Enhanced-Unmatched-Nightography/dp/B0FDB9H9Z7/ref=rvi_d_sccl_5/259-9062319-1524538?pd_rd_w=7Exsy&content-id=amzn1.sym.2fa5ef78-d215-4b54-bdb7-fa3d3620b822&pf_rd_p=2fa5ef78-d215-4b54-bdb7-fa3d3620b822&pf_rd_r=D73722BXSJQ3S6MV2XX9&pd_rd_wg=GYYFe&pd_rd_r=cde262de-ec4e-42d6-b68d-5fe8bf919366&pd_rd_i=B0FDB9H9Z7&psc=1)
-  6. ![iPhone 16 128 GB: 5G Mobile Phone with Camera Control, A18 Chip and a Big Boost in Battery Life. Works with AirPods; Ultramar⟨175⟩](/iPhone-16-128-GB-Ultramarine/dp/B0DGJ7TGDR/ref=rvi_d_sccl_6/259-9062319-1524538?pd_rd_w=7Exsy&content-id=amzn1.sym.2fa5ef78-d215-4b54-bdb7-fa3d3620b822&pf_rd_p=2fa5ef78-d215-4b54-bdb7-fa3d3620b822&pf_rd_r=D73722BXSJQ3S6MV2XX9&pd_rd_wg=GYYFe&pd_rd_r=cde262de-ec4e-42d6-b68d-5fe8bf919366&pd_rd_i=B0DGJ7TGDR&psc=1)
+  1. ![Acer Super ZX 5G \(Carbon Black, 6GB RAM, 128GB Storage\) | 120 Hz FHD+ Display | 5000 mAh Ultra-Thin Battery | Dimensity 6300 ⟨170⟩](/Storage-Display-Ultra-Thin-Dimensity-Processor/dp/B0F4DG9ZH5/ref=rvi_d_sccl_1/261-1325849-2609413?pd_rd_w=JdSdg&content-id=amzn1.sym.2fa5ef78-d215-4b54-bdb7-fa3d3620b822&pf_rd_p=2fa5ef78-d215-4b54-bdb7-fa3d3620b822&pf_rd_r=YBZ34YC7SWWQM52JBBWJ&pd_rd_wg=zyDup&pd_rd_r=7b174abf-b6a4-49aa-a331-0fa54f7e23c1&pd_rd_i=B0F4DG9ZH5&psc=1)
+  2. ![Samsung Galaxy M36 5G \(Velvet Black, 8 GB RAM, 128 GB Storage\)| Circle to Search| Google Gemini| Corning Gorilla Glass Victus⟨171⟩](/Samsung-Storage-Enhanced-Unmatched-Nightography/dp/B0FDB9ZCTD/ref=rvi_d_sccl_2/261-1325849-2609413?pd_rd_w=JdSdg&content-id=amzn1.sym.2fa5ef78-d215-4b54-bdb7-fa3d3620b822&pf_rd_p=2fa5ef78-d215-4b54-bdb7-fa3d3620b822&pf_rd_r=YBZ34YC7SWWQM52JBBWJ&pd_rd_wg=zyDup&pd_rd_r=7b174abf-b6a4-49aa-a331-0fa54f7e23c1&pd_rd_i=B0FDB9ZCTD&psc=1)
+  3. ![ASUS Vivobook 15,13th Gen,Intel Core i3-1315U \(Intel UHD /16GB RAM/512GB SSD/FHD/15.6"/60Hz/Win 11/M365 Basic \(1Year\)*/Backli⟨172⟩](/ASUS-Vivobook-i3-1315U-Keyboard-X1504VA-NJ2325WS/dp/B0DTYWCHDQ/ref=rvi_d_sccl_3/261-1325849-2609413?pd_rd_w=JdSdg&content-id=amzn1.sym.2fa5ef78-d215-4b54-bdb7-fa3d3620b822&pf_rd_p=2fa5ef78-d215-4b54-bdb7-fa3d3620b822&pf_rd_r=YBZ34YC7SWWQM52JBBWJ&pd_rd_wg=zyDup&pd_rd_r=7b174abf-b6a4-49aa-a331-0fa54f7e23c1&pd_rd_i=B0DTYWCHDQ&psc=1)
+  4. ![ASUS Vivobook 15,13th Gen,Intel Core i5-13420H\(Intel UHD iGPU/16GB RAM/512GB SSD/FHD/15.6"/60Hz/Backlit Keyboard/Windows 11/M⟨173⟩](/ASUS-Vivobook-i5-13420H-Keyboard-X1502VA-BQ835WS/dp/B0DTYHD5D1/ref=rvi_d_sccl_4/261-1325849-2609413?pd_rd_w=JdSdg&content-id=amzn1.sym.2fa5ef78-d215-4b54-bdb7-fa3d3620b822&pf_rd_p=2fa5ef78-d215-4b54-bdb7-fa3d3620b822&pf_rd_r=YBZ34YC7SWWQM52JBBWJ&pd_rd_wg=zyDup&pd_rd_r=7b174abf-b6a4-49aa-a331-0fa54f7e23c1&pd_rd_i=B0DTYHD5D1&psc=1)
+  5. ![ASUS TUF Gaming A15, AMD Ryzen 7 7435HS Gaming Laptop\(NVIDIA RTX 3050-4GB/60W TGP/16GB RAM/512GB SSD/FHD/15.6"/144Hz/RGB KB/4⟨174⟩](/ASUS-15-6-inch-GeForce-Graphite-FA506NCR-HN054W/dp/B0D5DFR78J/ref=rvi_d_sccl_5/261-1325849-2609413?pd_rd_w=JdSdg&content-id=amzn1.sym.2fa5ef78-d215-4b54-bdb7-fa3d3620b822&pf_rd_p=2fa5ef78-d215-4b54-bdb7-fa3d3620b822&pf_rd_r=YBZ34YC7SWWQM52JBBWJ&pd_rd_wg=zyDup&pd_rd_r=7b174abf-b6a4-49aa-a331-0fa54f7e23c1&pd_rd_i=B0D5DFR78J&psc=1)
+  6. ![ASUS Zenbook 14,Intel Core Ultra 7 \(Series 2\),Thin & Light\(Intel Arc iGPU/32GB/1TB/3K OLED Touch screen/14/120Hz/Windows 11/M⟨175⟩](/ASUS-Zenbook-screen-Windows-UX3405CA-PZ163WS/dp/B0DSHWNR64/ref=rvi_d_sccl_6/261-1325849-2609413?pd_rd_w=JdSdg&content-id=amzn1.sym.2fa5ef78-d215-4b54-bdb7-fa3d3620b822&pf_rd_p=2fa5ef78-d215-4b54-bdb7-fa3d3620b822&pf_rd_r=YBZ34YC7SWWQM52JBBWJ&pd_rd_wg=zyDup&pd_rd_r=7b174abf-b6a4-49aa-a331-0fa54f7e23c1&pd_rd_i=B0DSHWNR64&psc=1)
 
 
  _Next set of slides_⟨135⟩
@@ -747,4 +743,4 @@ Over 15 million podcast episodes ⟨208⟩
   * Interest-Based Ads⟨212⟩
 
 © 1996-2025, Amazon.com, Inc. or its affiliates
-![](//fls-eu.amazon.in/1/batch/1/OP/A21TJRUUN4KGV:259-9062319-1524538:N19PQ7H4RHWAKS5G87K3$uedata=s:%2Frd%2Fuedata%3Fnoscript%26id%3DN19PQ7H4RHWAKS5G87K3:0)
+![](//fls-eu.amazon.in/1/batch/1/OP/A21TJRUUN4KGV:261-1325849-2609413:MVN1HHM4DE63Z5T10BMG$uedata=s:%2Frd%2Fuedata%3Fnoscript%26id%3DMVN1HHM4DE63Z5T10BMG:0)

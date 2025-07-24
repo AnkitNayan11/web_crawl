@@ -100,7 +100,7 @@ def write_markdown_content(content, file_path):
         f.write(content)
 
 async def amazon_navigation_async(url, email, password,product):
-    print(f'with login :{email}  , password : {password}')
+    # print(f'with login :{email}  , password : {password}')
     async with async_playwright() as p:
         browser = await p.chromium.launch(headless=False)
         context = await browser.new_context()

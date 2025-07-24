@@ -1,4 +1,4 @@
-Amazon.in:Customer reviews: Samsung Galaxy M35 5G (Daybreak Blue,8GB RAM,128GB Storage)| Corning Gorilla Glass Victus+| AnTuTu Score 595K+ | Vapour Cooling Chamber | 6000mAh Battery | 120Hz Super AMOLED Display| Without Charger
+Amazon.in:Customer reviews: ASUS Vivobook 15,13th Gen,Intel Core i5-13420H(Intel UHD iGPU/16GB RAM/512GB SSD/FHD/15.6&#34;/60Hz/Backlit Keyboard/Windows 11/M365 Basic (1Year)*/Office Home 2024/Quiet Blue/1.70 kg) X1502VA-BQ836WS
 ![](https://m.media-amazon.com/images/G/31/gno/sprites/nav-sprite-global-1x-reorg-privacy._CB546381437_.png)
 ## Skip to
   *  Main content ⟨1⟩
@@ -70,12 +70,12 @@ Your Account
   * Ankit's Amazon.in⟨44⟩
   * Customer Service⟨45⟩
   * Subscribe & Save⟨46⟩
-  * Home & Kitchen⟨47⟩
-  * New Releases⟨48⟩
+  * New Releases⟨47⟩
+  * Home & Kitchen⟨48⟩
   * Grocery & Gourmet Foods⟨49⟩
   * Prime ⟨50⟩
-  * Audible⟨51⟩
-  * Toys & Games⟨52⟩
+  * Toys & Games⟨51⟩
+  * Audible⟨52⟩
   * Fashion⟨53⟩
   * Mobiles⟨54⟩
   *  Electronics ⟨55⟩
@@ -95,12 +95,12 @@ Your Account
 ##  ₹0.00 
 ![Amazon Fresh⟨62⟩]
 6 items 
-##  ₹166.00 
+##  ₹157.00 
  Go to Cart ⟨63⟩
-Add items worth ₹333.00 for FREE delivery 
+Add items worth ₹342.00 for FREE delivery 
  Go to Cart ⟨64⟩
   *  ![Fresh Tomato Hybrid, 1kg⟨65⟩ ](/gp/product/B07BG7LB3Q/ref=ewc_pr_img_1?smid=A14ZXHJG8U9TGB&almBrandId=ctnow&psc=1&fpw=alm)
-₹45.00 
+₹36.00 
  Fresh Tomato Hybrid, 1kg ⟨66⟩ was removed from Shopping Cart. 
  Fresh Tomato Hybrid, 1kg ⟨66⟩ was already removed from Shopping Cart. 
  ⟨67⟩
@@ -118,7 +118,7 @@ __1 Qty:
 Update  
 Qty:1change⟨69⟩)
 Total Price: $000.00
-Total Price: ₹45.00
+Total Price: ₹36.00
   
 
 __Add to Cart
@@ -246,27 +246,26 @@ __Add to Cart
 
 
 # 
-  * Samsung Galaxy M35 5G (Daybreak Blue,8GB RAM,128GB Storage)| Corning...⟨86⟩
+  * ASUS Vivobook 15,13th Gen,Intel Core i5-13420H(Intel UHD iGPU/16GB...⟨86⟩
   * ›
   * Customer reviews
 
 
 ## Customer reviews
- _4.2 out of 5 stars_
-4.2 out of 5
-12,099 global ratings
-  *  5 star  4 star  3 star  2 star  1 star  5 star  58%  24%  7%  2%  9%  58%  ⟨87⟩
-  *  5 star  4 star  3 star  2 star  1 star  4 star  58%  24%  7%  2%  9%  24%  ⟨88⟩
-  *  5 star  4 star  3 star  2 star  1 star  3 star  58%  24%  7%  2%  9%  7%  ⟨89⟩
-  *  5 star  4 star  3 star  2 star  1 star  2 star  58%  24%  7%  2%  9%  2%  ⟨90⟩
-  *  5 star  4 star  3 star  2 star  1 star  1 star  58%  24%  7%  2%  9%  9%  ⟨91⟩
+ _3.8 out of 5 stars_
+3.8 out of 5
+79 global ratings
+  *  5 star  4 star  3 star  2 star  1 star  5 star  52%  19%  5%  3%  21%  52%  ⟨87⟩
+  *  5 star  4 star  3 star  2 star  1 star  4 star  52%  19%  5%  3%  21%  19%  ⟨88⟩
+  *  5 star  4 star  3 star  2 star  1 star  3 star  52%  19%  5%  3%  21%  5%  ⟨89⟩
+  *  5 star  4 star  3 star  2 star  1 star  2 star  52%  19%  5%  3%  21%  3%  ⟨90⟩
+  *  5 star  4 star  3 star  2 star  1 star  1 star  52%  19%  5%  3%  21%  21%  ⟨91⟩
 
 
-![Samsung Galaxy M35 5G \(Daybreak Blue,8GB RAM,128GB Storage\)| Corning Gorilla Glass Victus+| AnTuTu Score 595K+ | Vapour Cooling Chamber | 6000mAh Battery | 120Hz Super AMOLED Display| Without Charger⟨92⟩](/Samsung-Daybreak-Storage-Corning-Gorilla/dp/B0D7Z8FJZ9/ref=cm_cr_arp_d_pdt_img_top?ie=UTF8)
-# Samsung Galaxy M35 5G (Daybreak Blue,8GB RAM,128GB Storage)| Corning Gorilla Glass Victus+| AnTuTu Score 595K+ | Vapour Cooling Chamber | 6000mAh Battery | 120Hz Super AMOLED Display| Without Charger⟨93⟩
-bySamsung⟨94⟩
-  * Colour: DayBreak Blue __
-  * Size: 8GB + 128GB
+![ASUS Vivobook 15,13th Gen,Intel Core i5-13420H\(Intel UHD iGPU/16GB RAM/512GB SSD/FHD/15.6&#34;/60Hz/Backlit Keyboard/Windows 11/M365 Basic \(1Year\)*/Office Home 2024/Quiet Blue/1.70 kg\) X1502VA-BQ836WS⟨92⟩](/ASUS-Vivobook-i5-13420H-Keyboard-X1502VA-BQ836WS/dp/B0DTYKLHYC/ref=cm_cr_arp_d_pdt_img_top?ie=UTF8)
+# ASUS Vivobook 15,13th Gen,Intel Core i5-13420H(Intel UHD iGPU/16GB RAM/512GB SSD/FHD/15.6"/60Hz/Backlit Keyboard/Windows 11/M365 Basic (1Year)*/Office Home 2024/Quiet Blue/1.70 kg) X1502VA-BQ836WS⟨93⟩
+byASUS⟨94⟩
+  * Colour: Office 2024_Blue
   * __Change⟨93⟩
 
 
@@ -285,18 +284,19 @@ Sort by reviews type Top reviewsMost recentTop reviews __
 ### Filter by
 Filter by reviewer type All reviewersVerified purchase onlyAll reviewers __
 Filter by star count All stars5 star only4 star only3 star only2 star only1 star onlyPositive reviewsCritical reviewsAll stars __
-Filter by variant type All variantsColour: DayBreak Blue |Size: 8GB + 128GBAll variants __
+Filter by variant type All variantsColour: Office 2024_BlueAll variants __
 Filter by media type All text, image and video reviewsImage and video reviews onlyAll text, image and video reviews __
-4,080 customer reviews 
+45 customer reviews 
 * * *
 #### There was a problem filtering reviews. Please reload the page.
 __
 ###  From India 
-  * ![⟨97⟩![](https://images-eu.ssl-images-amazon.com/images/S/amazon-avatars-global/1c389359-0e09-4053-b0eb-69bf7769698e._CR0,35,262,262_SX48_.jpg)Gajanand](/gp/profile/amzn1.account.AEJXN4FVDXW2QCCSOFBS5QRP3F3Q/ref=cm_cr_getr_d_gw_btm?ie=UTF8)
-#####  _4.0 out of 5 stars_ Good ⟨98⟩
-Reviewed in India on 15 July 2025
-Colour: DayBreak Blue __Size: 6GB + 128GB⟨99⟩ __Verified Purchase⟨100⟩
-It's good for elder people, who needs only few features... go for it
+  * ![⟨97⟩![](https://images-eu.ssl-images-amazon.com/images/S/amazon-avatars-global/default._CR0,0,1024,1024_SX48_.png)rohit](/gp/profile/amzn1.account.AHSXVQ3A4ITPXIGEPNDCB32N6VZA/ref=cm_cr_getr_d_gw_btm?ie=UTF8)
+#####  _5.0 out of 5 stars_ Excellent ⟨98⟩
+Reviewed in India on 29 May 2025
+Colour: Office 2024_Silver⟨99⟩ __Verified Purchase⟨100⟩
+Very nice product
+2 people found this helpful
 Helpful
 Sending feedback...
 __
@@ -308,12 +308,12 @@ Showing 0 comments
 #### There was a problem loading comments right now. Please try again later.
 __
 * * *
-  * ![⟨102⟩![](https://images-eu.ssl-images-amazon.com/images/S/amazon-avatars-global/f620b324-e78c-4f42-9607-dc2d4510c1c0._CR0,0,1125,1125_SX48_.jpg) Eldho Seby](/gp/profile/amzn1.account.AHHOLIIOLTPXXZNHNANJ5EJ3S7CQ/ref=cm_cr_getr_d_gw_btm?ie=UTF8)
-#####  _4.0 out of 5 stars_ Good for value ⟨103⟩
-Reviewed in India on 15 July 2025
-Colour: DayBreak Blue __Size: 6GB + 128GB⟨99⟩ __Verified Purchase⟨100⟩
-It provided good features for the value of the phone
-One person found this helpful
+  * ![⟨97⟩![](https://images-eu.ssl-images-amazon.com/images/S/amazon-avatars-global/default._CR0,0,1024,1024_SX48_.png) Satish](/gp/profile/amzn1.account.AEKRXZ4OBZU7BPIE4WCVU3P7WPGQ/ref=cm_cr_getr_d_gw_btm?ie=UTF8)
+#####  _5.0 out of 5 stars_ Excellent ⟨102⟩
+Reviewed in India on 1 June 2025
+Colour: Office 2024_Blue⟨103⟩ __Verified Purchase⟨100⟩
+Very good performance and good build quality
+6 people found this helpful
 Helpful
 Sending feedback...
 __
@@ -325,13 +325,22 @@ Showing 0 comments
 #### There was a problem loading comments right now. Please try again later.
 __
 * * *
-  * ![⟨105⟩![](https://images-eu.ssl-images-amazon.com/images/S/amazon-avatars-global/default._CR0,0,1024,1024_SX48_.png) Shreekrishna](/gp/profile/amzn1.account.AEWI56VGLSJDBGTGGVD5Q2EMX6LA/ref=cm_cr_getr_d_gw_btm?ie=UTF8)
-#####  _4.0 out of 5 stars_ Samsung M35 5G Phone ⟨106⟩
-Reviewed in India on 13 July 2025
-Colour: DayBreak Blue __Size: 8GB + 256GB⟨107⟩ __Verified Purchase⟨100⟩
-Prompt delivery.Product delived in good condition.  
-The phone is good and display is awesome.
-One person found this helpful
+  * ![⟨97⟩![](https://images-eu.ssl-images-amazon.com/images/S/amazon-avatars-global/default._CR0,0,1024,1024_SX48_.png) Rinku Devi](/gp/profile/amzn1.account.AFQK2GKNNK7BMOHTKUH3UUWKCVLA/ref=cm_cr_getr_d_gw_btm?ie=UTF8)
+#####  _5.0 out of 5 stars_ Descent battery backup ⟨105⟩
+Reviewed in India on 23 May 2025
+Colour: Office 2024_Silver⟨99⟩ __Verified Purchase⟨100⟩
+Overall good but battery backup is desent
+![Customer image⟨106⟩]
+![⟨97⟩![](https://images-eu.ssl-images-amazon.com/images/S/amazon-avatars-global/default._CR0,0,1024,1024_SX48_.png)Rinku Devi](/gp/profile/amzn1.account.AFQK2GKNNK7BMOHTKUH3UUWKCVLA/ref=cm_cr_getr_d_gw_pop?ie=UTF8)
+_5.0 out of 5 stars_
+#####  Descent battery backup 
+  
+Reviewed in India on 23 May 2025 
+Overall good but battery backup is desent 
+######  Images in this review 
+![Customer image 1⟨107⟩]
+![Customer image⟨107⟩__](javascript:void\(0\))
+9 people found this helpful
 Helpful
 Sending feedback...
 __
@@ -343,12 +352,22 @@ Showing 0 comments
 #### There was a problem loading comments right now. Please try again later.
 __
 * * *
-  * ![⟨105⟩![](https://images-eu.ssl-images-amazon.com/images/S/amazon-avatars-global/default._CR0,0,1024,1024_SX48_.png) nandagopal](/gp/profile/amzn1.account.AEQJQZG5E2DUY7KAKRW7UIU7WCQQ/ref=cm_cr_getr_d_gw_btm?ie=UTF8)
-#####  _4.0 out of 5 stars_ Nandagopal ⟨109⟩
-Reviewed in India on 3 July 2025
-Colour: DayBreak Blue __Size: 8GB + 128GB⟨110⟩ __Verified Purchase⟨100⟩
-Ys it's good product value for money one major defect no charger with mobile which is the main drawback for samsung users also camara nice , battery good, display also be good
-One person found this helpful
+  * ![⟨97⟩![](https://images-eu.ssl-images-amazon.com/images/S/amazon-avatars-global/default._CR0,0,1024,1024_SX48_.png) Vijay](/gp/profile/amzn1.account.AGSITM2PNAYAZVIVZOHHKEIBM6KQ/ref=cm_cr_getr_d_gw_btm?ie=UTF8)
+#####  _1.0 out of 5 stars_ Very disappointed with Asus laptop ⟨109⟩
+Reviewed in India on 29 May 2025
+Colour: Office 2024_Silver⟨99⟩ __Verified Purchase⟨100⟩
+Very disappointed with this Asus laptop. Started showing a vertical line on the screen within just a month of purchase. This is the worst experience I've had with a laptop received on 6 May 2025. Would not recommend – avoid this product. Waste of money. Very disappointing service received from ASUS and Amazon.
+![Customer image⟨106⟩]
+![⟨97⟩![](https://images-eu.ssl-images-amazon.com/images/S/amazon-avatars-global/default._CR0,0,1024,1024_SX48_.png)Vijay](/gp/profile/amzn1.account.AGSITM2PNAYAZVIVZOHHKEIBM6KQ/ref=cm_cr_getr_d_gw_pop?ie=UTF8)
+_1.0 out of 5 stars_
+#####  Very disappointed with Asus laptop 
+  
+Reviewed in India on 29 May 2025 
+Very disappointed with this Asus laptop. Started showing a vertical line on the screen within just a month of purchase. This is the worst experience I've had with a laptop received on 6 May 2025. Would not recommend – avoid this product. Waste of money. Very disappointing service received from ASUS and Amazon. 
+######  Images in this review 
+![Customer image 1⟨110⟩]
+![Customer image⟨110⟩__](javascript:void\(0\))
+13 people found this helpful
 Helpful
 Sending feedback...
 __
@@ -360,27 +379,30 @@ Showing 0 comments
 #### There was a problem loading comments right now. Please try again later.
 __
 * * *
-  * ![⟨105⟩![](https://images-eu.ssl-images-amazon.com/images/S/amazon-avatars-global/default._CR0,0,1024,1024_SX48_.png) PULAK BISWAS](/gp/profile/amzn1.account.AEK2OOFN7HG6HBB6R6Y2FYM7EJZQ/ref=cm_cr_getr_d_gw_btm?ie=UTF8)
-#####  _4.0 out of 5 stars_ Samsung M35 ⟨112⟩
-Reviewed in India on 17 July 2025
-Colour: DayBreak Blue __Size: 6GB + 128GB⟨99⟩ __Verified Purchase⟨100⟩
-Good
+  * ![⟨112⟩![](https://images-eu.ssl-images-amazon.com/images/S/amazon-avatars-global/default._CR0,0,1024,1024_SX48_.png) Ravikumar](/gp/profile/amzn1.account.AFQSDR64D6FPOPNODEPOD7H4TYPQ/ref=cm_cr_getr_d_gw_btm?ie=UTF8)
+#####  _1.0 out of 5 stars_ Waste of money ⟨113⟩
+Reviewed in India on 13 July 2025
+Colour: Office 2024_Blue⟨103⟩ __Verified Purchase⟨100⟩
+Waste don't buy too much heat issue
+One person found this helpful
 Helpful
 Sending feedback...
 __
 Thank you for your feedback.
 __
 Sorry, we failed to record your vote. Please try again
-__Report⟨113⟩
+__Report⟨114⟩
 Showing 0 comments
 #### There was a problem loading comments right now. Please try again later.
 __
 * * *
-  * ![⟨114⟩![](https://images-eu.ssl-images-amazon.com/images/S/amazon-avatars-global/default._CR0,0,1024,1024_SX48_.png) Neela ](/gp/profile/amzn1.account.AGKVDDY5JHGA7ZK6XBV6Q5AAEICA/ref=cm_cr_getr_d_gw_btm?ie=UTF8)
-##### _4.0 out of 5 stars_ Good item without adapter ⟨115⟩
-Reviewed in India on 9 July 2025
-Colour: DayBreak Blue __Size: 8GB + 256GB⟨107⟩ __Verified Purchase⟨100⟩
-Usually adapter / charger comes with the new phone. That is not given along with this product. It came only with the connecting wire.
+  * ![⟨112⟩![](https://images-eu.ssl-images-amazon.com/images/S/amazon-avatars-global/default._CR0,0,1024,1024_SX48_.png) Amazon Customer](/gp/profile/amzn1.account.AF47FYROMQELOESGX64NC5FL4BIQ/ref=cm_cr_getr_d_gw_btm?ie=UTF8)
+#####  _4.0 out of 5 stars_ Battery backup is decent ⟨115⟩
+Reviewed in India on 21 July 2025
+Colour: Office 2024_Silver⟨99⟩
+The media could not be loaded. 
+Battery backup is not satisfying and others are ohkk  
+Baki sb to abhi tk badhiya chal rha dekhte h aage kya hota h
 Helpful
 Sending feedback...
 __
@@ -392,11 +414,12 @@ Showing 0 comments
 #### There was a problem loading comments right now. Please try again later.
 __
 * * *
-  * ![⟨114⟩![](https://images-eu.ssl-images-amazon.com/images/S/amazon-avatars-global/8eea4670-66bd-4e8b-8535-0d1d023b9c13._CR0,0,375,375_SX48_.jpg) Puneet Dudeja](/gp/profile/amzn1.account.AFXA3ERVUNISLS64FURZXH56VATA/ref=cm_cr_getr_d_gw_btm?ie=UTF8)
-#####  _4.0 out of 5 stars_ Good phone ⟨117⟩
-Reviewed in India on 26 June 2025
-Colour: DayBreak Blue __Size: 6GB + 128GB⟨99⟩ __Verified Purchase⟨100⟩
-Little heavy because battery is huge and takes time to charge too. Other than that value for money phone not like good looks or so but worth it in this price range. Make a note that no charger comes with it so add 1000 adapter to the price.
+  * ![⟨112⟩![](https://images-eu.ssl-images-amazon.com/images/S/amazon-avatars-global/default._CR0,0,1024,1024_SX48_.png) Amazon Customer](/gp/profile/amzn1.account.AHA3SSXBETVNSGYN2VOGDKSIPKZA/ref=cm_cr_getr_d_gw_btm?ie=UTF8)
+#####  _1.0 out of 5 stars_ Defective product supplied ⟨117⟩
+Reviewed in India on 27 June 2025
+Colour: Office 2024_Blue⟨103⟩ __Verified Purchase⟨100⟩
+Defective product supplied.....not accepted...... please refund my money at the earliest..and also .pick up defective product from my location at the earliest
+14 people found this helpful
 Helpful
 Sending feedback...
 __
@@ -408,65 +431,38 @@ Showing 0 comments
 #### There was a problem loading comments right now. Please try again later.
 __
 * * *
-  * ![⟨114⟩![](https://images-eu.ssl-images-amazon.com/images/S/amazon-avatars-global/default._CR0,0,1024,1024_SX48_.png) T Raghavendra ](/gp/profile/amzn1.account.AEWPYJ4Z7IPLQJ6YUTFY4AGSLQEQ/ref=cm_cr_getr_d_gw_btm?ie=UTF8)
-##### _4.0 out of 5 stars_ Weight ⟨119⟩
-Reviewed in India on 10 July 2025
-Colour: DayBreak Blue __Size: 8GB + 256GB⟨107⟩ __Verified Purchase⟨100⟩
-Weight is high can't handle with or without phone protection cover
+  * ![⟨112⟩![](https://images-eu.ssl-images-amazon.com/images/S/amazon-avatars-global/default._CR0,0,1024,1024_SX48_.png) Prerna Daftari](/gp/profile/amzn1.account.AFPDPFWXZ7GPDPKEMKNLIODEMDJQ/ref=cm_cr_getr_d_gw_btm?ie=UTF8)
+#####  _1.0 out of 5 stars_ This piece is not working properly ⟨119⟩
+Reviewed in India on 24 June 2025
+Colour: Office 2024_Silver⟨99⟩ __Verified Purchase⟨100⟩
+I received the product today and after set up a part of screen is black and pointer is also not working
+![Customer image⟨106⟩]
+![⟨97⟩![](https://images-eu.ssl-images-amazon.com/images/S/amazon-avatars-global/default._CR0,0,1024,1024_SX48_.png)Prerna Daftari](/gp/profile/amzn1.account.AFPDPFWXZ7GPDPKEMKNLIODEMDJQ/ref=cm_cr_getr_d_gw_pop?ie=UTF8)
+_1.0 out of 5 stars_
+#####  This piece is not working properly 
+  
+Reviewed in India on 24 June 2025 
+I received the product today and after set up a part of screen is black and pointer is also not working 
+######  Images in this review 
+![Customer image 1⟨120⟩]
+![Customer image⟨120⟩__](javascript:void\(0\))
+12 people found this helpful
 Helpful
 Sending feedback...
 __
 Thank you for your feedback.
 __
 Sorry, we failed to record your vote. Please try again
-__Report⟨120⟩
+__Report⟨121⟩
 Showing 0 comments
 #### There was a problem loading comments right now. Please try again later.
 __
 * * *
-  * ![⟨114⟩![](https://images-eu.ssl-images-amazon.com/images/S/amazon-avatars-global/6e72cea6-7308-4054-8c38-bcdb3e4953c0._CR0,0,500,500_SX48_.jpg) Umeysh](/gp/profile/amzn1.account.AETAW7MQDVCJEI7335IENY2M6NLQ/ref=cm_cr_getr_d_gw_btm?ie=UTF8)
-#####  _4.0 out of 5 stars_ Longer OS Updates. 4K Video Rec. ⟨121⟩
-Reviewed in India on 24 June 2025
-Colour: Moonlight Blue __Size: 8GB + 128GB⟨122⟩ __Verified Purchase⟨100⟩
-Why did you pick this product vs others?:  
-Upto 4 OS Updates & 5yrs Security Updates.  
-4K Video Rec. 2 Day Battery. Samsung One UI. Dolby Atmos, Stereo Speakers.  
-Durability:  
-Strong Plastic Body.   
-Call quality:  
-Best for calling. Call Rec.  
-Phone functionality:  
-Never Hangs. Fast & Smooth.  
-Fingerprint sensor:  
-Faster.  
-Looks:  
-Bulky & Brick Shaped Design. Not for Girls.  
-Charging speed:  
-Fast Charge in 90 Min. & Normal in 180 Min. & 2Day Battery.
-![Customer image⟨123⟩]
-![⟨124⟩![](https://images-eu.ssl-images-amazon.com/images/S/amazon-avatars-global/6e72cea6-7308-4054-8c38-bcdb3e4953c0._CR0,0,500,500_SX48_.jpg)Umeysh](/gp/profile/amzn1.account.AETAW7MQDVCJEI7335IENY2M6NLQ/ref=cm_cr_getr_d_gw_pop?ie=UTF8)
-_4.0 out of 5 stars_
-#####  Longer OS Updates. 4K Video Rec. 
-  
-Reviewed in India on 24 June 2025 
-Why did you pick this product vs others?:  
-Upto 4 OS Updates & 5yrs Security Updates.  
-4K Video Rec. 2 Day Battery. Samsung One UI. Dolby Atmos, Stereo Speakers.  
-Durability:  
-Strong Plastic Body.   
-Call quality:  
-Best for calling. Call Rec.  
-Phone functionality:  
-Never Hangs. Fast & Smooth.  
-Fingerprint sensor:  
-Faster.  
-Looks:  
-Bulky & Brick Shaped Design. Not for Girls.  
-Charging speed:  
-Fast Charge in 90 Min. & Normal in 180 Min. & 2Day Battery. 
-######  Images in this review 
-![Customer image 1⟨125⟩]
-![Customer image⟨125⟩__](javascript:void\(0\))
+  * ![⟨112⟩![](https://images-eu.ssl-images-amazon.com/images/S/amazon-avatars-global/default._CR0,0,1024,1024_SX48_.png) Mrutyunjaya Ojha](/gp/profile/amzn1.account.AEN7ETDFBK2UMX7YCYHBWLZKS75Q/ref=cm_cr_getr_d_gw_btm?ie=UTF8)
+#####  _1.0 out of 5 stars_ Don't buy ⟨122⟩
+Reviewed in India on 30 May 2025
+Colour: Office 2024_Silver⟨99⟩ __Verified Purchase⟨100⟩
+2 days before purchased not turning on, received defective product
 4 people found this helpful
 Helpful
 Sending feedback...
@@ -474,23 +470,24 @@ __
 Thank you for your feedback.
 __
 Sorry, we failed to record your vote. Please try again
-__Report⟨126⟩
+__Report⟨123⟩
 Showing 0 comments
 #### There was a problem loading comments right now. Please try again later.
 __
 * * *
-  * ![⟨114⟩![](https://images-eu.ssl-images-amazon.com/images/S/amazon-avatars-global/default._CR0,0,1024,1024_SX48_.png) shri jeetiika](/gp/profile/amzn1.account.AHR447VY7HM5QJLZM2K3KQJ45ZYQ/ref=cm_cr_getr_d_gw_btm?ie=UTF8)
-#####  _4.0 out of 5 stars_ Works for at least 5 yrs ⟨127⟩
-Reviewed in India on 10 July 2025
-Colour: Thunder Grey __Size: 8GB + 256GB⟨128⟩ __Verified Purchase⟨100⟩
-It’s a very long lasting phone with - 320 GB
+  * ![⟨112⟩![](https://images-eu.ssl-images-amazon.com/images/S/amazon-avatars-global/default._CR0,0,1024,1024_SX48_.png) Placeholder](/gp/profile/amzn1.account.AHREJ4ZXEEMLMCWDPUBIVGOI3VYQ/ref=cm_cr_getr_d_gw_btm?ie=UTF8)
+#####  _1.0 out of 5 stars_ Extremely Bad quality product ⟨124⟩
+Reviewed in India on 10 May 2025
+Colour: Office 2024_Silver⟨99⟩ __Verified Purchase⟨100⟩
+Issues with operating system. Product is extremely slow
+8 people found this helpful
 Helpful
 Sending feedback...
 __
 Thank you for your feedback.
 __
 Sorry, we failed to record your vote. Please try again
-__Report⟨129⟩
+__Report⟨125⟩
 Showing 0 comments
 #### There was a problem loading comments right now. Please try again later.
 __
@@ -498,200 +495,194 @@ __
 
 
 
-  *  ←Previous page⟨130⟩
-  * Next page→⟨131⟩
+  *  ←Previous page⟨126⟩
+  * Next page→⟨127⟩
 
 
 Sponsored ****
-Need customer service? ⟨132⟩
-‹ See all details for Samsung Galaxy M35 5G (Daybreak Blue,8GB RAM,128GB Storage)| Corning...⟨133⟩
+Need customer service? ⟨128⟩
+‹ See all details for ASUS Vivobook 15,13th Gen,Intel Core i5-13420H(Intel UHD iGPU/16GB...⟨129⟩
   
 
-## Items you may like
-Page 1 of 1 Start over⟨134⟩
- _Previous set of slides_⟨134⟩
-  1. ![GO DESi Rakhi Gift Box – 17 Items | DESi Fun Gift Box | Rakhi Gift for Brother | Single Rakhi for Brother | Kaju Katli | Roli⟨135⟩](/GO-DESi-Hamper-Coated-Peanuts/dp/B0DFMJHY3V/ref=pd_rhf_cr_s_bmx_gp_d_sccl_1_1/259-9062319-1524538?pd_rd_w=MswXU&content-id=amzn1.sym.35f1b9bc-e9a4-4d72-8834-da50e17d0f85&pf_rd_p=35f1b9bc-e9a4-4d72-8834-da50e17d0f85&pf_rd_r=D73722BXSJQ3S6MV2XX9&pd_rd_wg=ExaXv&pd_rd_r=5447e77e-eee7-475d-a6b4-acdb06e27ada&pd_rd_i=B0DFMJHY3V&psc=1)
- GO DESi Rakhi Gift Box – 17 Items | DESi Fun Gift Box | Rakhi Gift for Brother | Single Rakhi for Brother | Kaju Katli | Roli Chawal | Desi Popz | Meetha Paan | Coconut Barfi | Fruti Twist | Raksha Bandhan Combo Set | Rakhi Hamper⟨136⟩
- _4.3 out of 5 stars_ 111⟨137⟩
--50%⟨136⟩₹349.00₹349.00⟨136⟩
-M.R.P: ₹699.00⟨136⟩
-Get it by **Saturday, July 26**
-FREE Delivery by Amazon
-  2. ![Kohinoor Brown Authentic Basmati Rice 1 Kg Jar – Rich Aroma & Long Grain Rice⟨138⟩](/Kohinoor-Brown-Authentic-Basmati-Rice/dp/B0DHXD1CXN/ref=pd_rhf_cr_s_bmx_gp_d_sccl_1_2/259-9062319-1524538?pd_rd_w=MswXU&content-id=amzn1.sym.35f1b9bc-e9a4-4d72-8834-da50e17d0f85&pf_rd_p=35f1b9bc-e9a4-4d72-8834-da50e17d0f85&pf_rd_r=D73722BXSJQ3S6MV2XX9&pd_rd_wg=ExaXv&pd_rd_r=5447e77e-eee7-475d-a6b4-acdb06e27ada&pd_rd_i=B0DHXD1CXN&psc=1)
-Kohinoor Brown Authentic Basmati Rice 1 Kg Jar – Rich Aroma & Long Grain Rice⟨139⟩
- _4.2 out of 5 stars_ 48⟨140⟩
--30%⟨139⟩₹168.00₹168.00⟨139⟩ (₹168.00/kg)⟨139⟩
-M.R.P: ₹239.00⟨139⟩
-Get it by **Saturday, July 26**
-FREE Delivery by Amazon
-  3. ![DiSano Extra Light Olive Oil 500ml, Ideal for Indian Cooking⟨141⟩](/Disano-Olive-Extra-Light-Flavour/dp/B016DM4M48/ref=pd_rhf_cr_s_bmx_gp_d_sccl_1_3/259-9062319-1524538?pd_rd_w=MswXU&content-id=amzn1.sym.35f1b9bc-e9a4-4d72-8834-da50e17d0f85&pf_rd_p=35f1b9bc-e9a4-4d72-8834-da50e17d0f85&pf_rd_r=D73722BXSJQ3S6MV2XX9&pd_rd_wg=ExaXv&pd_rd_r=5447e77e-eee7-475d-a6b4-acdb06e27ada&pd_rd_i=B016DM4M48&psc=1)
-DiSano Extra Light Olive Oil 500ml, Ideal for Indian Cooking⟨142⟩
- _4.4 out of 5 stars_ 2,079⟨143⟩
--52%⟨142⟩₹599.00₹599.00⟨142⟩ (₹1,198.00/l)⟨142⟩
-Limited time deal
-M.R.P: ₹1,245.00⟨142⟩
-Get it by **Saturday, July 26**
-FREE Delivery by Amazon
-  4. ![Borges Character Extra Virgin Olive Oil, 250 ml⟨144⟩](/Borges-Character-Extra-Virgin-Olive/dp/B0DQV8Y5Z5/ref=pd_rhf_cr_s_bmx_gp_d_sccl_1_4/259-9062319-1524538?pd_rd_w=MswXU&content-id=amzn1.sym.35f1b9bc-e9a4-4d72-8834-da50e17d0f85&pf_rd_p=35f1b9bc-e9a4-4d72-8834-da50e17d0f85&pf_rd_r=D73722BXSJQ3S6MV2XX9&pd_rd_wg=ExaXv&pd_rd_r=5447e77e-eee7-475d-a6b4-acdb06e27ada&pd_rd_i=B0DQV8Y5Z5&psc=1)
-Borges Character Extra Virgin Olive Oil, 250 ml⟨145⟩
- _4.5 out of 5 stars_ 16⟨146⟩
--50%⟨145⟩₹399.00₹399.00⟨145⟩ (₹1,596.00/l)⟨145⟩
-Limited time deal
-M.R.P: ₹800.00⟨145⟩
-Get it by **Saturday, July 26**
-FREE Delivery by Amazon
-  5. ![Colavita Mediterranean Extra Virgin Olive Oil \(750ml\) | Imported from Italy | Premium Olive Oil for Cooking, Dips and Marinad⟨147⟩](/Colavita-Mediterranean-Extra-Virgin-Olive/dp/B00L2YH7L8/ref=pd_rhf_cr_s_bmx_gp_d_sccl_1_5/259-9062319-1524538?pd_rd_w=MswXU&content-id=amzn1.sym.35f1b9bc-e9a4-4d72-8834-da50e17d0f85&pf_rd_p=35f1b9bc-e9a4-4d72-8834-da50e17d0f85&pf_rd_r=D73722BXSJQ3S6MV2XX9&pd_rd_wg=ExaXv&pd_rd_r=5447e77e-eee7-475d-a6b4-acdb06e27ada&pd_rd_i=B00L2YH7L8&psc=1)
-Colavita Mediterranean Extra Virgin Olive Oil (750ml) | Imported from Italy | Premium Olive Oil for Cooking, Dips and Marinades | Cold Pressed Oil from Superior Whole Olives | Timeless Bottle⟨148⟩
- _4.3 out of 5 stars_ 165⟨149⟩
-₹1,994.00₹1,994.00⟨148⟩ (₹2,658.67/l)⟨148⟩
-M.R.P: ₹1,995.00⟨148⟩
-Get it by **Thursday, July 31**
-FREE Delivery by Amazon
-  6. ![Pure Nutrition Organic Extra Virgin Olive Oil 750ml Glass Bottle - 100% Pure, Cold-Pressed In Glass Bottle|Ideal For Salad Dr⟨150⟩](/Pure-Nutrition-Organic-Virgin-Bottle/dp/B0DJQNYY74/ref=pd_rhf_cr_s_bmx_gp_d_sccl_1_6/259-9062319-1524538?pd_rd_w=MswXU&content-id=amzn1.sym.35f1b9bc-e9a4-4d72-8834-da50e17d0f85&pf_rd_p=35f1b9bc-e9a4-4d72-8834-da50e17d0f85&pf_rd_r=D73722BXSJQ3S6MV2XX9&pd_rd_wg=ExaXv&pd_rd_r=5447e77e-eee7-475d-a6b4-acdb06e27ada&pd_rd_i=B0DJQNYY74&psc=1)
-Pure Nutrition Organic Extra Virgin Olive Oil 750ml Glass Bottle - 100% Pure, Cold-Pressed In Glass Bottle|Ideal For Salad Dressings, Sauteing & Drizzling⟨151⟩
- _4.0 out of 5 stars_ 463⟨152⟩
-₹1,199.00₹1,199.00⟨151⟩ (₹1,598.67/l)⟨151⟩
-Get it by **Saturday, July 26**
-FREE Delivery by Amazon
-
-
- _Next set of slides_⟨134⟩
 ## Discover more
-Page 1 of 1 Start over⟨134⟩
- _Previous set of slides_⟨134⟩
-  1. ![uppercase Polyester Cyber Punk \(Medium\) 66Cms|Check-In Inline Trolley Bag For Travel|Polycarbonate Hardshellsided Printed Lug⟨153⟩](/uppercase-Polycarbonate-Hardsided-Combination-Warranty/dp/B0CR1CTD5P/ref=pd_rhf_cr_s_bmx_gp_d_sccl_2_1/259-9062319-1524538?pd_rd_w=6lKn7&content-id=amzn1.sym.35f1b9bc-e9a4-4d72-8834-da50e17d0f85&pf_rd_p=35f1b9bc-e9a4-4d72-8834-da50e17d0f85&pf_rd_r=D73722BXSJQ3S6MV2XX9&pd_rd_wg=ExaXv&pd_rd_r=5447e77e-eee7-475d-a6b4-acdb06e27ada&pd_rd_i=B0CR1CTD5P&psc=1)
- uppercase Polyester Cyber Punk (Medium) 66Cms|Check-In Inline Trolley Bag For Travel|Polycarbonate Hardshellsided Printed Luggage|Combination Lock|8 Wheel Inline Trolley Bag |(White),H-65.5 cms,Large⟨154⟩
- _4.2 out of 5 stars_ 69⟨155⟩
--36%⟨154⟩₹3,776.00₹3,776.00⟨154⟩
-M.R.P: ₹5,900.00⟨154⟩
+Page 1 of 6 Start over⟨130⟩
+ _Previous set of slides_⟨130⟩
+  1. ![Figaro Extra Light Tasting Olive Oil- Ideal for All Indian Cooking- Suitable for Deep Frying- Imported from Spain- 500 ml⟨131⟩](/Figaro-Tasting-Cooking-Suitable-Frying/dp/B0BQWKGSMS/ref=pd_rhf_cr_s_bmx_gp_d_sccl_1_1/260-9589215-8162446?pd_rd_w=OTdOC&content-id=amzn1.sym.35f1b9bc-e9a4-4d72-8834-da50e17d0f85&pf_rd_p=35f1b9bc-e9a4-4d72-8834-da50e17d0f85&pf_rd_r=GCE004SGE8PA6BA52RQD&pd_rd_wg=uvFY7&pd_rd_r=cf626cf5-11ae-47e5-8a96-27c1b45b007b&pd_rd_i=B0BQWKGSMS&psc=1)
+ Figaro Extra Light Tasting Olive Oil- Ideal for All Indian Cooking- Suitable for Deep Frying- Imported from Spain- 500 ml⟨132⟩
+ _4.5 out of 5 stars_ 18⟨133⟩
+-42%⟨132⟩₹599.00₹599.00⟨132⟩ (₹1,198.00/l)⟨132⟩
+M.R.P: ₹1,029.00⟨132⟩
 Get it by **Saturday, July 26**
 FREE Delivery by Amazon
-  2. ![Skybags Rhumba 66 Cms Medium Check-in Polyster Soft Sided Luggae/Suitcase/Inline Trolley Bag- Green⟨156⟩](/Skybags-Rhumba-Polyster-Suitcase-Trolley/dp/B0DX6BPTQT/ref=pd_rhf_cr_s_bmx_gp_d_sccl_2_2/259-9062319-1524538?pd_rd_w=6lKn7&content-id=amzn1.sym.35f1b9bc-e9a4-4d72-8834-da50e17d0f85&pf_rd_p=35f1b9bc-e9a4-4d72-8834-da50e17d0f85&pf_rd_r=D73722BXSJQ3S6MV2XX9&pd_rd_wg=ExaXv&pd_rd_r=5447e77e-eee7-475d-a6b4-acdb06e27ada&pd_rd_i=B0DX6BPTQT&psc=1)
-Skybags Rhumba 66 Cms Medium Check-in Polyster Soft Sided Luggae/Suitcase/Inline Trolley Bag- Green⟨157⟩
- _4.1 out of 5 stars_ 42⟨158⟩
--66%⟨157⟩₹2,567.57₹2,567.57⟨157⟩
-M.R.P: ₹7,500.00⟨157⟩
+  2. ![The Butternut Co. Olive Oil for cooking | Extra Light Olive oil | Cold Pressed Olive Oil | Imported from Spain | For Indian C⟨134⟩](/Butternut-Co-cooking-Pressed-saueting/dp/B0D22W1TYS/ref=pd_rhf_cr_s_bmx_gp_d_sccl_1_2/260-9589215-8162446?pd_rd_w=OTdOC&content-id=amzn1.sym.35f1b9bc-e9a4-4d72-8834-da50e17d0f85&pf_rd_p=35f1b9bc-e9a4-4d72-8834-da50e17d0f85&pf_rd_r=GCE004SGE8PA6BA52RQD&pd_rd_wg=uvFY7&pd_rd_r=cf626cf5-11ae-47e5-8a96-27c1b45b007b&pd_rd_i=B0D22W1TYS&psc=1)
+The Butternut Co. Olive Oil for cooking | Extra Light Olive oil | Cold Pressed Olive Oil | Imported from Spain | For Indian Cooking, frying and saueting like Pomace Olive Oil | 1 litre pack⟨135⟩
+ _4.3 out of 5 stars_ 74⟨136⟩
+-15%⟨135⟩₹849.00₹849.00⟨135⟩ (₹849.00/l)⟨135⟩
+M.R.P: ₹1,000.00⟨135⟩
 Get it by **Saturday, July 26**
 FREE Delivery by Amazon
-  3. ![Provogue Cascade Hard-Sided PP 65 Cm Check-in Medium Size Luggage Suitcase | Expandable Space with 8 Wheels Trolley Bags for ⟨159⟩](/Provogue-Hard-Sided-Expandable-Combination-Timberwolf/dp/B0DXTW7P64/ref=pd_rhf_cr_s_bmx_gp_d_sccl_2_3/259-9062319-1524538?pd_rd_w=6lKn7&content-id=amzn1.sym.35f1b9bc-e9a4-4d72-8834-da50e17d0f85&pf_rd_p=35f1b9bc-e9a4-4d72-8834-da50e17d0f85&pf_rd_r=D73722BXSJQ3S6MV2XX9&pd_rd_wg=ExaXv&pd_rd_r=5447e77e-eee7-475d-a6b4-acdb06e27ada&pd_rd_i=B0DXTW7P64&psc=1)
-Provogue Cascade Hard-Sided PP 65 Cm Check-in Medium Size Luggage Suitcase | Expandable Space with 8 Wheels Trolley Bags for Travel | Combination Lock |5 Year Warranty (Timberwolf Grey/Burnt Orange)⟨160⟩
-_4.2 out of 5 stars_ 16⟨161⟩
--61%⟨160⟩₹2,899.00₹2,899.00⟨160⟩
-M.R.P: ₹7,375.00⟨160⟩
-Get it by **Sunday, July 27**
-FREE Delivery by Amazon
-  4. ![Genie Polycarbonate Scarlett Trolley Bag Large Size, 79 cms Fresh Mint Hard Side Travel Bag, 8 Wheel Double Spinner Luggage S⟨162⟩](/Genie-Scarlett-Polycarbonate-Hardsided-Rotation/dp/B097PGT9T1/ref=pd_rhf_cr_s_bmx_gp_d_sccl_2_4/259-9062319-1524538?pd_rd_w=6lKn7&content-id=amzn1.sym.35f1b9bc-e9a4-4d72-8834-da50e17d0f85&pf_rd_p=35f1b9bc-e9a4-4d72-8834-da50e17d0f85&pf_rd_r=D73722BXSJQ3S6MV2XX9&pd_rd_wg=ExaXv&pd_rd_r=5447e77e-eee7-475d-a6b4-acdb06e27ada&pd_rd_i=B097PGT9T1&psc=1)
-Genie Polycarbonate Scarlett Trolley Bag Large Size, 79 cms Fresh Mint Hard Side Travel Bag, 8 Wheel Double Spinner Luggage Suitcase for Travelling, Check in Luggage with Trolley, Scratch Resistant⟨163⟩
- _4.3 out of 5 stars_ 47⟨164⟩
--64%⟨163⟩₹3,699.00₹3,699.00⟨163⟩
-Limited time deal
-M.R.P: ₹10,167.00⟨163⟩
+  3. ![Rage Coffee Premium Silk Blend Classic Coffee Powder - 60g | Fuel Your Day with Plant-Based Vitamin Instant Coffee Powder for⟨137⟩](/Rage-Coffee-Premium-Blend-Classic/dp/B0BWMVQWYT/ref=pd_rhf_cr_s_bmx_gp_d_sccl_1_3/260-9589215-8162446?pd_rd_w=OTdOC&content-id=amzn1.sym.35f1b9bc-e9a4-4d72-8834-da50e17d0f85&pf_rd_p=35f1b9bc-e9a4-4d72-8834-da50e17d0f85&pf_rd_r=GCE004SGE8PA6BA52RQD&pd_rd_wg=uvFY7&pd_rd_r=cf626cf5-11ae-47e5-8a96-27c1b45b007b&pd_rd_i=B0BWMVQWYT&psc=1)
+Rage Coffee Premium Silk Blend Classic Coffee Powder - 60g | Fuel Your Day with Plant-Based Vitamin Instant Coffee Powder for Enhanced Fitness, Energy, and Focus | Hot and Cold Coffee⟨138⟩
+ _4.0 out of 5 stars_ 419⟨139⟩
+-8%⟨138⟩₹229.00₹229.00⟨138⟩ (₹381.67/100 g)⟨138⟩
+M.R.P: ₹249.00⟨138⟩
 Get it by **Tuesday, July 29**
 FREE Delivery by Amazon
-  5. ![Skybags Acrylonitrile Butadiene Styrene \(Abs\) Trooper Large Check-in Size Hard Luggage \(75Cm\) | Luggage Trolley with 4 Spinne⟨165⟩](/Skybags-Acrylonitrile-Butadiene-Resettable-Combination/dp/B0D9P2YPD7/ref=pd_rhf_cr_s_bmx_gp_d_sccl_2_5/259-9062319-1524538?pd_rd_w=6lKn7&content-id=amzn1.sym.35f1b9bc-e9a4-4d72-8834-da50e17d0f85&pf_rd_p=35f1b9bc-e9a4-4d72-8834-da50e17d0f85&pf_rd_r=D73722BXSJQ3S6MV2XX9&pd_rd_wg=ExaXv&pd_rd_r=5447e77e-eee7-475d-a6b4-acdb06e27ada&pd_rd_i=B0D9P2YPD7&psc=1)
-Skybags Acrylonitrile Butadiene Styrene (Abs) Trooper Large Check-in Size Hard Luggage (75Cm) | Luggage Trolley with 4 Spinner Wheels and Resettable Combination Lock | Black⟨166⟩
- _4.1 out of 5 stars_ 20,480⟨167⟩
--60%⟨166⟩₹4,359.00₹4,359.00⟨166⟩
+  4. ![Borges Character Extra Virgin Olive Oil, 250 ml⟨140⟩](/Borges-Character-Extra-Virgin-Olive/dp/B0DQV8Y5Z5/ref=pd_rhf_cr_s_bmx_gp_d_sccl_1_4/260-9589215-8162446?pd_rd_w=OTdOC&content-id=amzn1.sym.35f1b9bc-e9a4-4d72-8834-da50e17d0f85&pf_rd_p=35f1b9bc-e9a4-4d72-8834-da50e17d0f85&pf_rd_r=GCE004SGE8PA6BA52RQD&pd_rd_wg=uvFY7&pd_rd_r=cf626cf5-11ae-47e5-8a96-27c1b45b007b&pd_rd_i=B0DQV8Y5Z5&psc=1)
+Borges Character Extra Virgin Olive Oil, 250 ml⟨141⟩
+ _4.5 out of 5 stars_ 16⟨142⟩
+-50%⟨141⟩₹399.00₹399.00⟨141⟩ (₹1,596.00/l)⟨141⟩
 Limited time deal
-M.R.P: ₹10,920.00⟨166⟩
+M.R.P: ₹800.00⟨141⟩
 Get it by **Saturday, July 26**
 FREE Delivery by Amazon
-  6. ![Safari Hexa 21 Ltrs Water Resistant 3 Compartment Backpack - Black, S \(HEXA19CBBLK\)⟨168⟩](/Safari-Hexa-Water-Resistant-Backpack/dp/B09B26TVPM/ref=pd_rhf_cr_s_bmx_gp_d_sccl_2_6/259-9062319-1524538?pd_rd_w=6lKn7&content-id=amzn1.sym.35f1b9bc-e9a4-4d72-8834-da50e17d0f85&pf_rd_p=35f1b9bc-e9a4-4d72-8834-da50e17d0f85&pf_rd_r=D73722BXSJQ3S6MV2XX9&pd_rd_wg=ExaXv&pd_rd_r=5447e77e-eee7-475d-a6b4-acdb06e27ada&pd_rd_i=B09B26TVPM&psc=1)
-Safari Hexa 21 Ltrs Water Resistant 3 Compartment Backpack - Black, S (HEXA19CBBLK)⟨169⟩
-_3.9 out of 5 stars_ 2,282⟨170⟩
--75%⟨169⟩₹502.00₹502.00⟨169⟩
-M.R.P: ₹2,010.00⟨169⟩
+  5. ![Anveshan Extra Virgin Olive Oil - 1L | Cold Press Extraction | Rich in Vitamin E & K | Perfect for Salad Dressings, Sautéing,⟨143⟩](/Anveshan-Extra-Virgin-Olive-Oil/dp/B0DS597B41/ref=pd_rhf_cr_s_bmx_gp_d_sccl_1_5/260-9589215-8162446?pd_rd_w=OTdOC&content-id=amzn1.sym.35f1b9bc-e9a4-4d72-8834-da50e17d0f85&pf_rd_p=35f1b9bc-e9a4-4d72-8834-da50e17d0f85&pf_rd_r=GCE004SGE8PA6BA52RQD&pd_rd_wg=uvFY7&pd_rd_r=cf626cf5-11ae-47e5-8a96-27c1b45b007b&pd_rd_i=B0DS597B41&psc=1)
+Anveshan Extra Virgin Olive Oil - 1L | Cold Press Extraction | Rich in Vitamin E & K | Perfect for Salad Dressings, Sautéing, Marinades - Imported from Spain⟨144⟩
+ _4.7 out of 5 stars_ 140⟨145⟩
+-35%⟨144⟩₹1,299.00₹1,299.00⟨144⟩ (₹1,299.00/l)⟨144⟩
+M.R.P: ₹2,000.00⟨144⟩
 Get it by **Saturday, July 26**
 FREE Delivery by Amazon
 
 
- _Next set of slides_⟨134⟩
+ _Next set of slides_⟨130⟩
+## Items you may like
+Page 1 of 1 Start over⟨130⟩
+ _Previous set of slides_⟨130⟩
+  1. ![Skybags Pp Spinner Wheels Splash Cabin Hard Luggage \(55 cm\) | Printed Luggage Trolley with 8 Wheels and in-Built Combination ⟨146⟩](/Skybags-Spinner-Luggage-Printed-Combination/dp/B0F1PJ9LT4/ref=pd_rhf_cr_s_bmx_gp_d_sccl_2_1/260-9589215-8162446?pd_rd_w=7Xi82&content-id=amzn1.sym.35f1b9bc-e9a4-4d72-8834-da50e17d0f85&pf_rd_p=35f1b9bc-e9a4-4d72-8834-da50e17d0f85&pf_rd_r=GCE004SGE8PA6BA52RQD&pd_rd_wg=uvFY7&pd_rd_r=cf626cf5-11ae-47e5-8a96-27c1b45b007b&pd_rd_i=B0F1PJ9LT4&psc=1)
+ Skybags Pp Spinner Wheels Splash Cabin Hard Luggage (55 cm) | Printed Luggage Trolley with 8 Wheels and in-Built Combination Lock | Unisex, Cream⟨147⟩
+ _4.1 out of 5 stars_ 2,675⟨148⟩
+-64%⟨147⟩₹1,900.00₹1,900.00⟨147⟩
+M.R.P: ₹5,266.00⟨147⟩
+Get it by **Saturday, July 26**
+FREE Delivery by Amazon
+  2. ![Genie Polycarbonate Scarlett Trolley Bag Large Size, 79 cms Fresh Mint Hard Side Travel Bag, 8 Wheel Double Spinner Luggage S⟨149⟩](/Genie-Scarlett-Polycarbonate-Hardsided-Rotation/dp/B097PGT9T1/ref=pd_rhf_cr_s_bmx_gp_d_sccl_2_2/260-9589215-8162446?pd_rd_w=7Xi82&content-id=amzn1.sym.35f1b9bc-e9a4-4d72-8834-da50e17d0f85&pf_rd_p=35f1b9bc-e9a4-4d72-8834-da50e17d0f85&pf_rd_r=GCE004SGE8PA6BA52RQD&pd_rd_wg=uvFY7&pd_rd_r=cf626cf5-11ae-47e5-8a96-27c1b45b007b&pd_rd_i=B097PGT9T1&psc=1)
+Genie Polycarbonate Scarlett Trolley Bag Large Size, 79 cms Fresh Mint Hard Side Travel Bag, 8 Wheel Double Spinner Luggage Suitcase for Travelling, Check in Luggage with Trolley, Scratch Resistant⟨150⟩
+ _4.3 out of 5 stars_ 47⟨151⟩
+-64%⟨150⟩₹3,699.00₹3,699.00⟨150⟩
+Limited time deal
+M.R.P: ₹10,167.00⟨150⟩
+Get it by **Wednesday, July 30**
+FREE Delivery by Amazon
+  3. ![Skybags Acrylonitrile Butadiene Styrene \(Abs\) Trooper Large Check-in Size Hard Luggage \(75Cm\) | Luggage Trolley with 4 Spinne⟨152⟩](/Skybags-Acrylonitrile-Butadiene-Resettable-Combination/dp/B0D9P2YPD7/ref=pd_rhf_cr_s_bmx_gp_d_sccl_2_3/260-9589215-8162446?pd_rd_w=7Xi82&content-id=amzn1.sym.35f1b9bc-e9a4-4d72-8834-da50e17d0f85&pf_rd_p=35f1b9bc-e9a4-4d72-8834-da50e17d0f85&pf_rd_r=GCE004SGE8PA6BA52RQD&pd_rd_wg=uvFY7&pd_rd_r=cf626cf5-11ae-47e5-8a96-27c1b45b007b&pd_rd_i=B0D9P2YPD7&psc=1)
+Skybags Acrylonitrile Butadiene Styrene (Abs) Trooper Large Check-in Size Hard Luggage (75Cm) | Luggage Trolley with 4 Spinner Wheels and Resettable Combination Lock | Black⟨153⟩
+ _4.1 out of 5 stars_ 20,480⟨154⟩
+-60%⟨153⟩₹4,359.00₹4,359.00⟨153⟩
+Limited time deal
+M.R.P: ₹10,920.00⟨153⟩
+Get it by **Saturday, July 26**
+FREE Delivery by Amazon
+  4. ![Safari Genius Fortis 55cm Cabin Trolley Bag Hard Case Polycarbonate, 4 Spinner Wheels, 360 Degree Wheeling Carry on Luggage, ⟨155⟩](/Safari-Trolley-Polycarbonate-Wheeling-Suitcase/dp/B0F67GDB92/ref=pd_rhf_cr_s_bmx_gp_d_sccl_2_4/260-9589215-8162446?pd_rd_w=7Xi82&content-id=amzn1.sym.35f1b9bc-e9a4-4d72-8834-da50e17d0f85&pf_rd_p=35f1b9bc-e9a4-4d72-8834-da50e17d0f85&pf_rd_r=GCE004SGE8PA6BA52RQD&pd_rd_wg=uvFY7&pd_rd_r=cf626cf5-11ae-47e5-8a96-27c1b45b007b&pd_rd_i=B0F67GDB92&psc=1)
+Safari Genius Fortis 55cm Cabin Trolley Bag Hard Case Polycarbonate, 4 Spinner Wheels, 360 Degree Wheeling Carry on Luggage, Travel Bag, Suitcase for Travel, Trolley Bags for Travel, Green⟨156⟩
+ _3.8 out of 5 stars_ 57⟨157⟩
+-76%⟨156⟩₹1,699.00₹1,699.00⟨156⟩
+M.R.P: ₹7,199.00⟨156⟩
+Get it by **Saturday, July 26**
+FREE Delivery by Amazon
+  5. ![Skybags 18 Ltrs \(47 Cms\) Standard 3 Compartment Backpack \(Bpvox22Egrn_Green\)⟨158⟩](/Skybags-BPVOX22EGRN-VOXEL-BACKPACK-GREEN/dp/B0B3XY5TMK/ref=pd_rhf_cr_s_bmx_gp_d_sccl_2_5/260-9589215-8162446?pd_rd_w=7Xi82&content-id=amzn1.sym.35f1b9bc-e9a4-4d72-8834-da50e17d0f85&pf_rd_p=35f1b9bc-e9a4-4d72-8834-da50e17d0f85&pf_rd_r=GCE004SGE8PA6BA52RQD&pd_rd_wg=uvFY7&pd_rd_r=cf626cf5-11ae-47e5-8a96-27c1b45b007b&pd_rd_i=B0B3XY5TMK&psc=1)
+Skybags 18 Ltrs (47 Cms) Standard 3 Compartment Backpack (Bpvox22Egrn_Green)⟨159⟩
+_4.0 out of 5 stars_ 866⟨160⟩
+-70%⟨159⟩₹545.00₹545.00⟨159⟩
+Limited time deal
+M.R.P: ₹1,800.00⟨159⟩
+Get it by **Saturday, July 26**
+FREE Delivery by Amazon
+  6. ![Skybags Rhumba 66 Cms Medium Check-in Polyster Soft Sided Luggae/Suitcase/Inline Trolley Bag- Green⟨161⟩](/Skybags-Rhumba-Polyster-Suitcase-Trolley/dp/B0DX6BPTQT/ref=pd_rhf_cr_s_bmx_gp_d_sccl_2_6/260-9589215-8162446?pd_rd_w=7Xi82&content-id=amzn1.sym.35f1b9bc-e9a4-4d72-8834-da50e17d0f85&pf_rd_p=35f1b9bc-e9a4-4d72-8834-da50e17d0f85&pf_rd_r=GCE004SGE8PA6BA52RQD&pd_rd_wg=uvFY7&pd_rd_r=cf626cf5-11ae-47e5-8a96-27c1b45b007b&pd_rd_i=B0DX6BPTQT&psc=1)
+Skybags Rhumba 66 Cms Medium Check-in Polyster Soft Sided Luggae/Suitcase/Inline Trolley Bag- Green⟨162⟩
+ _4.1 out of 5 stars_ 42⟨163⟩
+-66%⟨162⟩₹2,567.57₹2,567.57⟨162⟩
+M.R.P: ₹7,500.00⟨162⟩
+Get it by **Saturday, July 26**
+FREE Delivery by Amazon
+
+
+ _Next set of slides_⟨130⟩
 ## Your browsing history
-View or edit your browsing history⟨171⟩
-Page 1 of 1 Start over⟨134⟩
- _Previous set of slides_⟨134⟩
-  1. ![Acer Super ZX 5G \(Carbon Black, 6GB RAM, 128GB Storage\) | 120 Hz FHD+ Display | 5000 mAh Ultra-Thin Battery | Dimensity 6300 ⟨172⟩](/Storage-Display-Ultra-Thin-Dimensity-Processor/dp/B0F4DG9ZH5/ref=rvi_d_sccl_1/259-9062319-1524538?pd_rd_w=7Exsy&content-id=amzn1.sym.2fa5ef78-d215-4b54-bdb7-fa3d3620b822&pf_rd_p=2fa5ef78-d215-4b54-bdb7-fa3d3620b822&pf_rd_r=D73722BXSJQ3S6MV2XX9&pd_rd_wg=GYYFe&pd_rd_r=cde262de-ec4e-42d6-b68d-5fe8bf919366&pd_rd_i=B0F4DG9ZH5&psc=1)
-  2. ![Samsung Galaxy M36 5G \(Orange Haze, 6 GB RAM, 128 GB Storage\)| Circle to Search| Google Gemini| Corning Gorilla Glass Victus+⟨173⟩](/Samsung-Storage-Enhanced-Unmatched-Nightography/dp/B0FDB765TN/ref=rvi_d_sccl_2/259-9062319-1524538?pd_rd_w=7Exsy&content-id=amzn1.sym.2fa5ef78-d215-4b54-bdb7-fa3d3620b822&pf_rd_p=2fa5ef78-d215-4b54-bdb7-fa3d3620b822&pf_rd_r=D73722BXSJQ3S6MV2XX9&pd_rd_wg=GYYFe&pd_rd_r=cde262de-ec4e-42d6-b68d-5fe8bf919366&pd_rd_i=B0FDB765TN&psc=1)
-  3. ![Samsung Galaxy A55 5G \(Awesome Iceblue, 8GB RAM, 256GB Storage\) | AI | Metal Frame | 50 MP Main Camera \(OIS\) | Super HDR Vide⟨174⟩](/Samsung-Awesome-Iceblue-Storage-Nightography/dp/B0CWPCFSM3/ref=rvi_d_sccl_3/259-9062319-1524538?pd_rd_w=7Exsy&content-id=amzn1.sym.2fa5ef78-d215-4b54-bdb7-fa3d3620b822&pf_rd_p=2fa5ef78-d215-4b54-bdb7-fa3d3620b822&pf_rd_r=D73722BXSJQ3S6MV2XX9&pd_rd_wg=GYYFe&pd_rd_r=cde262de-ec4e-42d6-b68d-5fe8bf919366&pd_rd_i=B0CWPCFSM3&psc=1)
-  4. ![Samsung Galaxy A35 5G \(Awesome Iceblue, 8GB RAM, 128GB Storage\) Without Offer⟨175⟩](/samsung-Awesome-Iceblue-Storage-Without/dp/B0CXMCX9MD/ref=rvi_d_sccl_4/259-9062319-1524538?pd_rd_w=7Exsy&content-id=amzn1.sym.2fa5ef78-d215-4b54-bdb7-fa3d3620b822&pf_rd_p=2fa5ef78-d215-4b54-bdb7-fa3d3620b822&pf_rd_r=D73722BXSJQ3S6MV2XX9&pd_rd_wg=GYYFe&pd_rd_r=cde262de-ec4e-42d6-b68d-5fe8bf919366&pd_rd_i=B0CXMCX9MD&psc=1)
-  5. ![Samsung Galaxy M36 5G \(Serene Green, 8 GB RAM, 128 GB Storage\)| Circle to Search| Google Gemini| Corning Gorilla Glass Victus⟨176⟩](/Samsung-Storage-Enhanced-Unmatched-Nightography/dp/B0FDB9H9Z7/ref=rvi_d_sccl_5/259-9062319-1524538?pd_rd_w=7Exsy&content-id=amzn1.sym.2fa5ef78-d215-4b54-bdb7-fa3d3620b822&pf_rd_p=2fa5ef78-d215-4b54-bdb7-fa3d3620b822&pf_rd_r=D73722BXSJQ3S6MV2XX9&pd_rd_wg=GYYFe&pd_rd_r=cde262de-ec4e-42d6-b68d-5fe8bf919366&pd_rd_i=B0FDB9H9Z7&psc=1)
-  6. ![iPhone 16 128 GB: 5G Mobile Phone with Camera Control, A18 Chip and a Big Boost in Battery Life. Works with AirPods; Ultramar⟨177⟩](/iPhone-16-128-GB-Ultramarine/dp/B0DGJ7TGDR/ref=rvi_d_sccl_6/259-9062319-1524538?pd_rd_w=7Exsy&content-id=amzn1.sym.2fa5ef78-d215-4b54-bdb7-fa3d3620b822&pf_rd_p=2fa5ef78-d215-4b54-bdb7-fa3d3620b822&pf_rd_r=D73722BXSJQ3S6MV2XX9&pd_rd_wg=GYYFe&pd_rd_r=cde262de-ec4e-42d6-b68d-5fe8bf919366&pd_rd_i=B0DGJ7TGDR&psc=1)
+View or edit your browsing history⟨164⟩
+Page 1 of 1 Start over⟨130⟩
+ _Previous set of slides_⟨130⟩
+  1. ![ASUS TUF Gaming A15, AMD Ryzen 7 7435HS Gaming Laptop\(NVIDIA RTX 3050-4GB/60W TGP/16GB RAM/512GB SSD/FHD/15.6"/144Hz/RGB KB/4⟨165⟩](/ASUS-15-6-inch-GeForce-Graphite-FA506NCR-HN054W/dp/B0D5DFR78J/ref=rvi_d_sccl_1/260-9589215-8162446?pd_rd_w=64oXz&content-id=amzn1.sym.2fa5ef78-d215-4b54-bdb7-fa3d3620b822&pf_rd_p=2fa5ef78-d215-4b54-bdb7-fa3d3620b822&pf_rd_r=GCE004SGE8PA6BA52RQD&pd_rd_wg=EPWey&pd_rd_r=2ae4bbf5-de51-4a31-bfa0-f50e9f635a15&pd_rd_i=B0D5DFR78J&psc=1)
+  2. ![Samsung Galaxy M35 5G \(Daybreak Blue,8GB RAM,128GB Storage\)| Corning Gorilla Glass Victus+| AnTuTu Score 595K+ | Vapour Cooli⟨166⟩](/Samsung-Daybreak-Storage-Corning-Gorilla/dp/B0D7Z8FJZ9/ref=rvi_d_sccl_2/260-9589215-8162446?pd_rd_w=64oXz&content-id=amzn1.sym.2fa5ef78-d215-4b54-bdb7-fa3d3620b822&pf_rd_p=2fa5ef78-d215-4b54-bdb7-fa3d3620b822&pf_rd_r=GCE004SGE8PA6BA52RQD&pd_rd_wg=EPWey&pd_rd_r=2ae4bbf5-de51-4a31-bfa0-f50e9f635a15&pd_rd_i=B0D7Z8FJZ9&psc=1)
+  3. ![Acer Super ZX 5G \(Carbon Black, 6GB RAM, 128GB Storage\) | 120 Hz FHD+ Display | 5000 mAh Ultra-Thin Battery | Dimensity 6300 ⟨167⟩](/Storage-Display-Ultra-Thin-Dimensity-Processor/dp/B0F4DG9ZH5/ref=rvi_d_sccl_3/260-9589215-8162446?pd_rd_w=64oXz&content-id=amzn1.sym.2fa5ef78-d215-4b54-bdb7-fa3d3620b822&pf_rd_p=2fa5ef78-d215-4b54-bdb7-fa3d3620b822&pf_rd_r=GCE004SGE8PA6BA52RQD&pd_rd_wg=EPWey&pd_rd_r=2ae4bbf5-de51-4a31-bfa0-f50e9f635a15&pd_rd_i=B0F4DG9ZH5&psc=1)
+  4. ![Samsung Galaxy M36 5G \(Velvet Black, 8 GB RAM, 128 GB Storage\)| Circle to Search| Google Gemini| Corning Gorilla Glass Victus⟨168⟩](/Samsung-Storage-Enhanced-Unmatched-Nightography/dp/B0FDB9ZCTD/ref=rvi_d_sccl_4/260-9589215-8162446?pd_rd_w=64oXz&content-id=amzn1.sym.2fa5ef78-d215-4b54-bdb7-fa3d3620b822&pf_rd_p=2fa5ef78-d215-4b54-bdb7-fa3d3620b822&pf_rd_r=GCE004SGE8PA6BA52RQD&pd_rd_wg=EPWey&pd_rd_r=2ae4bbf5-de51-4a31-bfa0-f50e9f635a15&pd_rd_i=B0FDB9ZCTD&psc=1)
+  5. ![ASUS Vivobook 15,13th Gen,Intel Core i3-1315U \(Intel UHD /16GB RAM/512GB SSD/FHD/15.6"/60Hz/Win 11/M365 Basic \(1Year\)*/Backli⟨169⟩](/ASUS-Vivobook-i3-1315U-Keyboard-X1504VA-NJ2325WS/dp/B0DTYWCHDQ/ref=rvi_d_sccl_5/260-9589215-8162446?pd_rd_w=64oXz&content-id=amzn1.sym.2fa5ef78-d215-4b54-bdb7-fa3d3620b822&pf_rd_p=2fa5ef78-d215-4b54-bdb7-fa3d3620b822&pf_rd_r=GCE004SGE8PA6BA52RQD&pd_rd_wg=EPWey&pd_rd_r=2ae4bbf5-de51-4a31-bfa0-f50e9f635a15&pd_rd_i=B0DTYWCHDQ&psc=1)
+  6. ![ASUS Vivobook 15,13th Gen,Intel Core i5-13420H\(Intel UHD iGPU/16GB RAM/512GB SSD/FHD/15.6"/60Hz/Backlit Keyboard/Windows 11/M⟨170⟩](/ASUS-Vivobook-i5-13420H-Keyboard-X1502VA-BQ835WS/dp/B0DTYHD5D1/ref=rvi_d_sccl_6/260-9589215-8162446?pd_rd_w=64oXz&content-id=amzn1.sym.2fa5ef78-d215-4b54-bdb7-fa3d3620b822&pf_rd_p=2fa5ef78-d215-4b54-bdb7-fa3d3620b822&pf_rd_r=GCE004SGE8PA6BA52RQD&pd_rd_wg=EPWey&pd_rd_r=2ae4bbf5-de51-4a31-bfa0-f50e9f635a15&pd_rd_i=B0DTYHD5D1&psc=1)
 
 
- _Next set of slides_⟨134⟩
+ _Next set of slides_⟨130⟩
 Your recently viewed items and featured recommendations 
 ›
- View or edit your browsing history ⟨171⟩
+ View or edit your browsing history ⟨164⟩
 After viewing product detail pages, look here to find an easy way to navigate back to pages you are interested in. 
 Your recently viewed items and featured recommendations 
 › 
- View or edit your browsing history ⟨171⟩
+ View or edit your browsing history ⟨164⟩
 After viewing product detail pages, look here to find an easy way to navigate back to pages you are interested in. 
   
 
 Back to top 
 Get to Know Us
-  * About Amazon⟨178⟩
-  * Careers⟨179⟩
-  * Press Releases⟨180⟩
-  * Amazon Science⟨181⟩
+  * About Amazon⟨171⟩
+  * Careers⟨172⟩
+  * Press Releases⟨173⟩
+  * Amazon Science⟨174⟩
 
 
 Connect with Us
-  * Facebook⟨182⟩
-  * Twitter⟨183⟩
-  * Instagram⟨184⟩
+  * Facebook⟨175⟩
+  * Twitter⟨176⟩
+  * Instagram⟨177⟩
 
 
 Make Money with Us
-  * Sell on Amazon⟨185⟩
-  * Sell under Amazon Accelerator⟨186⟩
-  * Protect and Build Your Brand⟨187⟩
-  * Amazon Global Selling⟨188⟩
-  * Supply to Amazon⟨189⟩
-  * Become an Affiliate⟨190⟩
-  * Fulfilment by Amazon⟨191⟩
-  * Advertise Your Products⟨192⟩
-  * Amazon Pay on Merchants⟨193⟩
+  * Sell on Amazon⟨178⟩
+  * Sell under Amazon Accelerator⟨179⟩
+  * Protect and Build Your Brand⟨180⟩
+  * Amazon Global Selling⟨181⟩
+  * Supply to Amazon⟨182⟩
+  * Become an Affiliate⟨183⟩
+  * Fulfilment by Amazon⟨184⟩
+  * Advertise Your Products⟨185⟩
+  * Amazon Pay on Merchants⟨186⟩
 
 
 Let Us Help You
-  * Your Account⟨194⟩
-  * Returns Centre⟨195⟩
-  * Recalls and Product Safety Alerts⟨196⟩
-  * 100% Purchase Protection⟨197⟩
-  * Amazon App Download⟨198⟩
-  * Help⟨199⟩
+  * Your Account⟨187⟩
+  * Returns Centre⟨188⟩
+  * Recalls and Product Safety Alerts⟨189⟩
+  * 100% Purchase Protection⟨190⟩
+  * Amazon App Download⟨191⟩
+  * Help⟨192⟩
 
 
- ⟨200⟩
- English ⟨201⟩
- India ⟨202⟩
+ ⟨193⟩
+ English ⟨194⟩
+ India ⟨195⟩
   * ##### AbeBooksBooks, art  
-& collectibles⟨203⟩
+& collectibles⟨196⟩
   *   * ##### Amazon Web ServicesScalable Cloud  
-Computing Services⟨204⟩
+Computing Services⟨197⟩
   *   * ##### AudibleDownload  
-Audio Books⟨205⟩
+Audio Books⟨198⟩
   *   * ##### IMDbMovies, TV  
-& Celebrities⟨206⟩
+& Celebrities⟨199⟩
   *   * ##### ShopbopDesigner  
-Fashion Brands⟨207⟩
+Fashion Brands⟨200⟩
 
 
   * #####  Amazon BusinessEverything For  
-Your Business⟨208⟩
+Your Business⟨201⟩
   *   * ##### Prime Now 2-Hour Delivery  
-on Everyday Items⟨209⟩
+on Everyday Items⟨202⟩
   *   * ##### Amazon Prime Music100 million songs, ad-free  
-Over 15 million podcast episodes ⟨210⟩
-  *   * ##### Amazon LiveStream. Shop. Live⟨211⟩
+Over 15 million podcast episodes ⟨203⟩
+  *   * ##### Amazon LiveStream. Shop. Live⟨204⟩
   *   *  
 
 
-  * Conditions of Use & Sale⟨212⟩
-  * Privacy Notice⟨213⟩
-  * Interest-Based Ads⟨214⟩
+  * Conditions of Use & Sale⟨205⟩
+  * Privacy Notice⟨206⟩
+  * Interest-Based Ads⟨207⟩
 
 © 1996-2025, Amazon.com, Inc. or its affiliates
-![](//fls-eu.amazon.in/1/batch/1/OP/A21TJRUUN4KGV:259-9062319-1524538:N19PQ7H4RHWAKS5G87K3$uedata=s:%2Frd%2Fuedata%3Fnoscript%26id%3DN19PQ7H4RHWAKS5G87K3:0)
+![](//fls-eu.amazon.in/1/batch/1/OP/A21TJRUUN4KGV:260-9589215-8162446:05ZN2E3T4D9H58YN59M0$uedata=s:%2Frd%2Fuedata%3Fnoscript%26id%3D05ZN2E3T4D9H58YN59M0:0)

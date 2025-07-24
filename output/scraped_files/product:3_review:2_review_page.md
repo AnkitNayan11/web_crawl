@@ -1,4 +1,4 @@
-Amazon.in:Customer reviews: ASUS Vivobook 15,13th Gen,Intel Core i3-1315U (Intel UHD /16GB RAM/512GB SSD/FHD/15.6&#34;/60Hz/Win 11/M365 Basic (1Year)*/Backlit Keyboard/Office Home 2024/Quiet Blue/1.70 kg) X1504VA-NJ2325WS
+Amazon.in:Customer reviews: ASUS Vivobook 15,13th Gen,Intel Core i5-13420H(Intel UHD iGPU/16GB RAM/512GB SSD/FHD/15.6&#34;/60Hz/Backlit Keyboard/Windows 11/M365 Basic (1Year)*/Office Home 2024/Quiet Blue/1.70 kg) X1502VA-BQ836WS
 ![](https://m.media-amazon.com/images/G/31/gno/sprites/nav-sprite-global-1x-reorg-privacy._CB546381437_.png)
 ## Skip to
   *  Main content ⟨1⟩
@@ -70,12 +70,12 @@ Your Account
   * Ankit's Amazon.in⟨44⟩
   * Customer Service⟨45⟩
   * Subscribe & Save⟨46⟩
-  * Home & Kitchen⟨47⟩
-  * New Releases⟨48⟩
+  * New Releases⟨47⟩
+  * Home & Kitchen⟨48⟩
   * Grocery & Gourmet Foods⟨49⟩
   * Prime ⟨50⟩
-  * Audible⟨51⟩
-  * Toys & Games⟨52⟩
+  * Toys & Games⟨51⟩
+  * Audible⟨52⟩
   * Fashion⟨53⟩
   * Mobiles⟨54⟩
   *  Electronics ⟨55⟩
@@ -95,12 +95,12 @@ Your Account
 ##  ₹0.00 
 ![Amazon Fresh⟨62⟩]
 6 items 
-##  ₹166.00 
+##  ₹157.00 
  Go to Cart ⟨63⟩
-Add items worth ₹333.00 for FREE delivery 
+Add items worth ₹342.00 for FREE delivery 
  Go to Cart ⟨64⟩
   *  ![Fresh Tomato Hybrid, 1kg⟨65⟩ ](/gp/product/B07BG7LB3Q/ref=ewc_pr_img_1?smid=A14ZXHJG8U9TGB&almBrandId=ctnow&psc=1&fpw=alm)
-₹45.00 
+₹36.00 
  Fresh Tomato Hybrid, 1kg ⟨66⟩ was removed from Shopping Cart. 
  Fresh Tomato Hybrid, 1kg ⟨66⟩ was already removed from Shopping Cart. 
  ⟨67⟩
@@ -118,7 +118,7 @@ __1 Qty:
 Update  
 Qty:1change⟨69⟩)
 Total Price: $000.00
-Total Price: ₹45.00
+Total Price: ₹36.00
   
 
 __Add to Cart
@@ -246,7 +246,7 @@ __Add to Cart
 
 
 # 
-  * ASUS Vivobook 15,13th Gen,Intel Core i3-1315U (Intel UHD /16GB...⟨86⟩
+  * ASUS Vivobook 15,13th Gen,Intel Core i5-13420H(Intel UHD iGPU/16GB...⟨86⟩
   * ›
   * Customer reviews
 
@@ -254,18 +254,18 @@ __Add to Cart
 ## Customer reviews
  _3.8 out of 5 stars_
 3.8 out of 5
-27 global ratings
-  *  5 star  4 star  3 star  2 star  1 star  5 star  50%  22%  5%  5%  18%  50%  ⟨87⟩
-  *  5 star  4 star  3 star  2 star  1 star  4 star  50%  22%  5%  5%  18%  22%  ⟨88⟩
-  *  5 star  4 star  3 star  2 star  1 star  3 star  50%  22%  5%  5%  18%  5%  ⟨89⟩
-  *  5 star  4 star  3 star  2 star  1 star  2 star  50%  22%  5%  5%  18%  5%  ⟨90⟩
-  *  5 star  4 star  3 star  2 star  1 star  1 star  50%  22%  5%  5%  18%  18%  ⟨91⟩
+79 global ratings
+  *  5 star  4 star  3 star  2 star  1 star  5 star  52%  19%  5%  3%  21%  52%  ⟨87⟩
+  *  5 star  4 star  3 star  2 star  1 star  4 star  52%  19%  5%  3%  21%  19%  ⟨88⟩
+  *  5 star  4 star  3 star  2 star  1 star  3 star  52%  19%  5%  3%  21%  5%  ⟨89⟩
+  *  5 star  4 star  3 star  2 star  1 star  2 star  52%  19%  5%  3%  21%  3%  ⟨90⟩
+  *  5 star  4 star  3 star  2 star  1 star  1 star  52%  19%  5%  3%  21%  21%  ⟨91⟩
 
 
-![ASUS Vivobook 15,13th Gen,Intel Core i3-1315U \(Intel UHD /16GB RAM/512GB SSD/FHD/15.6&#34;/60Hz/Win 11/M365 Basic \(1Year\)*/Backlit Keyboard/Office Home 2024/Quiet Blue/1.70 kg\) X1504VA-NJ2325WS⟨92⟩](/ASUS-Vivobook-i3-1315U-Keyboard-X1504VA-NJ2325WS/dp/B0DTYWCHDQ/ref=cm_cr_arp_d_pdt_img_top?ie=UTF8)
-# ASUS Vivobook 15,13th Gen,Intel Core i3-1315U (Intel UHD /16GB RAM/512GB SSD/FHD/15.6"/60Hz/Win 11/M365 Basic (1Year)*/Backlit Keyboard/Office Home 2024/Quiet Blue/1.70 kg) X1504VA-NJ2325WS⟨93⟩
+![ASUS Vivobook 15,13th Gen,Intel Core i5-13420H\(Intel UHD iGPU/16GB RAM/512GB SSD/FHD/15.6&#34;/60Hz/Backlit Keyboard/Windows 11/M365 Basic \(1Year\)*/Office Home 2024/Quiet Blue/1.70 kg\) X1502VA-BQ836WS⟨92⟩](/ASUS-Vivobook-i5-13420H-Keyboard-X1502VA-BQ836WS/dp/B0DTYKLHYC/ref=cm_cr_arp_d_pdt_img_top?ie=UTF8)
+# ASUS Vivobook 15,13th Gen,Intel Core i5-13420H(Intel UHD iGPU/16GB RAM/512GB SSD/FHD/15.6"/60Hz/Backlit Keyboard/Windows 11/M365 Basic (1Year)*/Office Home 2024/Quiet Blue/1.70 kg) X1502VA-BQ836WS⟨93⟩
 byASUS⟨94⟩
-  * Colour: Blue | 16GB RAM
+  * Colour: Office 2024_Blue
   * __Change⟨93⟩
 
 
@@ -284,18 +284,24 @@ Sort by reviews type Top reviewsMost recentTop reviews __
 ### Filter by
 Filter by reviewer type All reviewersVerified purchase onlyAll reviewers __
 Filter by star count All stars5 star only4 star only3 star only2 star only1 star onlyPositive reviewsCritical reviewsAll stars __
-Filter by variant type All variantsColour: Blue | 16GB RAMAll variants __
+Filter by variant type All variantsColour: Office 2024_BlueAll variants __
 Filter by media type All text, image and video reviewsImage and video reviews onlyAll text, image and video reviews __
-15 customer reviews 
+45 customer reviews 
 * * *
 #### There was a problem filtering reviews. Please reload the page.
 __
 ###  From India 
-  * ![⟨97⟩![](https://images-eu.ssl-images-amazon.com/images/S/amazon-avatars-global/default._CR0,0,1024,1024_SX48_.png)Hemanth](/gp/profile/amzn1.account.AHASHEL2MUJHRFUGRVAIYUSIG4GA/ref=cm_cr_getr_d_gw_btm?ie=UTF8)
-#####  _2.0 out of 5 stars_ Worst display in a laptop ⟨98⟩
-Reviewed in India on 24 May 2025
-Colour: Blue | 16GB RAM⟨99⟩ __Verified Purchase⟨100⟩
-Display is pathetic. Never seen such cheap display over the past 10 years
+  * ![⟨97⟩![](https://images-eu.ssl-images-amazon.com/images/S/amazon-avatars-global/default._CR0,0,1024,1024_SX48_.png)sanjay jain](/gp/profile/amzn1.account.AGKO6MP24S5TDFDE23NJMYY3SCHQ/ref=cm_cr_getr_d_gw_btm?ie=UTF8)
+#####  _3.0 out of 5 stars_ Body is not good ⟨98⟩
+Reviewed in India on 26 June 2025
+Colour: Office 2024_Blue⟨99⟩ __Verified Purchase⟨100⟩
+Its great laptop when we compare the price and the features for that i can gice it 5  
+But after using few days i see the body of it is so cheap you have to handle it with care  
+If you use dell previously you will feel the difference  
+By tring to make it lite weight they compromise with the quality havealy  
+If you are taking it for long time and having kids in house or frequent traveler  
+It is not a good choice otherwise its excellent at this price
+One person found this helpful
 Helpful
 Sending feedback...
 __
@@ -307,12 +313,11 @@ Showing 0 comments
 #### There was a problem loading comments right now. Please try again later.
 __
 * * *
-  * ![⟨97⟩![](https://images-eu.ssl-images-amazon.com/images/S/amazon-avatars-global/default._CR0,0,1024,1024_SX48_.png) Arihant jain](/gp/profile/amzn1.account.AEFY3QKTHI4E3JGMB53BGWBTX6SQ/ref=cm_cr_getr_d_gw_btm?ie=UTF8)
-#####  _5.0 out of 5 stars_ Value for money ⟨102⟩
-Reviewed in India on 22 May 2025
-Colour: Blue | 16GB RAM⟨99⟩ __Verified Purchase⟨100⟩
-Great laptop
-One person found this helpful
+  * ![⟨97⟩![](https://images-eu.ssl-images-amazon.com/images/S/amazon-avatars-global/default._CR0,0,1024,1024_SX48_.png) VIKRAM SINGH](/gp/profile/amzn1.account.AGJOSFINGY7NZFORGMCHWO3KGXBA/ref=cm_cr_getr_d_gw_btm?ie=UTF8)
+#####  _4.0 out of 5 stars_ Not fast ⟨102⟩
+Reviewed in India on 23 June 2025
+Colour: Office 2024_Blue⟨99⟩ __Verified Purchase⟨100⟩
+It's not fast
 Helpful
 Sending feedback...
 __
@@ -324,50 +329,164 @@ Showing 0 comments
 #### There was a problem loading comments right now. Please try again later.
 __
 * * *
-  * ![⟨97⟩![](https://images-eu.ssl-images-amazon.com/images/S/amazon-avatars-global/default._CR0,0,1024,1024_SX48_.png) Kirti giri](/gp/profile/amzn1.account.AEYWSYXKE4VRETNBRJZZCZ6SJDIA/ref=cm_cr_getr_d_gw_btm?ie=UTF8)
-#####  _1.0 out of 5 stars_ so so ⟨104⟩
-Reviewed in India on 21 May 2025
-Colour: Blue | 16GB RAM⟨99⟩ __Verified Purchase⟨100⟩
-it’s ok not very good
+  * ![⟨104⟩![](https://images-eu.ssl-images-amazon.com/images/S/amazon-avatars-global/e4fe68b5-8a56-49ce-8cb5-8a24e79bc809._CR0,0,500,500_SX48_.jpg) Shubham Khade](/gp/profile/amzn1.account.AEWWH27JGLQEN73ONTQHEGXWZNGA/ref=cm_cr_getr_d_gw_btm?ie=UTF8)
+#####  _3.0 out of 5 stars_ Battery life is not good ⟨105⟩
+Reviewed in India on 13 July 2025
+Colour: Office 2024_Blue⟨99⟩ __Verified Purchase⟨100⟩
+Battery life is not good at all. Gets heat instantly. Build quality is good. Speed is also ok ok.
+One person found this helpful
 Helpful
 Sending feedback...
 __
 Thank you for your feedback.
 __
 Sorry, we failed to record your vote. Please try again
-__Report⟨105⟩
+__Report⟨106⟩
 Showing 0 comments
 #### There was a problem loading comments right now. Please try again later.
 __
 * * *
-  * ![⟨97⟩![](https://images-eu.ssl-images-amazon.com/images/S/amazon-avatars-global/default._CR0,0,1024,1024_SX48_.png) Amazon Customer](/gp/profile/amzn1.account.AE4TJJHZWTEZJMX6CBN65JTDBU3Q/ref=cm_cr_getr_d_gw_btm?ie=UTF8)
-#####  _1.0 out of 5 stars_ Scammed ⟨106⟩
-Reviewed in India on 7 May 2025
-Colour: Blue | 16GB RAM⟨99⟩ __Verified Purchase⟨100⟩
-Sent damaged laptop
+  * ![⟨97⟩![](https://images-eu.ssl-images-amazon.com/images/S/amazon-avatars-global/default._CR0,0,1024,1024_SX48_.png) Praneeth Kumar Nelapati](/gp/profile/amzn1.account.AHAT57X2NVIZAFMY6JBQVES6DVIQ/ref=cm_cr_getr_d_gw_btm?ie=UTF8)
+#####  _4.0 out of 5 stars_ Decent laptop. Value for money ⟨107⟩
+Reviewed in India on 6 June 2025
+Colour: Office 2024_Blue⟨99⟩ __Verified Purchase⟨100⟩
+For this price bracket this is a very good device
+2 people found this helpful
 Helpful
 Sending feedback...
 __
 Thank you for your feedback.
 __
 Sorry, we failed to record your vote. Please try again
-__Report⟨107⟩
+__Report⟨108⟩
 Showing 0 comments
 #### There was a problem loading comments right now. Please try again later.
 __
 * * *
-  * ![⟨97⟩![](https://images-eu.ssl-images-amazon.com/images/S/amazon-avatars-global/default._CR0,0,1024,1024_SX48_.png) cavexyen](/gp/profile/amzn1.account.AEATRWKIWRZBV4GUIHHLUX5NOREQ/ref=cm_cr_getr_d_gw_btm?ie=UTF8)
-#####  _5.0 out of 5 stars_ Good ⟨108⟩
-Reviewed in India on 27 May 2025
-Colour: Blue | 16GB RAM⟨99⟩
-rGVery good product veery affordable price and good for bedggibers I hope everyone purchase this product Tge RGB lights are good
+  * ![⟨97⟩![](https://images-eu.ssl-images-amazon.com/images/S/amazon-avatars-global/default._CR0,0,1024,1024_SX48_.png) Kashish](/gp/profile/amzn1.account.AEBMTZMTRWQPL6JNM3FN62YW2MRQ/ref=cm_cr_getr_d_gw_btm?ie=UTF8)
+#####  _3.0 out of 5 stars_ Speaker is not good very low volume ⟨109⟩
+Reviewed in India on 26 June 2025
+Colour: Office 2024_Silver⟨110⟩ __Verified Purchase⟨100⟩
+Speaker is very low
+One person found this helpful
 Helpful
 Sending feedback...
 __
 Thank you for your feedback.
 __
 Sorry, we failed to record your vote. Please try again
-__Report⟨109⟩
+__Report⟨111⟩
+Showing 0 comments
+#### There was a problem loading comments right now. Please try again later.
+__
+* * *
+  * ![⟨112⟩![](https://images-eu.ssl-images-amazon.com/images/S/amazon-avatars-global/10230586-fd44-42c9-a5cd-368679a51beb._CR0,0,375,375_SX48_.jpg) Amazon customer](/gp/profile/amzn1.account.AG5KJX7GCAKP5UCTBU6QVDKWIG5Q/ref=cm_cr_getr_d_gw_btm?ie=UTF8)
+#####  _2.0 out of 5 stars_ No fingerprint support ⟨113⟩
+Reviewed in India on 14 July 2025
+Colour: Office 2024_Blue⟨99⟩ __Verified Purchase⟨100⟩
+This does not have fingerprint support
+Helpful
+Sending feedback...
+__
+Thank you for your feedback.
+__
+Sorry, we failed to record your vote. Please try again
+__Report⟨114⟩
+Showing 0 comments
+#### There was a problem loading comments right now. Please try again later.
+__
+* * *
+  * ![⟨112⟩![](https://images-eu.ssl-images-amazon.com/images/S/amazon-avatars-global/default._CR0,0,1024,1024_SX48_.png) suraj wadnere](/gp/profile/amzn1.account.AG2AYZ7BGP6JKYFGWDWHFLLD2MBQ/ref=cm_cr_getr_d_gw_btm?ie=UTF8)
+#####  _1.0 out of 5 stars_ Extremely Disappointed – Received Faulty Laptop ⟨115⟩
+Reviewed in India on 25 May 2025
+Colour: Office 2024_Silver⟨110⟩ __Verified Purchase⟨100⟩
+Extremely Disappointed – Received Faulty Laptop  
+  
+I purchased the Asus VivoBook 15 from Amazon, and after just opening it, I noticed a black patch on the left side of the screen. I tried updating the system and checking for any software issues, but it’s clear the display itself is faulty.  
+  
+For a product that costs nearly ₹50,000, this is completely unacceptable. It's extremely disappointing to receive a defective device right out of the box.  
+  
+I expected better quality and service from both Asus and Amazon. This experience has left me extremely frustrated, and I would not recommend this product to anyone. Please be cautious before buying.
+![Customer image⟨116⟩]
+![⟨97⟩![](https://images-eu.ssl-images-amazon.com/images/S/amazon-avatars-global/default._CR0,0,1024,1024_SX48_.png)suraj wadnere](/gp/profile/amzn1.account.AG2AYZ7BGP6JKYFGWDWHFLLD2MBQ/ref=cm_cr_getr_d_gw_pop?ie=UTF8)
+_1.0 out of 5 stars_
+#####  Extremely Disappointed – Received Faulty Laptop 
+  
+Reviewed in India on 25 May 2025 
+Extremely Disappointed – Received Faulty Laptop  
+  
+I purchased the Asus VivoBook 15 from Amazon, and after just opening it, I noticed a black patch on the left side of the screen. I tried updating the system and checking for any software issues, but it’s clear the display itself is faulty.  
+  
+For a product that costs nearly ₹50,000, this is completely unacceptable. It's extremely disappointing to receive a defective device right out of the box.  
+  
+I expected better quality and service from both Asus and Amazon. This experience has left me extremely frustrated, and I would not recommend this product to anyone. Please be cautious before buying. 
+######  Images in this review 
+![Customer image 1⟨117⟩] ![Customer image 2⟨118⟩]
+![Customer image⟨117⟩__](javascript:void\(0\))![Customer image⟨118⟩__](javascript:void\(0\))
+43 people found this helpful
+Helpful
+Sending feedback...
+__
+Thank you for your feedback.
+__
+Sorry, we failed to record your vote. Please try again
+__Report⟨119⟩
+Showing 0 comments
+#### There was a problem loading comments right now. Please try again later.
+__
+* * *
+  * ![⟨112⟩![](https://images-eu.ssl-images-amazon.com/images/S/amazon-avatars-global/default._CR0,0,1024,1024_SX48_.png) Arif](/gp/profile/amzn1.account.AG2FA4QXY55235MZOGULNGVGIWBQ/ref=cm_cr_getr_d_gw_btm?ie=UTF8)
+#####  _5.0 out of 5 stars_ Ek number ⟨120⟩
+Reviewed in India on 3 June 2025
+Colour: Office 2024_Silver⟨110⟩ __Verified Purchase⟨100⟩
+Maholl
+Helpful
+Sending feedback...
+__
+Thank you for your feedback.
+__
+Sorry, we failed to record your vote. Please try again
+__Report⟨121⟩
+Showing 0 comments
+#### There was a problem loading comments right now. Please try again later.
+__
+* * *
+  * ![⟨112⟩![](https://images-eu.ssl-images-amazon.com/images/S/amazon-avatars-global/default._CR0,0,1024,1024_SX48_.png) porasraj](/gp/profile/amzn1.account.AGKKKFJ2LPY5FNAGLCOUWPNEWK5A/ref=cm_cr_getr_d_gw_btm?ie=UTF8)
+#####  _5.0 out of 5 stars_ Good ⟨122⟩
+Reviewed in India on 30 May 2025
+Colour: Office 2024_Blue⟨99⟩ __Verified Purchase⟨100⟩
+Nice one
+One person found this helpful
+Helpful
+Sending feedback...
+__
+Thank you for your feedback.
+__
+Sorry, we failed to record your vote. Please try again
+__Report⟨123⟩
+Showing 0 comments
+#### There was a problem loading comments right now. Please try again later.
+__
+* * *
+  * ![⟨112⟩![](https://images-eu.ssl-images-amazon.com/images/S/amazon-avatars-global/default._CR0,0,1024,1024_SX48_.png) Amazon Customer](/gp/profile/amzn1.account.AFPMDSGUUVH7I4FEFNLBMTLV5SPQ/ref=cm_cr_getr_d_gw_btm?ie=UTF8)
+#####  _5.0 out of 5 stars_ Workhorse ⟨124⟩
+Reviewed in India on 20 May 2025
+Colour: Office 2024_Blue⟨99⟩ __Verified Purchase⟨100⟩
+Decent product  
+  
+Works as advertised.  
+  
+Given that it is 15 inch it is a bit bulky  
+  
+Display is as expected.
+6 people found this helpful
+Helpful
+Sending feedback...
+__
+Thank you for your feedback.
+__
+Sorry, we failed to record your vote. Please try again
+__Report⟨125⟩
 Showing 0 comments
 #### There was a problem loading comments right now. Please try again later.
 __
@@ -375,90 +494,201 @@ __
 
 
 
-  *  ←Previous page⟨110⟩
-  * Next page→
+  *  ←Previous page⟨126⟩
+  * Next page→⟨127⟩
 
 
 Sponsored ****
-Need customer service? ⟨111⟩
-‹ See all details for ASUS Vivobook 15,13th Gen,Intel Core i3-1315U (Intel UHD /16GB...⟨112⟩
+Need customer service? ⟨128⟩
+‹ See all details for ASUS Vivobook 15,13th Gen,Intel Core i5-13420H(Intel UHD iGPU/16GB...⟨129⟩
   
 
-![](https://m.media-amazon.com/images/G/31/personalization/ybh/loading-4x-gray._CB485916689_.gif)  
----  
+## Discover more
+Page 1 of 1 Start over⟨130⟩
+ _Previous set of slides_⟨130⟩
+  1. ![Figaro Extra Light Tasting Olive Oil- Ideal for All Indian Cooking- Suitable for Deep Frying- Imported from Spain- 500 ml⟨131⟩](/Figaro-Tasting-Cooking-Suitable-Frying/dp/B0BQWKGSMS/ref=pd_rhf_cr_s_bmx_gp_d_sccl_1_1/260-9589215-8162446?pd_rd_w=OTdOC&content-id=amzn1.sym.35f1b9bc-e9a4-4d72-8834-da50e17d0f85&pf_rd_p=35f1b9bc-e9a4-4d72-8834-da50e17d0f85&pf_rd_r=GCE004SGE8PA6BA52RQD&pd_rd_wg=uvFY7&pd_rd_r=cf626cf5-11ae-47e5-8a96-27c1b45b007b&pd_rd_i=B0BQWKGSMS&psc=1)
+ Figaro Extra Light Tasting Olive Oil- Ideal for All Indian Cooking- Suitable for Deep Frying- Imported from Spain- 500 ml⟨132⟩
+ _4.5 out of 5 stars_ 18⟨133⟩
+-42%⟨132⟩₹599.00₹599.00⟨132⟩ (₹1,198.00/l)⟨132⟩
+M.R.P: ₹1,029.00⟨132⟩
+Get it by **Saturday, July 26**
+FREE Delivery by Amazon
+  2. ![The Butternut Co. Olive Oil for cooking | Extra Light Olive oil | Cold Pressed Olive Oil | Imported from Spain | For Indian C⟨134⟩](/Butternut-Co-cooking-Pressed-saueting/dp/B0D22W1TYS/ref=pd_rhf_cr_s_bmx_gp_d_sccl_1_2/260-9589215-8162446?pd_rd_w=OTdOC&content-id=amzn1.sym.35f1b9bc-e9a4-4d72-8834-da50e17d0f85&pf_rd_p=35f1b9bc-e9a4-4d72-8834-da50e17d0f85&pf_rd_r=GCE004SGE8PA6BA52RQD&pd_rd_wg=uvFY7&pd_rd_r=cf626cf5-11ae-47e5-8a96-27c1b45b007b&pd_rd_i=B0D22W1TYS&psc=1)
+The Butternut Co. Olive Oil for cooking | Extra Light Olive oil | Cold Pressed Olive Oil | Imported from Spain | For Indian Cooking, frying and saueting like Pomace Olive Oil | 1 litre pack⟨135⟩
+ _4.3 out of 5 stars_ 74⟨136⟩
+-15%⟨135⟩₹849.00₹849.00⟨135⟩ (₹849.00/l)⟨135⟩
+M.R.P: ₹1,000.00⟨135⟩
+Get it by **Saturday, July 26**
+FREE Delivery by Amazon
+  3. ![Rage Coffee Premium Silk Blend Classic Coffee Powder - 60g | Fuel Your Day with Plant-Based Vitamin Instant Coffee Powder for⟨137⟩](/Rage-Coffee-Premium-Blend-Classic/dp/B0BWMVQWYT/ref=pd_rhf_cr_s_bmx_gp_d_sccl_1_3/260-9589215-8162446?pd_rd_w=OTdOC&content-id=amzn1.sym.35f1b9bc-e9a4-4d72-8834-da50e17d0f85&pf_rd_p=35f1b9bc-e9a4-4d72-8834-da50e17d0f85&pf_rd_r=GCE004SGE8PA6BA52RQD&pd_rd_wg=uvFY7&pd_rd_r=cf626cf5-11ae-47e5-8a96-27c1b45b007b&pd_rd_i=B0BWMVQWYT&psc=1)
+Rage Coffee Premium Silk Blend Classic Coffee Powder - 60g | Fuel Your Day with Plant-Based Vitamin Instant Coffee Powder for Enhanced Fitness, Energy, and Focus | Hot and Cold Coffee⟨138⟩
+ _4.0 out of 5 stars_ 419⟨139⟩
+-8%⟨138⟩₹229.00₹229.00⟨138⟩ (₹381.67/100 g)⟨138⟩
+M.R.P: ₹249.00⟨138⟩
+Get it by **Tuesday, July 29**
+FREE Delivery by Amazon
+  4. ![Borges Character Extra Virgin Olive Oil, 250 ml⟨140⟩](/Borges-Character-Extra-Virgin-Olive/dp/B0DQV8Y5Z5/ref=pd_rhf_cr_s_bmx_gp_d_sccl_1_4/260-9589215-8162446?pd_rd_w=OTdOC&content-id=amzn1.sym.35f1b9bc-e9a4-4d72-8834-da50e17d0f85&pf_rd_p=35f1b9bc-e9a4-4d72-8834-da50e17d0f85&pf_rd_r=GCE004SGE8PA6BA52RQD&pd_rd_wg=uvFY7&pd_rd_r=cf626cf5-11ae-47e5-8a96-27c1b45b007b&pd_rd_i=B0DQV8Y5Z5&psc=1)
+Borges Character Extra Virgin Olive Oil, 250 ml⟨141⟩
+ _4.5 out of 5 stars_ 16⟨142⟩
+-50%⟨141⟩₹399.00₹399.00⟨141⟩ (₹1,596.00/l)⟨141⟩
+Limited time deal
+M.R.P: ₹800.00⟨141⟩
+Get it by **Saturday, July 26**
+FREE Delivery by Amazon
+  5. ![Anveshan Extra Virgin Olive Oil - 1L | Cold Press Extraction | Rich in Vitamin E & K | Perfect for Salad Dressings, Sautéing,⟨143⟩](/Anveshan-Extra-Virgin-Olive-Oil/dp/B0DS597B41/ref=pd_rhf_cr_s_bmx_gp_d_sccl_1_5/260-9589215-8162446?pd_rd_w=OTdOC&content-id=amzn1.sym.35f1b9bc-e9a4-4d72-8834-da50e17d0f85&pf_rd_p=35f1b9bc-e9a4-4d72-8834-da50e17d0f85&pf_rd_r=GCE004SGE8PA6BA52RQD&pd_rd_wg=uvFY7&pd_rd_r=cf626cf5-11ae-47e5-8a96-27c1b45b007b&pd_rd_i=B0DS597B41&psc=1)
+Anveshan Extra Virgin Olive Oil - 1L | Cold Press Extraction | Rich in Vitamin E & K | Perfect for Salad Dressings, Sautéing, Marinades - Imported from Spain⟨144⟩
+ _4.7 out of 5 stars_ 140⟨145⟩
+-35%⟨144⟩₹1,299.00₹1,299.00⟨144⟩ (₹1,299.00/l)⟨144⟩
+M.R.P: ₹2,000.00⟨144⟩
+Get it by **Saturday, July 26**
+FREE Delivery by Amazon
+  6. ![Kinsfolk Buy 2 Extra Virgin Olive Oil - 5 LTR GET 1 Free 500 ml⟨146⟩](/Kinsfolk-Virgin-Olive-Oil-500ml/dp/B07GFLX6QM/ref=pd_rhf_cr_s_bmx_gp_d_sccl_1_6/260-9589215-8162446?pd_rd_w=OTdOC&content-id=amzn1.sym.35f1b9bc-e9a4-4d72-8834-da50e17d0f85&pf_rd_p=35f1b9bc-e9a4-4d72-8834-da50e17d0f85&pf_rd_r=GCE004SGE8PA6BA52RQD&pd_rd_wg=uvFY7&pd_rd_r=cf626cf5-11ae-47e5-8a96-27c1b45b007b&pd_rd_i=B07GFLX6QM&psc=1)
+Kinsfolk Buy 2 Extra Virgin Olive Oil - 5 LTR GET 1 Free 500 ml⟨147⟩
+ _4.6 out of 5 stars_ 128⟨148⟩
+-70%⟨147⟩₹3,003.00₹3,003.00⟨147⟩ (₹546.00/l)⟨147⟩
+M.R.P: ₹9,998.00⟨147⟩
+Get it by **Sunday, July 27**
+FREE Delivery by Amazon
+
+
+ _Next set of slides_⟨130⟩
+## Items you may like
+Page 1 of 1 Start over⟨130⟩
+ _Previous set of slides_⟨130⟩
+  1. ![Skybags Pp Spinner Wheels Splash Cabin Hard Luggage \(55 cm\) | Printed Luggage Trolley with 8 Wheels and in-Built Combination ⟨149⟩](/Skybags-Spinner-Luggage-Printed-Combination/dp/B0F1PJ9LT4/ref=pd_rhf_cr_s_bmx_gp_d_sccl_2_1/260-9589215-8162446?pd_rd_w=7Xi82&content-id=amzn1.sym.35f1b9bc-e9a4-4d72-8834-da50e17d0f85&pf_rd_p=35f1b9bc-e9a4-4d72-8834-da50e17d0f85&pf_rd_r=GCE004SGE8PA6BA52RQD&pd_rd_wg=uvFY7&pd_rd_r=cf626cf5-11ae-47e5-8a96-27c1b45b007b&pd_rd_i=B0F1PJ9LT4&psc=1)
+ Skybags Pp Spinner Wheels Splash Cabin Hard Luggage (55 cm) | Printed Luggage Trolley with 8 Wheels and in-Built Combination Lock | Unisex, Cream⟨150⟩
+ _4.1 out of 5 stars_ 2,675⟨151⟩
+-64%⟨150⟩₹1,900.00₹1,900.00⟨150⟩
+M.R.P: ₹5,266.00⟨150⟩
+Get it by **Saturday, July 26**
+FREE Delivery by Amazon
+  2. ![Genie Polycarbonate Scarlett Trolley Bag Large Size, 79 cms Fresh Mint Hard Side Travel Bag, 8 Wheel Double Spinner Luggage S⟨152⟩](/Genie-Scarlett-Polycarbonate-Hardsided-Rotation/dp/B097PGT9T1/ref=pd_rhf_cr_s_bmx_gp_d_sccl_2_2/260-9589215-8162446?pd_rd_w=7Xi82&content-id=amzn1.sym.35f1b9bc-e9a4-4d72-8834-da50e17d0f85&pf_rd_p=35f1b9bc-e9a4-4d72-8834-da50e17d0f85&pf_rd_r=GCE004SGE8PA6BA52RQD&pd_rd_wg=uvFY7&pd_rd_r=cf626cf5-11ae-47e5-8a96-27c1b45b007b&pd_rd_i=B097PGT9T1&psc=1)
+Genie Polycarbonate Scarlett Trolley Bag Large Size, 79 cms Fresh Mint Hard Side Travel Bag, 8 Wheel Double Spinner Luggage Suitcase for Travelling, Check in Luggage with Trolley, Scratch Resistant⟨153⟩
+ _4.3 out of 5 stars_ 47⟨154⟩
+-64%⟨153⟩₹3,699.00₹3,699.00⟨153⟩
+Limited time deal
+M.R.P: ₹10,167.00⟨153⟩
+Get it by **Wednesday, July 30**
+FREE Delivery by Amazon
+  3. ![Skybags Acrylonitrile Butadiene Styrene \(Abs\) Trooper Large Check-in Size Hard Luggage \(75Cm\) | Luggage Trolley with 4 Spinne⟨155⟩](/Skybags-Acrylonitrile-Butadiene-Resettable-Combination/dp/B0D9P2YPD7/ref=pd_rhf_cr_s_bmx_gp_d_sccl_2_3/260-9589215-8162446?pd_rd_w=7Xi82&content-id=amzn1.sym.35f1b9bc-e9a4-4d72-8834-da50e17d0f85&pf_rd_p=35f1b9bc-e9a4-4d72-8834-da50e17d0f85&pf_rd_r=GCE004SGE8PA6BA52RQD&pd_rd_wg=uvFY7&pd_rd_r=cf626cf5-11ae-47e5-8a96-27c1b45b007b&pd_rd_i=B0D9P2YPD7&psc=1)
+Skybags Acrylonitrile Butadiene Styrene (Abs) Trooper Large Check-in Size Hard Luggage (75Cm) | Luggage Trolley with 4 Spinner Wheels and Resettable Combination Lock | Black⟨156⟩
+ _4.1 out of 5 stars_ 20,480⟨157⟩
+-60%⟨156⟩₹4,359.00₹4,359.00⟨156⟩
+Limited time deal
+M.R.P: ₹10,920.00⟨156⟩
+Get it by **Saturday, July 26**
+FREE Delivery by Amazon
+  4. ![Safari Genius Fortis 55cm Cabin Trolley Bag Hard Case Polycarbonate, 4 Spinner Wheels, 360 Degree Wheeling Carry on Luggage, ⟨158⟩](/Safari-Trolley-Polycarbonate-Wheeling-Suitcase/dp/B0F67GDB92/ref=pd_rhf_cr_s_bmx_gp_d_sccl_2_4/260-9589215-8162446?pd_rd_w=7Xi82&content-id=amzn1.sym.35f1b9bc-e9a4-4d72-8834-da50e17d0f85&pf_rd_p=35f1b9bc-e9a4-4d72-8834-da50e17d0f85&pf_rd_r=GCE004SGE8PA6BA52RQD&pd_rd_wg=uvFY7&pd_rd_r=cf626cf5-11ae-47e5-8a96-27c1b45b007b&pd_rd_i=B0F67GDB92&psc=1)
+Safari Genius Fortis 55cm Cabin Trolley Bag Hard Case Polycarbonate, 4 Spinner Wheels, 360 Degree Wheeling Carry on Luggage, Travel Bag, Suitcase for Travel, Trolley Bags for Travel, Green⟨159⟩
+ _3.8 out of 5 stars_ 57⟨160⟩
+-76%⟨159⟩₹1,699.00₹1,699.00⟨159⟩
+M.R.P: ₹7,199.00⟨159⟩
+Get it by **Saturday, July 26**
+FREE Delivery by Amazon
+  5. ![Skybags 18 Ltrs \(47 Cms\) Standard 3 Compartment Backpack \(Bpvox22Egrn_Green\)⟨161⟩](/Skybags-BPVOX22EGRN-VOXEL-BACKPACK-GREEN/dp/B0B3XY5TMK/ref=pd_rhf_cr_s_bmx_gp_d_sccl_2_5/260-9589215-8162446?pd_rd_w=7Xi82&content-id=amzn1.sym.35f1b9bc-e9a4-4d72-8834-da50e17d0f85&pf_rd_p=35f1b9bc-e9a4-4d72-8834-da50e17d0f85&pf_rd_r=GCE004SGE8PA6BA52RQD&pd_rd_wg=uvFY7&pd_rd_r=cf626cf5-11ae-47e5-8a96-27c1b45b007b&pd_rd_i=B0B3XY5TMK&psc=1)
+Skybags 18 Ltrs (47 Cms) Standard 3 Compartment Backpack (Bpvox22Egrn_Green)⟨162⟩
+_4.0 out of 5 stars_ 866⟨163⟩
+-70%⟨162⟩₹545.00₹545.00⟨162⟩
+Limited time deal
+M.R.P: ₹1,800.00⟨162⟩
+Get it by **Saturday, July 26**
+FREE Delivery by Amazon
+  6. ![Skybags Rhumba 66 Cms Medium Check-in Polyster Soft Sided Luggae/Suitcase/Inline Trolley Bag- Green⟨164⟩](/Skybags-Rhumba-Polyster-Suitcase-Trolley/dp/B0DX6BPTQT/ref=pd_rhf_cr_s_bmx_gp_d_sccl_2_6/260-9589215-8162446?pd_rd_w=7Xi82&content-id=amzn1.sym.35f1b9bc-e9a4-4d72-8834-da50e17d0f85&pf_rd_p=35f1b9bc-e9a4-4d72-8834-da50e17d0f85&pf_rd_r=GCE004SGE8PA6BA52RQD&pd_rd_wg=uvFY7&pd_rd_r=cf626cf5-11ae-47e5-8a96-27c1b45b007b&pd_rd_i=B0DX6BPTQT&psc=1)
+Skybags Rhumba 66 Cms Medium Check-in Polyster Soft Sided Luggae/Suitcase/Inline Trolley Bag- Green⟨165⟩
+ _4.1 out of 5 stars_ 42⟨166⟩
+-66%⟨165⟩₹2,567.57₹2,567.57⟨165⟩
+M.R.P: ₹7,500.00⟨165⟩
+Get it by **Saturday, July 26**
+FREE Delivery by Amazon
+
+
+ _Next set of slides_⟨130⟩
+## Your browsing history
+View or edit your browsing history⟨167⟩
+Page 1 of 1 Start over⟨130⟩
+ _Previous set of slides_⟨130⟩
+  1. ![ASUS TUF Gaming A15, AMD Ryzen 7 7435HS Gaming Laptop\(NVIDIA RTX 3050-4GB/60W TGP/16GB RAM/512GB SSD/FHD/15.6"/144Hz/RGB KB/4⟨168⟩](/ASUS-15-6-inch-GeForce-Graphite-FA506NCR-HN054W/dp/B0D5DFR78J/ref=rvi_d_sccl_1/260-9589215-8162446?pd_rd_w=64oXz&content-id=amzn1.sym.2fa5ef78-d215-4b54-bdb7-fa3d3620b822&pf_rd_p=2fa5ef78-d215-4b54-bdb7-fa3d3620b822&pf_rd_r=GCE004SGE8PA6BA52RQD&pd_rd_wg=EPWey&pd_rd_r=2ae4bbf5-de51-4a31-bfa0-f50e9f635a15&pd_rd_i=B0D5DFR78J&psc=1)
+  2. ![Samsung Galaxy M35 5G \(Daybreak Blue,8GB RAM,128GB Storage\)| Corning Gorilla Glass Victus+| AnTuTu Score 595K+ | Vapour Cooli⟨169⟩](/Samsung-Daybreak-Storage-Corning-Gorilla/dp/B0D7Z8FJZ9/ref=rvi_d_sccl_2/260-9589215-8162446?pd_rd_w=64oXz&content-id=amzn1.sym.2fa5ef78-d215-4b54-bdb7-fa3d3620b822&pf_rd_p=2fa5ef78-d215-4b54-bdb7-fa3d3620b822&pf_rd_r=GCE004SGE8PA6BA52RQD&pd_rd_wg=EPWey&pd_rd_r=2ae4bbf5-de51-4a31-bfa0-f50e9f635a15&pd_rd_i=B0D7Z8FJZ9&psc=1)
+  3. ![Acer Super ZX 5G \(Carbon Black, 6GB RAM, 128GB Storage\) | 120 Hz FHD+ Display | 5000 mAh Ultra-Thin Battery | Dimensity 6300 ⟨170⟩](/Storage-Display-Ultra-Thin-Dimensity-Processor/dp/B0F4DG9ZH5/ref=rvi_d_sccl_3/260-9589215-8162446?pd_rd_w=64oXz&content-id=amzn1.sym.2fa5ef78-d215-4b54-bdb7-fa3d3620b822&pf_rd_p=2fa5ef78-d215-4b54-bdb7-fa3d3620b822&pf_rd_r=GCE004SGE8PA6BA52RQD&pd_rd_wg=EPWey&pd_rd_r=2ae4bbf5-de51-4a31-bfa0-f50e9f635a15&pd_rd_i=B0F4DG9ZH5&psc=1)
+  4. ![Samsung Galaxy M36 5G \(Velvet Black, 8 GB RAM, 128 GB Storage\)| Circle to Search| Google Gemini| Corning Gorilla Glass Victus⟨171⟩](/Samsung-Storage-Enhanced-Unmatched-Nightography/dp/B0FDB9ZCTD/ref=rvi_d_sccl_4/260-9589215-8162446?pd_rd_w=64oXz&content-id=amzn1.sym.2fa5ef78-d215-4b54-bdb7-fa3d3620b822&pf_rd_p=2fa5ef78-d215-4b54-bdb7-fa3d3620b822&pf_rd_r=GCE004SGE8PA6BA52RQD&pd_rd_wg=EPWey&pd_rd_r=2ae4bbf5-de51-4a31-bfa0-f50e9f635a15&pd_rd_i=B0FDB9ZCTD&psc=1)
+  5. ![ASUS Vivobook 15,13th Gen,Intel Core i3-1315U \(Intel UHD /16GB RAM/512GB SSD/FHD/15.6"/60Hz/Win 11/M365 Basic \(1Year\)*/Backli⟨172⟩](/ASUS-Vivobook-i3-1315U-Keyboard-X1504VA-NJ2325WS/dp/B0DTYWCHDQ/ref=rvi_d_sccl_5/260-9589215-8162446?pd_rd_w=64oXz&content-id=amzn1.sym.2fa5ef78-d215-4b54-bdb7-fa3d3620b822&pf_rd_p=2fa5ef78-d215-4b54-bdb7-fa3d3620b822&pf_rd_r=GCE004SGE8PA6BA52RQD&pd_rd_wg=EPWey&pd_rd_r=2ae4bbf5-de51-4a31-bfa0-f50e9f635a15&pd_rd_i=B0DTYWCHDQ&psc=1)
+  6. ![ASUS Vivobook 15,13th Gen,Intel Core i5-13420H\(Intel UHD iGPU/16GB RAM/512GB SSD/FHD/15.6"/60Hz/Backlit Keyboard/Windows 11/M⟨173⟩](/ASUS-Vivobook-i5-13420H-Keyboard-X1502VA-BQ835WS/dp/B0DTYHD5D1/ref=rvi_d_sccl_6/260-9589215-8162446?pd_rd_w=64oXz&content-id=amzn1.sym.2fa5ef78-d215-4b54-bdb7-fa3d3620b822&pf_rd_p=2fa5ef78-d215-4b54-bdb7-fa3d3620b822&pf_rd_r=GCE004SGE8PA6BA52RQD&pd_rd_wg=EPWey&pd_rd_r=2ae4bbf5-de51-4a31-bfa0-f50e9f635a15&pd_rd_i=B0DTYHD5D1&psc=1)
+
+
+ _Next set of slides_⟨130⟩
 Your recently viewed items and featured recommendations 
 ›
- View or edit your browsing history ⟨113⟩
+ View or edit your browsing history ⟨167⟩
 After viewing product detail pages, look here to find an easy way to navigate back to pages you are interested in. 
 Your recently viewed items and featured recommendations 
 › 
- View or edit your browsing history ⟨113⟩
+ View or edit your browsing history ⟨167⟩
 After viewing product detail pages, look here to find an easy way to navigate back to pages you are interested in. 
   
 
 Back to top 
 Get to Know Us
-  * About Amazon⟨114⟩
-  * Careers⟨115⟩
-  * Press Releases⟨116⟩
-  * Amazon Science⟨117⟩
+  * About Amazon⟨174⟩
+  * Careers⟨175⟩
+  * Press Releases⟨176⟩
+  * Amazon Science⟨177⟩
 
 
 Connect with Us
-  * Facebook⟨118⟩
-  * Twitter⟨119⟩
-  * Instagram⟨120⟩
+  * Facebook⟨178⟩
+  * Twitter⟨179⟩
+  * Instagram⟨180⟩
 
 
 Make Money with Us
-  * Sell on Amazon⟨121⟩
-  * Sell under Amazon Accelerator⟨122⟩
-  * Protect and Build Your Brand⟨123⟩
-  * Amazon Global Selling⟨124⟩
-  * Supply to Amazon⟨125⟩
-  * Become an Affiliate⟨126⟩
-  * Fulfilment by Amazon⟨127⟩
-  * Advertise Your Products⟨128⟩
-  * Amazon Pay on Merchants⟨129⟩
+  * Sell on Amazon⟨181⟩
+  * Sell under Amazon Accelerator⟨182⟩
+  * Protect and Build Your Brand⟨183⟩
+  * Amazon Global Selling⟨184⟩
+  * Supply to Amazon⟨185⟩
+  * Become an Affiliate⟨186⟩
+  * Fulfilment by Amazon⟨187⟩
+  * Advertise Your Products⟨188⟩
+  * Amazon Pay on Merchants⟨189⟩
 
 
 Let Us Help You
-  * Your Account⟨130⟩
-  * Returns Centre⟨131⟩
-  * Recalls and Product Safety Alerts⟨132⟩
-  * 100% Purchase Protection⟨133⟩
-  * Amazon App Download⟨134⟩
-  * Help⟨135⟩
+  * Your Account⟨190⟩
+  * Returns Centre⟨191⟩
+  * Recalls and Product Safety Alerts⟨192⟩
+  * 100% Purchase Protection⟨193⟩
+  * Amazon App Download⟨194⟩
+  * Help⟨195⟩
 
 
- ⟨136⟩
- English ⟨137⟩
- India ⟨138⟩
+ ⟨196⟩
+ English ⟨197⟩
+ India ⟨198⟩
   * ##### AbeBooksBooks, art  
-& collectibles⟨139⟩
+& collectibles⟨199⟩
   *   * ##### Amazon Web ServicesScalable Cloud  
-Computing Services⟨140⟩
+Computing Services⟨200⟩
   *   * ##### AudibleDownload  
-Audio Books⟨141⟩
+Audio Books⟨201⟩
   *   * ##### IMDbMovies, TV  
-& Celebrities⟨142⟩
+& Celebrities⟨202⟩
   *   * ##### ShopbopDesigner  
-Fashion Brands⟨143⟩
+Fashion Brands⟨203⟩
 
 
   * #####  Amazon BusinessEverything For  
-Your Business⟨144⟩
+Your Business⟨204⟩
   *   * ##### Prime Now 2-Hour Delivery  
-on Everyday Items⟨145⟩
+on Everyday Items⟨205⟩
   *   * ##### Amazon Prime Music100 million songs, ad-free  
-Over 15 million podcast episodes ⟨146⟩
-  *   * ##### Amazon LiveStream. Shop. Live⟨147⟩
+Over 15 million podcast episodes ⟨206⟩
+  *   * ##### Amazon LiveStream. Shop. Live⟨207⟩
   *   *  
 
 
-  * Conditions of Use & Sale⟨148⟩
-  * Privacy Notice⟨149⟩
-  * Interest-Based Ads⟨150⟩
+  * Conditions of Use & Sale⟨208⟩
+  * Privacy Notice⟨209⟩
+  * Interest-Based Ads⟨210⟩
 
 © 1996-2025, Amazon.com, Inc. or its affiliates
-![](//fls-eu.amazon.in/1/batch/1/OP/A21TJRUUN4KGV:257-8137438-8359168:A0H9P6H3TCBAKRW9535G$uedata=s:%2Frd%2Fuedata%3Fnoscript%26id%3DA0H9P6H3TCBAKRW9535G:0)
+![](//fls-eu.amazon.in/1/batch/1/OP/A21TJRUUN4KGV:260-9589215-8162446:05ZN2E3T4D9H58YN59M0$uedata=s:%2Frd%2Fuedata%3Fnoscript%26id%3D05ZN2E3T4D9H58YN59M0:0)
