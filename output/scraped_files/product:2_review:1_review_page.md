@@ -1,4 +1,4 @@
-Amazon.in:Customer reviews: ASUS Vivobook 15,13th Gen,Intel Core i5-13420H(Intel UHD iGPU/16GB RAM/512GB SSD/FHD/15.6&#34;/60Hz/Backlit Keyboard/Windows 11/M365 Basic (1Year)*/Office Home 2024/Cool Silver/1.70 kg) X1502VA-BQ835WS
+Amazon.in:Customer reviews: ASUS Vivobook 15,13th Gen,Intel Core i5-13420H(Intel UHD iGPU/16GB RAM/512GB SSD/FHD/15.6&#34;/60Hz/Backlit Keyboard/Windows 11/M365 Basic (1Year)*/Office Home 2024/Quiet Blue/1.70 kg) X1502VA-BQ836WS
 ![](https://m.media-amazon.com/images/G/31/gno/sprites/nav-sprite-global-1x-reorg-privacy._CB546381437_.png)
 ## Skip to
   *  Main content ⟨1⟩
@@ -64,26 +64,26 @@ Your Account
   * Today's Deals⟨38⟩
   * Gift Ideas ⟨39⟩
   * Home Improvement⟨40⟩
-  * Health, Household & Personal Care⟨41⟩
-  * Bestsellers⟨42⟩
-  * Browsing History⟨43⟩
+  * Browsing History⟨41⟩
+  * Health, Household & Personal Care⟨42⟩
+  * Bestsellers⟨43⟩
   * Ankit's Amazon.in⟨44⟩
   * Customer Service⟨45⟩
   * Subscribe & Save⟨46⟩
-  * New Releases⟨47⟩
-  * Home & Kitchen⟨48⟩
+  * Home & Kitchen⟨47⟩
+  * New Releases⟨48⟩
   * Grocery & Gourmet Foods⟨49⟩
   * Prime ⟨50⟩
   * Toys & Games⟨51⟩
-  * Audible⟨52⟩
-  * Fashion⟨53⟩
+  * Fashion⟨52⟩
+  *  Electronics ⟨53⟩
   * Mobiles⟨54⟩
-  *  Electronics ⟨55⟩
-  * Computers⟨56⟩
+  * Computers⟨55⟩
+  * Beauty & Personal Care⟨56⟩
   * Pet Supplies⟨57⟩
-  * Beauty & Personal Care⟨58⟩
-  * Baby⟨59⟩
-  * Car & Motorbike⟨60⟩
+  * Baby⟨58⟩
+  * Car & Motorbike⟨59⟩
+  * Sports, Fitness & Outdoors⟨60⟩
 
 
 ![Amazon⟨61⟩]
@@ -95,9 +95,9 @@ Your Account
 ##  ₹0.00 
 ![Amazon Fresh⟨62⟩]
 6 items 
-##  ₹157.00 
+##  ₹158.00 
  Go to Cart ⟨63⟩
-Add items worth ₹342.00 for FREE delivery 
+Add items worth ₹341.00 for FREE delivery 
  Go to Cart ⟨64⟩
   *  ![Fresh Tomato Hybrid, 1kg⟨65⟩ ](/gp/product/B07BG7LB3Q/ref=ewc_pr_img_1?smid=A14ZXHJG8U9TGB&almBrandId=ctnow&psc=1&fpw=alm)
 ₹36.00 
@@ -124,7 +124,7 @@ Total Price: ₹36.00
 __Add to Cart
 ![Delete⟨70⟩]
   *  ![Fresh Cucumber, 500g⟨71⟩ ](/gp/product/B07BG7B7WB/ref=ewc_pr_img_2?smid=A14ZXHJG8U9TGB&almBrandId=ctnow&psc=1&fpw=alm)
-₹24.00 
+₹32.00 
  Fresh Cucumber, 500g ⟨72⟩ was removed from Shopping Cart. 
  Fresh Cucumber, 500g ⟨72⟩ was already removed from Shopping Cart. 
  ⟨67⟩
@@ -142,13 +142,13 @@ __1 Qty:
 Update  
 Qty:1change⟨69⟩)
 Total Price: $000.00
-Total Price: ₹24.00
+Total Price: ₹32.00
   
 
 __Add to Cart
 ![Delete⟨70⟩]
   *  ![Fresh Bhendi \(Lady Finger\), 500g⟨74⟩ ](/gp/product/B07BG7D7HF/ref=ewc_pr_img_3?smid=A14ZXHJG8U9TGB&almBrandId=ctnow&psc=1&fpw=alm)
-₹28.00 
+₹24.00 
  Fresh Bhendi (Lady Finger), 500g ⟨75⟩ was removed from Shopping Cart. 
  Fresh Bhendi (Lady Finger), 500g ⟨75⟩ was already removed from Shopping Cart. 
  ⟨67⟩
@@ -166,7 +166,7 @@ __1 Qty:
 Update  
 Qty:1change⟨69⟩)
 Total Price: $000.00
-Total Price: ₹28.00
+Total Price: ₹24.00
   
 
 __Add to Cart
@@ -196,7 +196,7 @@ Total Price: ₹9.00
 __Add to Cart
 ![Delete⟨70⟩]
   *  ![Fresh Potato, 1kg⟨80⟩ ](/gp/product/B07BG5GZP2/ref=ewc_pr_img_5?smid=A14ZXHJG8U9TGB&almBrandId=ctnow&psc=1&fpw=alm)
-₹33.00 
+₹30.00 
  Fresh Potato, 1kg ⟨81⟩ was removed from Shopping Cart. 
  Fresh Potato, 1kg ⟨81⟩ was already removed from Shopping Cart. 
  ⟨67⟩
@@ -214,7 +214,7 @@ __1 Qty:
 Update  
 Qty:1change⟨69⟩)
 Total Price: $000.00
-Total Price: ₹33.00
+Total Price: ₹30.00
   
 
 __Add to Cart
@@ -252,20 +252,20 @@ __Add to Cart
 
 
 ## Customer reviews
- _3.8 out of 5 stars_
-3.8 out of 5
-79 global ratings
-  *  5 star  4 star  3 star  2 star  1 star  5 star  52%  19%  5%  3%  21%  52%  ⟨87⟩
-  *  5 star  4 star  3 star  2 star  1 star  4 star  52%  19%  5%  3%  21%  19%  ⟨88⟩
-  *  5 star  4 star  3 star  2 star  1 star  3 star  52%  19%  5%  3%  21%  5%  ⟨89⟩
-  *  5 star  4 star  3 star  2 star  1 star  2 star  52%  19%  5%  3%  21%  3%  ⟨90⟩
-  *  5 star  4 star  3 star  2 star  1 star  1 star  52%  19%  5%  3%  21%  21%  ⟨91⟩
+ _3.7 out of 5 stars_
+3.7 out of 5
+81 global ratings
+  *  5 star  4 star  3 star  2 star  1 star  5 star  51%  19%  5%  3%  22%  51%  ⟨87⟩
+  *  5 star  4 star  3 star  2 star  1 star  4 star  51%  19%  5%  3%  22%  19%  ⟨88⟩
+  *  5 star  4 star  3 star  2 star  1 star  3 star  51%  19%  5%  3%  22%  5%  ⟨89⟩
+  *  5 star  4 star  3 star  2 star  1 star  2 star  51%  19%  5%  3%  22%  3%  ⟨90⟩
+  *  5 star  4 star  3 star  2 star  1 star  1 star  51%  19%  5%  3%  22%  22%  ⟨91⟩
 
 
-![ASUS Vivobook 15,13th Gen,Intel Core i5-13420H\(Intel UHD iGPU/16GB RAM/512GB SSD/FHD/15.6&#34;/60Hz/Backlit Keyboard/Windows 11/M365 Basic \(1Year\)*/Office Home 2024/Cool Silver/1.70 kg\) X1502VA-BQ835WS⟨92⟩](/ASUS-Vivobook-i5-13420H-Keyboard-X1502VA-BQ835WS/dp/B0DTYHD5D1/ref=cm_cr_arp_d_pdt_img_top?ie=UTF8)
-# ASUS Vivobook 15,13th Gen,Intel Core i5-13420H(Intel UHD iGPU/16GB RAM/512GB SSD/FHD/15.6"/60Hz/Backlit Keyboard/Windows 11/M365 Basic (1Year)*/Office Home 2024/Cool Silver/1.70 kg) X1502VA-BQ835WS⟨93⟩
+![ASUS Vivobook 15,13th Gen,Intel Core i5-13420H\(Intel UHD iGPU/16GB RAM/512GB SSD/FHD/15.6&#34;/60Hz/Backlit Keyboard/Windows 11/M365 Basic \(1Year\)*/Office Home 2024/Quiet Blue/1.70 kg\) X1502VA-BQ836WS⟨92⟩](/ASUS-Vivobook-i5-13420H-Keyboard-X1502VA-BQ836WS/dp/B0DTYKLHYC/ref=cm_cr_arp_d_pdt_img_top?ie=UTF8)
+# ASUS Vivobook 15,13th Gen,Intel Core i5-13420H(Intel UHD iGPU/16GB RAM/512GB SSD/FHD/15.6"/60Hz/Backlit Keyboard/Windows 11/M365 Basic (1Year)*/Office Home 2024/Quiet Blue/1.70 kg) X1502VA-BQ836WS⟨93⟩
 byASUS⟨94⟩
-  * Colour: Office 2024_Silver
+  * Colour: Office 2024_Blue
   * __Change⟨93⟩
 
 
@@ -284,9 +284,9 @@ Sort by reviews type Top reviewsMost recentTop reviews __
 ### Filter by
 Filter by reviewer type All reviewersVerified purchase onlyAll reviewers __
 Filter by star count All stars5 star only4 star only3 star only2 star only1 star onlyPositive reviewsCritical reviewsAll stars __
-Filter by variant type All variantsColour: Office 2024_SilverAll variants __
+Filter by variant type All variantsColour: Office 2024_BlueAll variants __
 Filter by media type All text, image and video reviewsImage and video reviews onlyAll text, image and video reviews __
-45 customer reviews 
+46 customer reviews 
 * * *
 #### There was a problem filtering reviews. Please reload the page.
 __
@@ -394,12 +394,11 @@ Showing 0 comments
 #### There was a problem loading comments right now. Please try again later.
 __
 * * *
-  * ![⟨107⟩![](https://images-eu.ssl-images-amazon.com/images/S/amazon-avatars-global/caa7996e-34e3-4624-b948-3bd105b307d9._CR0,15,303,303_SX48_.jpg)VIVEKANAND DUBEY](/gp/profile/amzn1.account.AENLLIRCOK26RZRGIFKXFEQK3HNQ/ref=cm_cr_arp_d_gw_btm?ie=UTF8)
-#####  _5.0 out of 5 stars_ Great product ⟨114⟩
-Reviewed in India on 22 June 2025
-Colour: Office 2024_Blue⟨103⟩ __Verified Purchase⟨100⟩
-Great quality, battery life, speed,value for money
-9 people found this helpful
+  * ![⟨107⟩![](https://images-eu.ssl-images-amazon.com/images/S/amazon-avatars-global/default._CR0,0,1024,1024_SX48_.png)Manohar S](/gp/profile/amzn1.account.AHYKJN5PV6RYOMEEDY5LMDYTTAWQ/ref=cm_cr_arp_d_gw_btm?ie=UTF8)
+#####  _1.0 out of 5 stars_ Product quality is not good ⟨114⟩
+Reviewed in India on 18 July 2025
+Colour: Office 2024_Silver⟨99⟩ __Verified Purchase⟨100⟩
+Don't buy this product, I never seen this kind of worst laptop. Don't waste your money
 Helpful
 Sending feedback...
 __
@@ -411,11 +410,12 @@ Showing 0 comments
 #### There was a problem loading comments right now. Please try again later.
 __
 * * *
-  * ![⟨107⟩![](https://images-eu.ssl-images-amazon.com/images/S/amazon-avatars-global/default._CR0,0,1024,1024_SX48_.png)Manohar S](/gp/profile/amzn1.account.AHYKJN5PV6RYOMEEDY5LMDYTTAWQ/ref=cm_cr_arp_d_gw_btm?ie=UTF8)
-#####  _1.0 out of 5 stars_ Product quality is not good ⟨116⟩
-Reviewed in India on 18 July 2025
-Colour: Office 2024_Silver⟨99⟩ __Verified Purchase⟨100⟩
-Don't buy this product, I never seen this kind of worst laptop. Don't waste your money
+  * ![⟨107⟩![](https://images-eu.ssl-images-amazon.com/images/S/amazon-avatars-global/caa7996e-34e3-4624-b948-3bd105b307d9._CR0,15,303,303_SX48_.jpg)VIVEKANAND DUBEY](/gp/profile/amzn1.account.AENLLIRCOK26RZRGIFKXFEQK3HNQ/ref=cm_cr_arp_d_gw_btm?ie=UTF8)
+#####  _5.0 out of 5 stars_ Great product ⟨116⟩
+Reviewed in India on 22 June 2025
+Colour: Office 2024_Blue⟨103⟩ __Verified Purchase⟨100⟩
+Great quality, battery life, speed,value for money
+9 people found this helpful
 Helpful
 Sending feedback...
 __
@@ -427,11 +427,12 @@ Showing 0 comments
 #### There was a problem loading comments right now. Please try again later.
 __
 * * *
-  * ![⟨107⟩![](https://images-eu.ssl-images-amazon.com/images/S/amazon-avatars-global/default._CR0,0,1024,1024_SX48_.png)Garvit](/gp/profile/amzn1.account.AFODAQTWTUWKX4UTVDLRLHZF552Q/ref=cm_cr_arp_d_gw_btm?ie=UTF8)
-#####  _4.0 out of 5 stars_ Light user in this budget for i5 processor go for it ⟨118⟩
-Reviewed in India on 16 July 2025
+  * ![⟨107⟩![](https://images-eu.ssl-images-amazon.com/images/S/amazon-avatars-global/e4fe68b5-8a56-49ce-8cb5-8a24e79bc809._CR0,0,500,500_SX48_.jpg)Shubham Khade](/gp/profile/amzn1.account.AEWWH27JGLQEN73ONTQHEGXWZNGA/ref=cm_cr_arp_d_gw_btm?ie=UTF8)
+#####  _3.0 out of 5 stars_ Battery life is not good ⟨118⟩
+Reviewed in India on 13 July 2025
 Colour: Office 2024_Blue⟨103⟩ __Verified Purchase⟨100⟩
-Good budget laptop for medium to light user. Okish build quality. But price to performance is good.
+Battery life is not good at all. Gets heat instantly. Build quality is good. Speed is also ok ok.
+One person found this helpful
 Helpful
 Sending feedback...
 __
@@ -443,11 +444,17 @@ Showing 0 comments
 #### There was a problem loading comments right now. Please try again later.
 __
 * * *
-  * ![⟨107⟩![](https://images-eu.ssl-images-amazon.com/images/S/amazon-avatars-global/default._CR0,0,1024,1024_SX48_.png)Niyaz Madhar](/gp/profile/amzn1.account.AGRQMTV6QQT3UWDLPT3N5I6TVDRQ/ref=cm_cr_arp_d_gw_btm?ie=UTF8)
-#####  _4.0 out of 5 stars_ Speaker at the bottom, so not loud enough. ⟨120⟩
-Reviewed in India on 20 July 2025
+  * ![⟨107⟩![](https://images-eu.ssl-images-amazon.com/images/S/amazon-avatars-global/default._CR0,0,1024,1024_SX48_.png)C.sai kiran](/gp/profile/amzn1.account.AGHT73RXFY6T6USWNJZTKIJ5QAYQ/ref=cm_cr_arp_d_gw_btm?ie=UTF8)
+#####  _4.0 out of 5 stars_ Setup problem -- solved 😀 ⟨120⟩
+Reviewed in India on 27 June 2025
 Colour: Office 2024_Blue⟨103⟩ __Verified Purchase⟨100⟩
-Speed is ok. Speaker is not loud enough because it is at the bottom of the laptop. Overall satisfied.
+When I bought the laptop I have got an issue at the setup I have resolved it I will explain the process step by step  
+1. While switching on the laptop just hold F2 key for 15sec.  
+2. Just a window appears and in that at the top right corner you will find a wifi please do connect a strong wifi connection.  
+3. Just press F10 or you can see the option on screen at the left down to save it.  
+4. Final step just switch on the laptop and setup.  
+Before these I have also got tarck pad issue but it got resolved after these issue
+7 people found this helpful
 Helpful
 Sending feedback...
 __
@@ -459,17 +466,11 @@ Showing 0 comments
 #### There was a problem loading comments right now. Please try again later.
 __
 * * *
-  * ![⟨107⟩![](https://images-eu.ssl-images-amazon.com/images/S/amazon-avatars-global/default._CR0,0,1024,1024_SX48_.png)C.sai kiran](/gp/profile/amzn1.account.AGHT73RXFY6T6USWNJZTKIJ5QAYQ/ref=cm_cr_arp_d_gw_btm?ie=UTF8)
-#####  _4.0 out of 5 stars_ Setup problem -- solved 😀 ⟨122⟩
-Reviewed in India on 27 June 2025
+  * ![⟨107⟩![](https://images-eu.ssl-images-amazon.com/images/S/amazon-avatars-global/default._CR0,0,1024,1024_SX48_.png)Niyaz Madhar](/gp/profile/amzn1.account.AGRQMTV6QQT3UWDLPT3N5I6TVDRQ/ref=cm_cr_arp_d_gw_btm?ie=UTF8)
+#####  _4.0 out of 5 stars_ Speaker at the bottom, so not loud enough. ⟨122⟩
+Reviewed in India on 20 July 2025
 Colour: Office 2024_Blue⟨103⟩ __Verified Purchase⟨100⟩
-When I bought the laptop I have got an issue at the setup I have resolved it I will explain the process step by step  
-1. While switching on the laptop just hold F2 key for 15sec.  
-2. Just a window appears and in that at the top right corner you will find a wifi please do connect a strong wifi connection.  
-3. Just press F10 or you can see the option on screen at the left down to save it.  
-4. Final step just switch on the laptop and setup.  
-Before these I have also got tarck pad issue but it got resolved after these issue
-7 people found this helpful
+Speed is ok. Speaker is not loud enough because it is at the bottom of the laptop. Overall satisfied.
 Helpful
 Sending feedback...
 __
@@ -570,4 +571,4 @@ Over 15 million podcast episodes ⟨160⟩
   * Interest-Based Ads⟨164⟩
 
 © 1996-2025, Amazon.com, Inc. or its affiliates
-![](//fls-eu.amazon.in/1/batch/1/OP/A21TJRUUN4KGV:260-9589215-8162446:8XWYCWX59PP2T7SNV40B$uedata=s:%2Frd%2Fuedata%3Fnoscript%26id%3D8XWYCWX59PP2T7SNV40B:0)
+![](//fls-eu.amazon.in/1/batch/1/OP/A21TJRUUN4KGV:260-2394662-2709061:7CFY466NSF6JBT910KC8$uedata=s:%2Frd%2Fuedata%3Fnoscript%26id%3D7CFY466NSF6JBT910KC8:0)

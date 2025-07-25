@@ -1,4 +1,4 @@
-Amazon.in:Customer reviews: ASUS Vivobook 15,13th Gen,Intel Core i5-13420H(Intel UHD iGPU/16GB RAM/512GB SSD/FHD/15.6&#34;/60Hz/Backlit Keyboard/Windows 11/M365 Basic (1Year)*/Office Home 2024/Quiet Blue/1.70 kg) X1502VA-BQ836WS
+Amazon.in:Customer reviews: ASUS Vivobook 16X 12th Gen, Intel Core i5-12500H Creator/Gaming Laptop(NVIDIA RTX 2050-4GB/16GB/512GB/FHD+/16.0&#34;/144Hz/Windows 11/M365 Basic (1Year)*/Office Home 2024/Silver/1.67 kg) K3605ZF-RP458WS
 ![](https://m.media-amazon.com/images/G/31/gno/sprites/nav-sprite-global-1x-reorg-privacy._CB546381437_.png)
 ## Skip to
   *  Main content ⟨1⟩
@@ -64,26 +64,26 @@ Your Account
   * Today's Deals⟨38⟩
   * Gift Ideas ⟨39⟩
   * Home Improvement⟨40⟩
-  * Health, Household & Personal Care⟨41⟩
-  * Bestsellers⟨42⟩
-  * Browsing History⟨43⟩
+  * Browsing History⟨41⟩
+  * Health, Household & Personal Care⟨42⟩
+  * Bestsellers⟨43⟩
   * Ankit's Amazon.in⟨44⟩
   * Customer Service⟨45⟩
   * Subscribe & Save⟨46⟩
-  * New Releases⟨47⟩
-  * Home & Kitchen⟨48⟩
+  * Home & Kitchen⟨47⟩
+  * New Releases⟨48⟩
   * Grocery & Gourmet Foods⟨49⟩
   * Prime ⟨50⟩
   * Toys & Games⟨51⟩
-  * Audible⟨52⟩
-  * Fashion⟨53⟩
+  * Fashion⟨52⟩
+  *  Electronics ⟨53⟩
   * Mobiles⟨54⟩
-  *  Electronics ⟨55⟩
-  * Computers⟨56⟩
+  * Computers⟨55⟩
+  * Beauty & Personal Care⟨56⟩
   * Pet Supplies⟨57⟩
-  * Beauty & Personal Care⟨58⟩
-  * Baby⟨59⟩
-  * Car & Motorbike⟨60⟩
+  * Baby⟨58⟩
+  * Car & Motorbike⟨59⟩
+  * Sports, Fitness & Outdoors⟨60⟩
 
 
 ![Amazon⟨61⟩]
@@ -95,9 +95,9 @@ Your Account
 ##  ₹0.00 
 ![Amazon Fresh⟨62⟩]
 6 items 
-##  ₹157.00 
+##  ₹158.00 
  Go to Cart ⟨63⟩
-Add items worth ₹342.00 for FREE delivery 
+Add items worth ₹341.00 for FREE delivery 
  Go to Cart ⟨64⟩
   *  ![Fresh Tomato Hybrid, 1kg⟨65⟩ ](/gp/product/B07BG7LB3Q/ref=ewc_pr_img_1?smid=A14ZXHJG8U9TGB&almBrandId=ctnow&psc=1&fpw=alm)
 ₹36.00 
@@ -124,7 +124,7 @@ Total Price: ₹36.00
 __Add to Cart
 ![Delete⟨70⟩]
   *  ![Fresh Cucumber, 500g⟨71⟩ ](/gp/product/B07BG7B7WB/ref=ewc_pr_img_2?smid=A14ZXHJG8U9TGB&almBrandId=ctnow&psc=1&fpw=alm)
-₹24.00 
+₹32.00 
  Fresh Cucumber, 500g ⟨72⟩ was removed from Shopping Cart. 
  Fresh Cucumber, 500g ⟨72⟩ was already removed from Shopping Cart. 
  ⟨67⟩
@@ -142,13 +142,13 @@ __1 Qty:
 Update  
 Qty:1change⟨69⟩)
 Total Price: $000.00
-Total Price: ₹24.00
+Total Price: ₹32.00
   
 
 __Add to Cart
 ![Delete⟨70⟩]
   *  ![Fresh Bhendi \(Lady Finger\), 500g⟨74⟩ ](/gp/product/B07BG7D7HF/ref=ewc_pr_img_3?smid=A14ZXHJG8U9TGB&almBrandId=ctnow&psc=1&fpw=alm)
-₹28.00 
+₹24.00 
  Fresh Bhendi (Lady Finger), 500g ⟨75⟩ was removed from Shopping Cart. 
  Fresh Bhendi (Lady Finger), 500g ⟨75⟩ was already removed from Shopping Cart. 
  ⟨67⟩
@@ -166,7 +166,7 @@ __1 Qty:
 Update  
 Qty:1change⟨69⟩)
 Total Price: $000.00
-Total Price: ₹28.00
+Total Price: ₹24.00
   
 
 __Add to Cart
@@ -196,7 +196,7 @@ Total Price: ₹9.00
 __Add to Cart
 ![Delete⟨70⟩]
   *  ![Fresh Potato, 1kg⟨80⟩ ](/gp/product/B07BG5GZP2/ref=ewc_pr_img_5?smid=A14ZXHJG8U9TGB&almBrandId=ctnow&psc=1&fpw=alm)
-₹33.00 
+₹30.00 
  Fresh Potato, 1kg ⟨81⟩ was removed from Shopping Cart. 
  Fresh Potato, 1kg ⟨81⟩ was already removed from Shopping Cart. 
  ⟨67⟩
@@ -214,7 +214,7 @@ __1 Qty:
 Update  
 Qty:1change⟨69⟩)
 Total Price: $000.00
-Total Price: ₹33.00
+Total Price: ₹30.00
   
 
 __Add to Cart
@@ -246,7 +246,7 @@ __Add to Cart
 
 
 # 
-  * ASUS Vivobook 15,13th Gen,Intel Core i5-13420H(Intel UHD iGPU/16GB...⟨86⟩
+  * ASUS Vivobook 16X 12th Gen, Intel Core i5-12500H Creator/Gaming...⟨86⟩
   * ›
   * Customer reviews
 
@@ -254,21 +254,17 @@ __Add to Cart
 ## Customer reviews
  _3.8 out of 5 stars_
 3.8 out of 5
-79 global ratings
-  *  5 star  4 star  3 star  2 star  1 star  5 star  52%  19%  5%  3%  21%  52%  ⟨87⟩
-  *  5 star  4 star  3 star  2 star  1 star  4 star  52%  19%  5%  3%  21%  19%  ⟨88⟩
-  *  5 star  4 star  3 star  2 star  1 star  3 star  52%  19%  5%  3%  21%  5%  ⟨89⟩
-  *  5 star  4 star  3 star  2 star  1 star  2 star  52%  19%  5%  3%  21%  3%  ⟨90⟩
-  *  5 star  4 star  3 star  2 star  1 star  1 star  52%  19%  5%  3%  21%  21%  ⟨91⟩
+43 global ratings
+  *  5 star  4 star  3 star  2 star  1 star  5 star  45%  26%  13%  3%  13%  45%  ⟨87⟩
+  *  5 star  4 star  3 star  2 star  1 star  4 star  45%  26%  13%  3%  13%  26%  ⟨88⟩
+  *  5 star  4 star  3 star  2 star  1 star  3 star  45%  26%  13%  3%  13%  13%  ⟨89⟩
+  *  5 star  4 star  3 star  2 star  1 star  2 star  45%  26%  13%  3%  13%  3%  ⟨90⟩
+  *  5 star  4 star  3 star  2 star  1 star  1 star  45%  26%  13%  3%  13%  13%  ⟨91⟩
 
 
-![ASUS Vivobook 15,13th Gen,Intel Core i5-13420H\(Intel UHD iGPU/16GB RAM/512GB SSD/FHD/15.6&#34;/60Hz/Backlit Keyboard/Windows 11/M365 Basic \(1Year\)*/Office Home 2024/Quiet Blue/1.70 kg\) X1502VA-BQ836WS⟨92⟩](/ASUS-Vivobook-i5-13420H-Keyboard-X1502VA-BQ836WS/dp/B0DTYKLHYC/ref=cm_cr_arp_d_pdt_img_top?ie=UTF8)
-# ASUS Vivobook 15,13th Gen,Intel Core i5-13420H(Intel UHD iGPU/16GB RAM/512GB SSD/FHD/15.6"/60Hz/Backlit Keyboard/Windows 11/M365 Basic (1Year)*/Office Home 2024/Quiet Blue/1.70 kg) X1502VA-BQ836WS⟨93⟩
+![ASUS Vivobook 16X 12th Gen, Intel Core i5-12500H Creator/Gaming Laptop\(NVIDIA RTX 2050-4GB/16GB/512GB/FHD+/16.0&#34;/144Hz/Windows 11/M365 Basic \(1Year\)*/Office Home 2024/Silver/1.67 kg\) K3605ZF-RP458WS⟨92⟩](/ASUS-Vivobook-i5-12500H-2050-4GB-K3605ZF-RP458WS/dp/B0DS2DQD9L/ref=cm_cr_arp_d_pdt_img_top?ie=UTF8)
+# ASUS Vivobook 16X 12th Gen, Intel Core i5-12500H Creator/Gaming Laptop(NVIDIA RTX 2050-4GB/16GB/512GB/FHD+/16.0"/144Hz/Windows 11/M365 Basic (1Year)*/Office Home 2024/Silver/1.67 kg) K3605ZF-RP458WS⟨93⟩
 byASUS⟨94⟩
-  * Colour: Office 2024_Blue
-  * __Change⟨93⟩
-
-
 Write a review⟨95⟩
 __How are ratings calculated?⟨69⟩)
 To calculate the overall star rating and percentage breakdown by star, we don’t use a simple average. Instead, our system considers things like how recent a review is and if the reviewer bought the item on Amazon. It also analyses reviews to verify trustworthiness. 
@@ -284,72 +280,85 @@ Sort by reviews type Top reviewsMost recentTop reviews __
 ### Filter by
 Filter by reviewer type All reviewersVerified purchase onlyAll reviewers __
 Filter by star count All stars5 star only4 star only3 star only2 star only1 star onlyPositive reviewsCritical reviewsAll stars __
-Filter by variant type All variantsColour: Office 2024_BlueAll variants __
 Filter by media type All text, image and video reviewsImage and video reviews onlyAll text, image and video reviews __
-45 customer reviews 
+24 customer reviews 
 * * *
 #### There was a problem filtering reviews. Please reload the page.
 __
 ### From India
-  * ![⟨97⟩![](https://images-eu.ssl-images-amazon.com/images/S/amazon-avatars-global/default._CR0,0,1024,1024_SX48_.png)VM Electrical Enterprises](/gp/profile/amzn1.account.AFGQCM5NN7GD7TVZT37REJYIZNTA/ref=cm_cr_arp_d_gw_btm?ie=UTF8)
-#####  _5.0 out of 5 stars_ Overall, better compare to other makes ⟨98⟩
-Reviewed in India on 9 July 2025
-Colour: Office 2024_Silver⟨99⟩ __Verified Purchase⟨100⟩
-good  
-display quality good  
-Processor speed good  
-value for money
-One person found this helpful
+  * ![⟨97⟩![](https://images-eu.ssl-images-amazon.com/images/S/amazon-avatars-global/default._CR0,0,1024,1024_SX48_.png)Nitesh Shetty](/gp/profile/amzn1.account.AH7BK5PDJWYWMXYWABQOPBD4FWVA/ref=cm_cr_arp_d_gw_btm?ie=UTF8)
+#####  _5.0 out of 5 stars_ Value for money ⟨98⟩
+Reviewed in India on 20 June 2025
+Verified Purchase⟨99⟩
+The performance is good. Battery life is decent for a non-gamer. Sound quality is good. Display quality is good. Overall value for money.
+6 people found this helpful
 Helpful
 Sending feedback...
 __
 Thank you for your feedback.
 __
 Sorry, we failed to record your vote. Please try again
-__Report⟨101⟩
+__Report⟨100⟩
 Showing 0 comments
 #### There was a problem loading comments right now. Please try again later.
 __
 * * *
-  * ![⟨97⟩![](https://images-eu.ssl-images-amazon.com/images/S/amazon-avatars-global/default._CR0,0,1024,1024_SX48_.png)Stalon T.](/gp/profile/amzn1.account.AGYUMWA7GX62OYHPS2UNNVLAAOYA/ref=cm_cr_arp_d_gw_btm?ie=UTF8)
-##### _1.0 out of 5 stars_ Defective Product ⟨102⟩
-Reviewed in India on 13 July 2025
-Colour: Office 2024_Blue⟨103⟩ __Verified Purchase⟨100⟩
-Defective product issue on booting up it for the first time. Now as per policy i need to contact Asus myself and resolve this issue even though they sent me a faulty product.
-![Customer image⟨104⟩]
-![⟨97⟩![](https://images-eu.ssl-images-amazon.com/images/S/amazon-avatars-global/default._CR0,0,1024,1024_SX48_.png)Stalon T.](/gp/profile/amzn1.account.AGYUMWA7GX62OYHPS2UNNVLAAOYA/ref=cm_cr_arp_d_gw_pop?ie=UTF8)
-_1.0 out of 5 stars_
-#####  Defective Product 
-  
-Reviewed in India on 13 July 2025 
-Defective product issue on booting up it for the first time. Now as per policy i need to contact Asus myself and resolve this issue even though they sent me a faulty product. 
-######  Images in this review 
-![Customer image 1⟨105⟩]
-![Customer image⟨105⟩__](javascript:void\(0\))
-One person found this helpful
+  * ![⟨97⟩![](https://images-eu.ssl-images-amazon.com/images/S/amazon-avatars-global/default._CR0,0,1024,1024_SX48_.png)Krishna Ram Phaiju](/gp/profile/amzn1.account.AHYETO3GDLTFLGNWEIIMCECHO52Q/ref=cm_cr_arp_d_gw_btm?ie=UTF8)
+#####  _4.0 out of 5 stars_ From Someone Who wants a Professional and gaming laptop (decent gaming) ⟨101⟩
+Reviewed in India on 8 May 2025
+Verified Purchase⟨99⟩
+Heating for the first time booting and using after 3 hrs of charging the you can experience a less heat emmission, Overall very fast and powerful laptop everything packed in one. Battery life is decent meaning can run 4/- hrs of back-up with surfing internet, video playback. I use multiple windows at once and it is nice. Camera is decent, The keyboard is lovely, Sound Quality wise it is good, if you watch News not to watch movies or really enjoy movies recommend to use headphones or Speakers as this has Spatial Audio. So I'm enjoying that with my headphone and Speakers.
+4 people found this helpful
 Helpful
 Sending feedback...
 __
 Thank you for your feedback.
 __
 Sorry, we failed to record your vote. Please try again
-__Report⟨106⟩
+__Report⟨102⟩
 Showing 0 comments
 #### There was a problem loading comments right now. Please try again later.
 __
 * * *
-  * ![⟨107⟩![](https://images-eu.ssl-images-amazon.com/images/S/amazon-avatars-global/default._CR0,0,1024,1024_SX48_.png)Amazon Customer](/gp/profile/amzn1.account.AFWXIKSCIBQJWORPTQ3GZQSAMHUA/ref=cm_cr_arp_d_gw_btm?ie=UTF8)
-#####  _4.0 out of 5 stars_ Value for money with few flaws ⟨108⟩
-Reviewed in India on 16 July 2025
-Colour: Office 2024_Blue⟨103⟩ __Verified Purchase⟨100⟩
-Good and value for money.  
-Super fast .  
-Get heat because of H Processor.  
-Battery and display is decent.  
-Has only Integrated GPU. Not Iris GPU as like it printed in laptop.  
-No fingerprint sensor.  
-Build is ok and plastic feel.
-One person found this helpful
+  * ![⟨97⟩![](https://images-eu.ssl-images-amazon.com/images/S/amazon-avatars-global/default._CR0,0,1024,1024_SX48_.png)akil](/gp/profile/amzn1.account.AG7S3M6Y5YOUVZV7WXOUHXX7RSYQ/ref=cm_cr_arp_d_gw_btm?ie=UTF8)
+#####  _5.0 out of 5 stars_ Good laptop in this price range ⟨103⟩
+Reviewed in India on 25 June 2025
+Verified Purchase⟨99⟩
+Good laptop in this price segment compared to other companies
+2 people found this helpful
+Helpful
+Sending feedback...
+__
+Thank you for your feedback.
+__
+Sorry, we failed to record your vote. Please try again
+__Report⟨104⟩
+Showing 0 comments
+#### There was a problem loading comments right now. Please try again later.
+__
+* * *
+  * ![⟨105⟩![](https://images-eu.ssl-images-amazon.com/images/S/amazon-avatars-global/default._CR0,0,1024,1024_SX48_.png)Amazon Customer](/gp/profile/amzn1.account.AG744WILIYQJXEASPDPQW2VVE5TA/ref=cm_cr_arp_d_gw_btm?ie=UTF8)
+#####  _1.0 out of 5 stars_ Bad ⟨106⟩
+Reviewed in India on 24 June 2025
+Verified Purchase⟨99⟩
+Damaged product. Dents and scratches
+5 people found this helpful
+Helpful
+Sending feedback...
+__
+Thank you for your feedback.
+__
+Sorry, we failed to record your vote. Please try again
+__Report⟨107⟩
+Showing 0 comments
+#### There was a problem loading comments right now. Please try again later.
+__
+* * *
+  * ![⟨105⟩![](https://images-eu.ssl-images-amazon.com/images/S/amazon-avatars-global/default._CR0,0,1024,1024_SX48_.png)Ahmad Nabeel](/gp/profile/amzn1.account.AEQLL2S3AV4N7Y3JJY3RMJ7P3S3A/ref=cm_cr_arp_d_gw_btm?ie=UTF8)
+#####  _3.0 out of 5 stars_ Slow heat dissipation ⟨108⟩
+Reviewed in India on 10 July 2025
+Verified Purchase⟨99⟩
+Amazing product with nice display. Little larger in size. Heart dissipation is not upto the par.
 Helpful
 Sending feedback...
 __
@@ -361,11 +370,12 @@ Showing 0 comments
 #### There was a problem loading comments right now. Please try again later.
 __
 * * *
-  * ![⟨107⟩![](https://images-eu.ssl-images-amazon.com/images/S/amazon-avatars-global/default._CR0,0,1024,1024_SX48_.png)Amazon Customer](/gp/profile/amzn1.account.AGF5GRFYI2MX2PPZVLBCTEWLENXA/ref=cm_cr_arp_d_gw_btm?ie=UTF8)
-#####  _5.0 out of 5 stars_ Very good product ⟨110⟩
-Reviewed in India on 14 July 2025
-Colour: Office 2024_Silver⟨99⟩ __Verified Purchase⟨100⟩
-Its very good i love it very much
+  * ![⟨105⟩![](https://images-eu.ssl-images-amazon.com/images/S/amazon-avatars-global/default._CR0,0,1024,1024_SX48_.png)Kasi Jaswañth](/gp/profile/amzn1.account.AEKOVVO6LAXNJVDSCNIKRFBYD63A/ref=cm_cr_arp_d_gw_btm?ie=UTF8)
+#####  _5.0 out of 5 stars_ Too good ⟨110⟩
+Reviewed in India on 6 July 2025
+Verified Purchase⟨99⟩
+Absolute best
+One person found this helpful
 Helpful
 Sending feedback...
 __
@@ -377,29 +387,24 @@ Showing 0 comments
 #### There was a problem loading comments right now. Please try again later.
 __
 * * *
-  * ![⟨107⟩![](https://images-eu.ssl-images-amazon.com/images/S/amazon-avatars-global/default._CR0,0,1024,1024_SX48_.png)Dheeraj Girase](/gp/profile/amzn1.account.AG4TEFPDGQAJSF2KDKWHD6DG3RNA/ref=cm_cr_arp_d_gw_btm?ie=UTF8)
-#####  _5.0 out of 5 stars_ Loved it ⟨112⟩
-Reviewed in India on 6 July 2025
-Colour: Office 2024_Blue⟨103⟩ __Verified Purchase⟨100⟩
-Worth every penny
-2 people found this helpful
-Helpful
-Sending feedback...
-__
-Thank you for your feedback.
-__
-Sorry, we failed to record your vote. Please try again
-__Report⟨113⟩
-Showing 0 comments
-#### There was a problem loading comments right now. Please try again later.
-__
-* * *
-  * ![⟨107⟩![](https://images-eu.ssl-images-amazon.com/images/S/amazon-avatars-global/caa7996e-34e3-4624-b948-3bd105b307d9._CR0,15,303,303_SX48_.jpg)VIVEKANAND DUBEY](/gp/profile/amzn1.account.AENLLIRCOK26RZRGIFKXFEQK3HNQ/ref=cm_cr_arp_d_gw_btm?ie=UTF8)
-#####  _5.0 out of 5 stars_ Great product ⟨114⟩
-Reviewed in India on 22 June 2025
-Colour: Office 2024_Blue⟨103⟩ __Verified Purchase⟨100⟩
-Great quality, battery life, speed,value for money
-9 people found this helpful
+  * ![⟨105⟩![](https://images-eu.ssl-images-amazon.com/images/S/amazon-avatars-global/default._CR0,0,1024,1024_SX48_.png)Sriram](/gp/profile/amzn1.account.AEMDNNADKDT6CYTIQWUD5IDU5FBQ/ref=cm_cr_arp_d_gw_btm?ie=UTF8)
+#####  _4.0 out of 5 stars_ Nice laptop with good specifications and affordable price; expect minor issues with paint quality ⟨112⟩
+Reviewed in India on 10 June 2025
+Verified Purchase⟨99⟩
+Good laptop and one of the lightweight gaming laptops in such a low price of ₹53000  
+One point less because the paint on the side of the keys in the keyboard has already started to wear off. I can understand the cost cutting but for a few this would be their daily driver and they would use for many years.
+![Customer image⟨113⟩]
+![⟨97⟩![](https://images-eu.ssl-images-amazon.com/images/S/amazon-avatars-global/default._CR0,0,1024,1024_SX48_.png)Sriram](/gp/profile/amzn1.account.AEMDNNADKDT6CYTIQWUD5IDU5FBQ/ref=cm_cr_arp_d_gw_pop?ie=UTF8)
+_4.0 out of 5 stars_
+#####  Nice laptop with good specifications and affordable price; expect minor issues with paint quality 
+  
+Reviewed in India on 10 June 2025 
+Good laptop and one of the lightweight gaming laptops in such a low price of ₹53000  
+One point less because the paint on the side of the keys in the keyboard has already started to wear off. I can understand the cost cutting but for a few this would be their daily driver and they would use for many years. 
+######  Images in this review 
+![Customer image 1⟨114⟩]
+![Customer image⟨114⟩__](javascript:void\(0\))
+7 people found this helpful
 Helpful
 Sending feedback...
 __
@@ -411,11 +416,12 @@ Showing 0 comments
 #### There was a problem loading comments right now. Please try again later.
 __
 * * *
-  * ![⟨107⟩![](https://images-eu.ssl-images-amazon.com/images/S/amazon-avatars-global/default._CR0,0,1024,1024_SX48_.png)Manohar S](/gp/profile/amzn1.account.AHYKJN5PV6RYOMEEDY5LMDYTTAWQ/ref=cm_cr_arp_d_gw_btm?ie=UTF8)
-#####  _1.0 out of 5 stars_ Product quality is not good ⟨116⟩
-Reviewed in India on 18 July 2025
-Colour: Office 2024_Silver⟨99⟩ __Verified Purchase⟨100⟩
-Don't buy this product, I never seen this kind of worst laptop. Don't waste your money
+  * ![⟨105⟩![](https://images-eu.ssl-images-amazon.com/images/S/amazon-avatars-global/default._CR0,0,1024,1024_SX48_.png)Krish chauhan](/gp/profile/amzn1.account.AFHKDE5PJOILBCEII2HC76P6EQEA/ref=cm_cr_arp_d_gw_btm?ie=UTF8)
+#####  _5.0 out of 5 stars_ An all rounder ⟨116⟩
+Reviewed in India on 27 June 2025
+Verified Purchase⟨99⟩
+just go for it
+One person found this helpful
 Helpful
 Sending feedback...
 __
@@ -427,56 +433,47 @@ Showing 0 comments
 #### There was a problem loading comments right now. Please try again later.
 __
 * * *
-  * ![⟨107⟩![](https://images-eu.ssl-images-amazon.com/images/S/amazon-avatars-global/default._CR0,0,1024,1024_SX48_.png)Garvit](/gp/profile/amzn1.account.AFODAQTWTUWKX4UTVDLRLHZF552Q/ref=cm_cr_arp_d_gw_btm?ie=UTF8)
-#####  _4.0 out of 5 stars_ Light user in this budget for i5 processor go for it ⟨118⟩
-Reviewed in India on 16 July 2025
-Colour: Office 2024_Blue⟨103⟩ __Verified Purchase⟨100⟩
-Good budget laptop for medium to light user. Okish build quality. But price to performance is good.
+  * ![⟨105⟩![](https://images-eu.ssl-images-amazon.com/images/S/amazon-avatars-global/default._CR0,0,1024,1024_SX48_.png)Abhishek](/gp/profile/amzn1.account.AGKSHWNYQ3WXWU3B4UZHGVRGSIDA/ref=cm_cr_arp_d_gw_btm?ie=UTF8)
+#####  _4.0 out of 5 stars_ Performance ⟨118⟩
+Reviewed in India on 15 June 2025
+Verified Purchase⟨99⟩
+Have an incredible Experience,  
+All the things are working properly good performance than expections.
+![Customer image⟨113⟩]
+![⟨97⟩![](https://images-eu.ssl-images-amazon.com/images/S/amazon-avatars-global/default._CR0,0,1024,1024_SX48_.png)Abhishek](/gp/profile/amzn1.account.AGKSHWNYQ3WXWU3B4UZHGVRGSIDA/ref=cm_cr_arp_d_gw_pop?ie=UTF8)
+_4.0 out of 5 stars_
+#####  Performance 
+  
+Reviewed in India on 15 June 2025 
+Have an incredible Experience,  
+All the things are working properly good performance than expections. 
+######  Images in this review 
+![Customer image 1⟨119⟩]
+![Customer image⟨119⟩__](javascript:void\(0\))
+5 people found this helpful
 Helpful
 Sending feedback...
 __
 Thank you for your feedback.
 __
 Sorry, we failed to record your vote. Please try again
-__Report⟨119⟩
+__Report⟨120⟩
 Showing 0 comments
 #### There was a problem loading comments right now. Please try again later.
 __
 * * *
-  * ![⟨107⟩![](https://images-eu.ssl-images-amazon.com/images/S/amazon-avatars-global/default._CR0,0,1024,1024_SX48_.png)Niyaz Madhar](/gp/profile/amzn1.account.AGRQMTV6QQT3UWDLPT3N5I6TVDRQ/ref=cm_cr_arp_d_gw_btm?ie=UTF8)
-#####  _4.0 out of 5 stars_ Speaker at the bottom, so not loud enough. ⟨120⟩
-Reviewed in India on 20 July 2025
-Colour: Office 2024_Blue⟨103⟩ __Verified Purchase⟨100⟩
-Speed is ok. Speaker is not loud enough because it is at the bottom of the laptop. Overall satisfied.
+  * ![⟨105⟩![](https://images-eu.ssl-images-amazon.com/images/S/amazon-avatars-global/default._CR0,0,1024,1024_SX48_.png)Praveen](/gp/profile/amzn1.account.AF7XQLM4JXCA6EPVDZBHHSEODE2Q/ref=cm_cr_arp_d_gw_btm?ie=UTF8)
+#####  _4.0 out of 5 stars_ Good laptop ⟨121⟩
+Reviewed in India on 15 May 2025
+Verified Purchase⟨99⟩
+Satisfied with everything sound and camera quality are also good expecting same after using long time a very good laptop for students and video editing
 Helpful
 Sending feedback...
 __
 Thank you for your feedback.
 __
 Sorry, we failed to record your vote. Please try again
-__Report⟨121⟩
-Showing 0 comments
-#### There was a problem loading comments right now. Please try again later.
-__
-* * *
-  * ![⟨107⟩![](https://images-eu.ssl-images-amazon.com/images/S/amazon-avatars-global/default._CR0,0,1024,1024_SX48_.png)C.sai kiran](/gp/profile/amzn1.account.AGHT73RXFY6T6USWNJZTKIJ5QAYQ/ref=cm_cr_arp_d_gw_btm?ie=UTF8)
-#####  _4.0 out of 5 stars_ Setup problem -- solved 😀 ⟨122⟩
-Reviewed in India on 27 June 2025
-Colour: Office 2024_Blue⟨103⟩ __Verified Purchase⟨100⟩
-When I bought the laptop I have got an issue at the setup I have resolved it I will explain the process step by step  
-1. While switching on the laptop just hold F2 key for 15sec.  
-2. Just a window appears and in that at the top right corner you will find a wifi please do connect a strong wifi connection.  
-3. Just press F10 or you can see the option on screen at the left down to save it.  
-4. Final step just switch on the laptop and setup.  
-Before these I have also got tarck pad issue but it got resolved after these issue
-7 people found this helpful
-Helpful
-Sending feedback...
-__
-Thank you for your feedback.
-__
-Sorry, we failed to record your vote. Please try again
-__Report⟨123⟩
+__Report⟨122⟩
 Showing 0 comments
 #### There was a problem loading comments right now. Please try again later.
 __
@@ -485,89 +482,89 @@ __
 
 
   * ←Previous page
-  * Next page→⟨124⟩
+  * Next page→⟨123⟩
 
 
 Sponsored ****
-Need customer service? ⟨125⟩
-‹ See all details for ASUS Vivobook 15,13th Gen,Intel Core i5-13420H(Intel UHD iGPU/16GB...⟨126⟩
+Need customer service? ⟨124⟩
+‹ See all details for ASUS Vivobook 16X 12th Gen, Intel Core i5-12500H Creator/Gaming...⟨125⟩
   
 
 ![](https://m.media-amazon.com/images/G/31/personalization/ybh/loading-4x-gray._CB485916689_.gif)  
 ---  
 Your recently viewed items and featured recommendations 
 ›
- View or edit your browsing history ⟨127⟩
+ View or edit your browsing history ⟨126⟩
 After viewing product detail pages, look here to find an easy way to navigate back to pages you are interested in. 
 Your recently viewed items and featured recommendations 
 › 
- View or edit your browsing history ⟨127⟩
+ View or edit your browsing history ⟨126⟩
 After viewing product detail pages, look here to find an easy way to navigate back to pages you are interested in. 
   
 
 Back to top 
 Get to Know Us
-  * About Amazon⟨128⟩
-  * Careers⟨129⟩
-  * Press Releases⟨130⟩
-  * Amazon Science⟨131⟩
+  * About Amazon⟨127⟩
+  * Careers⟨128⟩
+  * Press Releases⟨129⟩
+  * Amazon Science⟨130⟩
 
 
 Connect with Us
-  * Facebook⟨132⟩
-  * Twitter⟨133⟩
-  * Instagram⟨134⟩
+  * Facebook⟨131⟩
+  * Twitter⟨132⟩
+  * Instagram⟨133⟩
 
 
 Make Money with Us
-  * Sell on Amazon⟨135⟩
-  * Sell under Amazon Accelerator⟨136⟩
-  * Protect and Build Your Brand⟨137⟩
-  * Amazon Global Selling⟨138⟩
-  * Supply to Amazon⟨139⟩
-  * Become an Affiliate⟨140⟩
-  * Fulfilment by Amazon⟨141⟩
-  * Advertise Your Products⟨142⟩
-  * Amazon Pay on Merchants⟨143⟩
+  * Sell on Amazon⟨134⟩
+  * Sell under Amazon Accelerator⟨135⟩
+  * Protect and Build Your Brand⟨136⟩
+  * Amazon Global Selling⟨137⟩
+  * Supply to Amazon⟨138⟩
+  * Become an Affiliate⟨139⟩
+  * Fulfilment by Amazon⟨140⟩
+  * Advertise Your Products⟨141⟩
+  * Amazon Pay on Merchants⟨142⟩
 
 
 Let Us Help You
-  * Your Account⟨144⟩
-  * Returns Centre⟨145⟩
-  * Recalls and Product Safety Alerts⟨146⟩
-  * 100% Purchase Protection⟨147⟩
-  * Amazon App Download⟨148⟩
-  * Help⟨149⟩
+  * Your Account⟨143⟩
+  * Returns Centre⟨144⟩
+  * Recalls and Product Safety Alerts⟨145⟩
+  * 100% Purchase Protection⟨146⟩
+  * Amazon App Download⟨147⟩
+  * Help⟨148⟩
 
 
- ⟨150⟩
- English ⟨151⟩
- India ⟨152⟩
+ ⟨149⟩
+ English ⟨150⟩
+ India ⟨151⟩
   * ##### AbeBooksBooks, art  
-& collectibles⟨153⟩
+& collectibles⟨152⟩
   *   * ##### Amazon Web ServicesScalable Cloud  
-Computing Services⟨154⟩
+Computing Services⟨153⟩
   *   * ##### AudibleDownload  
-Audio Books⟨155⟩
+Audio Books⟨154⟩
   *   * ##### IMDbMovies, TV  
-& Celebrities⟨156⟩
+& Celebrities⟨155⟩
   *   * ##### ShopbopDesigner  
-Fashion Brands⟨157⟩
+Fashion Brands⟨156⟩
 
 
   * #####  Amazon BusinessEverything For  
-Your Business⟨158⟩
+Your Business⟨157⟩
   *   * ##### Prime Now 2-Hour Delivery  
-on Everyday Items⟨159⟩
+on Everyday Items⟨158⟩
   *   * ##### Amazon Prime Music100 million songs, ad-free  
-Over 15 million podcast episodes ⟨160⟩
-  *   * ##### Amazon LiveStream. Shop. Live⟨161⟩
+Over 15 million podcast episodes ⟨159⟩
+  *   * ##### Amazon LiveStream. Shop. Live⟨160⟩
   *   *  
 
 
-  * Conditions of Use & Sale⟨162⟩
-  * Privacy Notice⟨163⟩
-  * Interest-Based Ads⟨164⟩
+  * Conditions of Use & Sale⟨161⟩
+  * Privacy Notice⟨162⟩
+  * Interest-Based Ads⟨163⟩
 
 © 1996-2025, Amazon.com, Inc. or its affiliates
-![](//fls-eu.amazon.in/1/batch/1/OP/A21TJRUUN4KGV:260-9589215-8162446:05ZN2E3T4D9H58YN59M0$uedata=s:%2Frd%2Fuedata%3Fnoscript%26id%3D05ZN2E3T4D9H58YN59M0:0)
+![](//fls-eu.amazon.in/1/batch/1/OP/A21TJRUUN4KGV:260-2394662-2709061:J944A0CA7FBC165RS923$uedata=s:%2Frd%2Fuedata%3Fnoscript%26id%3DJ944A0CA7FBC165RS923:0)

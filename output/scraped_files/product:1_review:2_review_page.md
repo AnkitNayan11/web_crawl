@@ -64,26 +64,26 @@ Your Account
   * Today's Deals⟨38⟩
   * Gift Ideas ⟨39⟩
   * Home Improvement⟨40⟩
-  * Health, Household & Personal Care⟨41⟩
-  * Bestsellers⟨42⟩
-  * Browsing History⟨43⟩
+  * Browsing History⟨41⟩
+  * Health, Household & Personal Care⟨42⟩
+  * Bestsellers⟨43⟩
   * Ankit's Amazon.in⟨44⟩
   * Customer Service⟨45⟩
   * Subscribe & Save⟨46⟩
-  * New Releases⟨47⟩
-  * Home & Kitchen⟨48⟩
+  * Home & Kitchen⟨47⟩
+  * New Releases⟨48⟩
   * Grocery & Gourmet Foods⟨49⟩
   * Prime ⟨50⟩
   * Toys & Games⟨51⟩
-  * Audible⟨52⟩
-  * Fashion⟨53⟩
+  * Fashion⟨52⟩
+  *  Electronics ⟨53⟩
   * Mobiles⟨54⟩
-  *  Electronics ⟨55⟩
-  * Computers⟨56⟩
+  * Computers⟨55⟩
+  * Beauty & Personal Care⟨56⟩
   * Pet Supplies⟨57⟩
-  * Beauty & Personal Care⟨58⟩
-  * Baby⟨59⟩
-  * Car & Motorbike⟨60⟩
+  * Baby⟨58⟩
+  * Car & Motorbike⟨59⟩
+  * Sports, Fitness & Outdoors⟨60⟩
 
 
 ![Amazon⟨61⟩]
@@ -95,9 +95,9 @@ Your Account
 ##  ₹0.00 
 ![Amazon Fresh⟨62⟩]
 6 items 
-##  ₹157.00 
+##  ₹158.00 
  Go to Cart ⟨63⟩
-Add items worth ₹342.00 for FREE delivery 
+Add items worth ₹341.00 for FREE delivery 
  Go to Cart ⟨64⟩
   *  ![Fresh Tomato Hybrid, 1kg⟨65⟩ ](/gp/product/B07BG7LB3Q/ref=ewc_pr_img_1?smid=A14ZXHJG8U9TGB&almBrandId=ctnow&psc=1&fpw=alm)
 ₹36.00 
@@ -124,7 +124,7 @@ Total Price: ₹36.00
 __Add to Cart
 ![Delete⟨70⟩]
   *  ![Fresh Cucumber, 500g⟨71⟩ ](/gp/product/B07BG7B7WB/ref=ewc_pr_img_2?smid=A14ZXHJG8U9TGB&almBrandId=ctnow&psc=1&fpw=alm)
-₹24.00 
+₹32.00 
  Fresh Cucumber, 500g ⟨72⟩ was removed from Shopping Cart. 
  Fresh Cucumber, 500g ⟨72⟩ was already removed from Shopping Cart. 
  ⟨67⟩
@@ -142,13 +142,13 @@ __1 Qty:
 Update  
 Qty:1change⟨69⟩)
 Total Price: $000.00
-Total Price: ₹24.00
+Total Price: ₹32.00
   
 
 __Add to Cart
 ![Delete⟨70⟩]
   *  ![Fresh Bhendi \(Lady Finger\), 500g⟨74⟩ ](/gp/product/B07BG7D7HF/ref=ewc_pr_img_3?smid=A14ZXHJG8U9TGB&almBrandId=ctnow&psc=1&fpw=alm)
-₹28.00 
+₹24.00 
  Fresh Bhendi (Lady Finger), 500g ⟨75⟩ was removed from Shopping Cart. 
  Fresh Bhendi (Lady Finger), 500g ⟨75⟩ was already removed from Shopping Cart. 
  ⟨67⟩
@@ -166,7 +166,7 @@ __1 Qty:
 Update  
 Qty:1change⟨69⟩)
 Total Price: $000.00
-Total Price: ₹28.00
+Total Price: ₹24.00
   
 
 __Add to Cart
@@ -196,7 +196,7 @@ Total Price: ₹9.00
 __Add to Cart
 ![Delete⟨70⟩]
   *  ![Fresh Potato, 1kg⟨80⟩ ](/gp/product/B07BG5GZP2/ref=ewc_pr_img_5?smid=A14ZXHJG8U9TGB&almBrandId=ctnow&psc=1&fpw=alm)
-₹33.00 
+₹30.00 
  Fresh Potato, 1kg ⟨81⟩ was removed from Shopping Cart. 
  Fresh Potato, 1kg ⟨81⟩ was already removed from Shopping Cart. 
  ⟨67⟩
@@ -214,7 +214,7 @@ __1 Qty:
 Update  
 Qty:1change⟨69⟩)
 Total Price: $000.00
-Total Price: ₹33.00
+Total Price: ₹30.00
   
 
 __Add to Cart
@@ -254,12 +254,12 @@ __Add to Cart
 ## Customer reviews
  _3.8 out of 5 stars_
 3.8 out of 5
-380 global ratings
-  *  5 star  4 star  3 star  2 star  1 star  5 star  48%  26%  8%  2%  16%  48%  ⟨87⟩
-  *  5 star  4 star  3 star  2 star  1 star  4 star  48%  26%  8%  2%  16%  26%  ⟨88⟩
-  *  5 star  4 star  3 star  2 star  1 star  3 star  48%  26%  8%  2%  16%  8%  ⟨89⟩
-  *  5 star  4 star  3 star  2 star  1 star  2 star  48%  26%  8%  2%  16%  2%  ⟨90⟩
-  *  5 star  4 star  3 star  2 star  1 star  1 star  48%  26%  8%  2%  16%  16%  ⟨91⟩
+381 global ratings
+  *  5 star  4 star  3 star  2 star  1 star  5 star  47%  27%  8%  2%  16%  47%  ⟨87⟩
+  *  5 star  4 star  3 star  2 star  1 star  4 star  47%  27%  8%  2%  16%  27%  ⟨88⟩
+  *  5 star  4 star  3 star  2 star  1 star  3 star  47%  27%  8%  2%  16%  8%  ⟨89⟩
+  *  5 star  4 star  3 star  2 star  1 star  2 star  47%  27%  8%  2%  16%  2%  ⟨90⟩
+  *  5 star  4 star  3 star  2 star  1 star  1 star  47%  27%  8%  2%  16%  16%  ⟨91⟩
 
 
 ![ASUS TUF Gaming A15, AMD Ryzen 7 7435HS Gaming Laptop\(NVIDIA RTX 3050-4GB/60W TGP/16GB RAM/512GB SSD/FHD/15.6&#34;/144Hz/RGB KB/48WHr/Windows 11//Graphite Black/2.30 Kg\) FA506NCR-HN054W⟨92⟩](/ASUS-15-6-inch-GeForce-Graphite-FA506NCR-HN054W/dp/B0D5DFR78J/ref=cm_cr_arp_d_pdt_img_top?ie=UTF8)
@@ -431,7 +431,7 @@ Screen flick while plug in and out charging that's annoying and warranty start f
 ######  Images in this review 
 ![Customer image 1⟨117⟩]
 ![Customer image⟨117⟩__](javascript:void\(0\))
-3 people found this helpful
+4 people found this helpful
 Helpful
 Sending feedback...
 __
@@ -583,4 +583,4 @@ Over 15 million podcast episodes ⟨163⟩
   * Interest-Based Ads⟨167⟩
 
 © 1996-2025, Amazon.com, Inc. or its affiliates
-![](//fls-eu.amazon.in/1/batch/1/OP/A21TJRUUN4KGV:260-9589215-8162446:BMFK38X5M2JV64ZMZN40$uedata=s:%2Frd%2Fuedata%3Fnoscript%26id%3DBMFK38X5M2JV64ZMZN40:0)
+![](//fls-eu.amazon.in/1/batch/1/OP/A21TJRUUN4KGV:260-2394662-2709061:JQXEEDMD0797W1ER4RJQ$uedata=s:%2Frd%2Fuedata%3Fnoscript%26id%3DJQXEEDMD0797W1ER4RJQ:0)
